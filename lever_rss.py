@@ -14,6 +14,15 @@ def main():
     #   3) Cleaned up the names and got the unique company IDs
     names = ["lever", "stackadapt", "koho", "taplytics", "homestars", "cohere", "atlassian", "invisible", "canva", "Medchart", "lever", "palantir", "wealthsimple", "benchsci", "gojek", "paytm", "yelp", "theathletic", "lime", "sfcg", "geotab", "waveapps", "nielsen", "newton", "arcteryx", "Polygon", "dave", "modsquad"]
 
+    for name in names:
+        with open(f"postings/{name}.xml", "w") as fp:
+            url = url_template.format(name)
+            c = r.get(url).content.decode("utf-8")
+
+            fp.write(c)
+
+        break
+
 
 if __name__ == "__main__":
     main()
