@@ -1,0 +1,570 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Lever Job Postings</title><link>https://api.lever.co/v0/postings/lever?mode=json</link><description>Job postings for Lever from lever.co</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 10 Sep 2022 18:13:36 +0000</lastBuildDate><item><title>Senior Full-Stack Software Engineer, Analytics</title><link>https://jobs.lever.co/lever/cb07d7c0-2474-4a45-91d8-80b3ffead545</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further. 
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021. 
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/. 
+
+THE CHALLENGE 
+Lever Talent Intelligence, Lever’s advanced analytics application, is built on top of Tableau Server. Our next generation of reporting features is built on the Looker platform. We are in the process of translating and improving on what we have in Tableau into Looker to enable a smooth transition for customers. At the end of this process, we will sunset our Tableau Server and consolidate our analytics features into Looker. 
+
+This is where you come in. You will help evolve Lever’s analytics features to help Lever’s customers recruit more efficiently and more predictably. This position will focus on our Looker integration while helping maintain our Tableau Server integration. 
+
+THE OPPORTUNITY
+As an engineer on the Analytics team, you will be able to help build the next generation of talent analytics at Lever. You will have the chance to work directly with experienced data analysts and reporting ETL engineers to provide a best-in-class analytics solution. Lever wants to set the analytics standard for recruiting, you help us establish that standard. 
+
+As part of your daily work, you will have the opportunity to build expertise in multiple Business Intelligence tools. You will be able to exercise and strengthen your automation and efficiency skills. You will learn about state of the art data infrastructure like Kafka and Snowflake. You will be on the team building the best-in-class talent analytics suite. 
+
+THE TEAM
+Lever’s reporting engineering team combines ETL engineers, data analysts, designers, and product managers to build, define, and design analytics products for customers. You will join the team as a software engineer building and maintaining advanced analytics products for Lever’s customers. 
+
+You will collaborate closely with the ETL engineers to build software that makes our Business Intelligence tools more efficient. You will work closely with the Data Analysts and Talent Analytics Consultants who build dashboards and other data related content for customers. You will consult and help guide a product and design team that strives to build features to connect human potential to meaningful work.
+</description><pubDate>Wed, 15 Jun 2022 17:33:08 +0000</pubDate></item><item><title>Senior Full-Stack Software Engineer, Analytics</title><link>https://jobs.lever.co/lever/6a7b32ff-63d8-4f90-abf0-02180647fb35</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further. 
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021. 
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/. 
+
+THE CHALLENGE 
+Lever Talent Intelligence, Lever’s advanced analytics application, is built on top of Tableau Server. Our next generation of reporting features is built on the Looker platform. We are in the process of translating and improving on what we have in Tableau into Looker to enable a smooth transition for customers. At the end of this process, we will sunset our Tableau Server and consolidate our analytics features into Looker. 
+
+This is where you come in. You will help evolve Lever’s analytics features to help Lever’s customers recruit more efficiently and more predictably. This position will focus on our Looker integration while helping maintain our Tableau Server integration. 
+
+THE OPPORTUNITY
+As an engineer on the Analytics team, you will be able to help build the next generation of talent analytics at Lever. You will have the chance to work directly with experienced data analysts and reporting ETL engineers to provide a best-in-class analytics solution. Lever wants to set the analytics standard for recruiting, you help us establish that standard. 
+
+As part of your daily work, you will have the opportunity to build expertise in multiple Business Intelligence tools. You will be able to exercise and strengthen your automation and efficiency skills. You will learn about state of the art data infrastructure like Kafka and Snowflake. You will be on the team building the best-in-class talent analytics suite. 
+
+THE TEAM
+Lever’s reporting engineering team combines ETL engineers, data analysts, designers, and product managers to build, define, and design analytics products for customers. You will join the team as a software engineer building and maintaining advanced analytics products for Lever’s customers. 
+
+You will collaborate closely with the ETL engineers to build software that makes our Business Intelligence tools more efficient. You will work closely with the Data Analysts and Talent Analytics Consultants who build dashboards and other data related content for customers. You will consult and help guide a product and design team that strives to build features to connect human potential to meaningful work.
+</description><pubDate>Wed, 15 Jun 2022 17:32:10 +0000</pubDate></item><item><title>Senior Full-Stack Software Engineer, Analytics</title><link>https://jobs.lever.co/lever/4d1bb825-358f-4eec-929c-008e40300807</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further. 
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021. 
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/. 
+
+THE CHALLENGE 
+Lever Talent Intelligence, Lever’s advanced analytics application, is built on top of Tableau Server. Our next generation of reporting features is built on the Looker platform. We are in the process of translating and improving on what we have in Tableau into Looker to enable a smooth transition for customers. At the end of this process, we will sunset our Tableau Server and consolidate our analytics features into Looker. 
+
+This is where you come in. You will help evolve Lever’s analytics features to help Lever’s customers recruit more efficiently and more predictably. This position will focus on our Looker integration while helping maintain our Tableau Server integration. 
+
+THE OPPORTUNITY
+As an engineer on the Analytics team, you will be able to help build the next generation of talent analytics at Lever. You will have the chance to work directly with experienced data analysts and reporting ETL engineers to provide a best-in-class analytics solution. Lever wants to set the analytics standard for recruiting, you help us establish that standard. 
+
+As part of your daily work, you will have the opportunity to build expertise in multiple Business Intelligence tools. You will be able to exercise and strengthen your automation and efficiency skills. You will learn about state of the art data infrastructure like Kafka and Snowflake. You will be on the team building the best-in-class talent analytics suite. 
+
+THE TEAM
+Lever’s reporting engineering team combines ETL engineers, data analysts, designers, and product managers to build, define, and design analytics products for customers. You will join the team as a software engineer building and maintaining advanced analytics products for Lever’s customers. 
+
+You will collaborate closely with the ETL engineers to build software that makes our Business Intelligence tools more efficient. You will work closely with the Data Analysts and Talent Analytics Consultants who build dashboards and other data related content for customers. You will consult and help guide a product and design team that strives to build features to connect human potential to meaningful work.
+</description><pubDate>Wed, 15 Jun 2022 17:31:30 +0000</pubDate></item><item><title>Senior Full-Stack Software Engineer, Analytics</title><link>https://jobs.lever.co/lever/08d92b00-0c10-4983-b10a-958954939f22</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further. 
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021. 
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/. 
+
+THE CHALLENGE 
+Lever Talent Intelligence, Lever’s advanced analytics application, is built on top of Tableau Server. Our next generation of reporting features is built on the Looker platform. We are in the process of translating and improving on what we have in Tableau into Looker to enable a smooth transition for customers. At the end of this process, we will sunset our Tableau Server and consolidate our analytics features into Looker. 
+
+This is where you come in. You will help evolve Lever’s analytics features to help Lever’s customers recruit more efficiently and more predictably. This position will focus on our Looker integration while helping maintain our Tableau Server integration. 
+
+THE OPPORTUNITY
+As an engineer on the Analytics team, you will be able to help build the next generation of talent analytics at Lever. You will have the chance to work directly with experienced data analysts and reporting ETL engineers to provide a best-in-class analytics solution. Lever wants to set the analytics standard for recruiting, you help us establish that standard. 
+
+As part of your daily work, you will have the opportunity to build expertise in multiple Business Intelligence tools. You will be able to exercise and strengthen your automation and efficiency skills. You will learn about state of the art data infrastructure like Kafka and Snowflake. You will be on the team building the best-in-class talent analytics suite. 
+
+THE TEAM
+Lever’s reporting engineering team combines ETL engineers, data analysts, designers, and product managers to build, define, and design analytics products for customers. You will join the team as a software engineer building and maintaining advanced analytics products for Lever’s customers. 
+
+You will collaborate closely with the ETL engineers to build software that makes our Business Intelligence tools more efficient. You will work closely with the Data Analysts and Talent Analytics Consultants who build dashboards and other data related content for customers. You will consult and help guide a product and design team that strives to build features to connect human potential to meaningful work.
+</description><pubDate>Wed, 15 Jun 2022 17:32:49 +0000</pubDate></item><item><title>Senior Full-Stack Software Engineer</title><link>https://jobs.lever.co/lever/7d57c883-83cf-4515-a7e1-81242f113159</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE OPPORTUNITY
+As an Engineer on our Product team, you’ll help us build out our core product by developing high-impact, user-facing features. In our growing engineering organization, you’ll be developing and shipping new features and updates to Lever’s product. You’ll be learning about our real-time web stack UI frameworks that help us deliver a beautiful and high quality solution to our customers. In addition, working on API's and integrations to support our partners. You’ll work collaboratively with product managers and designers to drive the implementation and release of major features, and be a champion of best practices for writing well-tested, well-organized code.
+
+You’ll become familiar with all parts of our stack—including our open source web framework, DerbyJS. You will exercise judgment in making tradeoffs between design and feasibility. You’ll engineer extension points to be scalable and resilient in a complex, single-page application.
+
+We believe that user-centric design ultimately leads to the best products, so we listen closely to our users, both external and internal. As an engineer on our close-knit, cross-functional team, you’ll be an active voice in shaping our product. Lever is constantly rolling out high-demand features and tackling ever greater challenges of scale. 
+
+THE TEAM
+You’ll join a team where everyone—including you—is striving to constantly improve their knowledge of infrastructure, systems, and cares about minimizing downtime. We are an incredibly supportive team–we love to pitch in when problems arise and give great peer feedback to help each other grow. We are passionate about lots of things--automation, friendly chat bots, creating a great hiring experience, and a great user experience--and we love sharing those passions with each other.
+
+Read about what our team values and why here. 
+
+THE TECH STACK
+Lever uses our own open source MVC framework called Derby that syncs all data via Operational Transformation (the algorithm behind Google Docs). OT is the way we handle concurrency conflicts for any piece of data that is edited at the same time. In addition to real-time sync, OT allows us to provide a smoother UI since we can render updates on the client instantly without waiting for our backend to respond, while still guaranteeing consistency.
+
+Lever makes extensive use of AWS, Docker, Node, TypeScript, Mongo, ElasticSearch, and Redis within our infrastructure. We use tools like Hubot to streamline deployments and Grafana to see what’s going on under the hood. In addition to automating all the things, we love to version them too! Our systems are all created using Terraform and Chef, working together to ensure consistency at all costs.
+
+Read more about The Lever Tech Stack from our Software Engineer, Eric Hwang.
+
+Learn more about Lever’s interview process and read about what our engineering has been up to on our engineering team blog.
+</description><pubDate>Tue, 08 Feb 2022 23:29:37 +0000</pubDate></item><item><title>Senior Full-Stack Software Engineer</title><link>https://jobs.lever.co/lever/4c7b757f-bccd-422e-a3c3-9d9cf2285ba0</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE OPPORTUNITY
+As an Engineer on our Product team, you’ll help us build out our core product by developing high-impact, user-facing features. In our growing engineering organization, you’ll be developing and shipping new features and updates to Lever’s product. You’ll be learning about our real-time web stack UI frameworks that help us deliver a beautiful and high quality solution to our customers. In addition, working on API's and integrations to support our partners. You’ll work collaboratively with product managers and designers to drive the implementation and release of major features, and be a champion of best practices for writing well-tested, well-organized code.
+
+You’ll become familiar with all parts of our stack—including our open source web framework, DerbyJS. You will exercise judgment in making tradeoffs between design and feasibility. You’ll engineer extension points to be scalable and resilient in a complex, single-page application.
+
+We believe that user-centric design ultimately leads to the best products, so we listen closely to our users, both external and internal. As an engineer on our close-knit, cross-functional team, you’ll be an active voice in shaping our product. Lever is constantly rolling out high-demand features and tackling ever greater challenges of scale. 
+
+THE TEAM
+You’ll join a team where everyone—including you—is striving to constantly improve their knowledge of infrastructure, systems, and cares about minimizing downtime. We are an incredibly supportive team–we love to pitch in when problems arise and give great peer feedback to help each other grow. We are passionate about lots of things--automation, friendly chat bots, creating a great hiring experience, and a great user experience--and we love sharing those passions with each other.
+
+Read about what our team values and why here. 
+
+THE TECH STACK
+Lever uses our own open source MVC framework called Derby that syncs all data via Operational Transformation (the algorithm behind Google Docs). OT is the way we handle concurrency conflicts for any piece of data that is edited at the same time. In addition to real-time sync, OT allows us to provide a smoother UI since we can render updates on the client instantly without waiting for our backend to respond, while still guaranteeing consistency.
+
+Lever makes extensive use of AWS, Docker, Node, TypeScript, Mongo, ElasticSearch, and Redis within our infrastructure. We use tools like Hubot to streamline deployments and Grafana to see what’s going on under the hood. In addition to automating all the things, we love to version them too! Our systems are all created using Terraform and Chef, working together to ensure consistency at all costs.
+
+Read more about The Lever Tech Stack from our Software Engineer, Eric Hwang.
+
+Learn more about Lever’s interview process and read about what our engineering has been up to on our engineering team blog.
+</description><pubDate>Tue, 08 Feb 2022 23:30:33 +0000</pubDate></item><item><title>Senior Full-Stack Software Engineer</title><link>https://jobs.lever.co/lever/39a2f1b5-1dc5-40b7-9250-0b142534cdec</link><description>A BIT ABOUT US
+Lever was founded ten years ago to tackle the most strategic challenge that companies face: how to recruit and hire top talent. We’re building the next generation of hiring software that companies can rely on to grow their teams. We've rethought the talent acquisition paradigm and are the innovation leaders in our space and looking for the right people to join us as we scale. 
+
+We’re extraordinarily proud of the company we’ve built so far and are thrilled for our plans to come after our last round of funding of $50 million in November 2021. Together, our company has been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage and we’ll continue investing in our “Leveroos” and people-first culture.     
+
+THE OPPORTUNITY
+As an Engineer on our Product team, you’ll help us build out our core product by developing high-impact, user-facing features. In our growing engineering organization, you’ll be developing and shipping new features and updates to Lever’s product. You’ll be learning about our real-time web stack UI frameworks that help us deliver a beautiful and high quality solution to our customers. In addition, working on API's and integrations to support our partners. You’ll work collaboratively with product managers and designers to drive the implementation and release of major features, and be a champion of best practices for writing well-tested, well-organized code.
+
+You’ll become familiar with all parts of our stack—including our open source web framework, DerbyJS. You will exercise judgment in making tradeoffs between design and feasibility. You’ll engineer extension points to be scalable and resilient in a complex, single-page application.
+
+We believe that user-centric design ultimately leads to the best products, so we listen closely to our users, both external and internal. As an engineer on our close-knit, cross-functional team, you’ll be an active voice in shaping our product. Lever is constantly rolling out high-demand features and tackling ever greater challenges of scale. 
+
+THE TEAM
+You’ll join a team where everyone—including you—is striving to constantly improve their knowledge of infrastructure, systems, and cares about minimizing downtime. We are an incredibly supportive team–we love to pitch in when problems arise and give great peer feedback to help each other grow. We are passionate about lots of things--automation, friendly chat bots, creating a great hiring experience, and a great user experience--and we love sharing those passions with each other.
+
+Read about what our team values and why here. 
+
+THE TECH STACK
+Lever uses our own open source MVC framework called Derby that syncs all data via Operational Transformation (the algorithm behind Google Docs). OT is the way we handle concurrency conflicts for any piece of data that is edited at the same time. In addition to real-time sync, OT allows us to provide a smoother UI since we can render updates on the client instantly without waiting for our backend to respond, while still guaranteeing consistency.
+
+Lever makes extensive use of AWS, Docker, Node, TypeScript, Mongo, ElasticSearch, and Redis within our infrastructure. We use tools like Hubot to streamline deployments and Grafana to see what’s going on under the hood. In addition to automating all the things, we love to version them too! Our systems are all created using Terraform and Chef, working together to ensure consistency at all costs.
+
+Read more about The Lever Tech Stack from our Software Engineer, Eric Hwang.
+
+Learn more about Lever’s interview process and read about what our engineering has been up to on our engineering team blog.
+</description><pubDate>Tue, 08 Feb 2022 23:30:15 +0000</pubDate></item><item><title>Senior Full-Stack Software Engineer</title><link>https://jobs.lever.co/lever/0c7cf459-f9a1-4a90-8c86-35513d86d902</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE OPPORTUNITY
+As an Engineer on our Product team, you’ll help us build out our core product by developing high-impact, user-facing features. In our growing engineering organization, you’ll be developing and shipping new features and updates to Lever’s product. You’ll be learning about our real-time web stack UI frameworks that help us deliver a beautiful and high quality solution to our customers. In addition, working on API's and integrations to support our partners. You’ll work collaboratively with product managers and designers to drive the implementation and release of major features, and be a champion of best practices for writing well-tested, well-organized code.
+
+You’ll become familiar with all parts of our stack—including our open source web framework, DerbyJS. You will exercise judgment in making tradeoffs between design and feasibility. You’ll engineer extension points to be scalable and resilient in a complex, single-page application.
+
+We believe that user-centric design ultimately leads to the best products, so we listen closely to our users, both external and internal. As an engineer on our close-knit, cross-functional team, you’ll be an active voice in shaping our product. Lever is constantly rolling out high-demand features and tackling ever greater challenges of scale. 
+
+THE TEAM
+You’ll join a team where everyone—including you—is striving to constantly improve their knowledge of infrastructure, systems, and cares about minimizing downtime. We are an incredibly supportive team–we love to pitch in when problems arise and give great peer feedback to help each other grow. We are passionate about lots of things--automation, friendly chat bots, creating a great hiring experience, and a great user experience--and we love sharing those passions with each other.
+
+Read about what our team values and why here. 
+
+THE TECH STACK
+Lever uses our own open source MVC framework called Derby that syncs all data via Operational Transformation (the algorithm behind Google Docs). OT is the way we handle concurrency conflicts for any piece of data that is edited at the same time. In addition to real-time sync, OT allows us to provide a smoother UI since we can render updates on the client instantly without waiting for our backend to respond, while still guaranteeing consistency.
+
+Lever makes extensive use of AWS, Docker, Node, TypeScript, Mongo, ElasticSearch, and Redis within our infrastructure. We use tools like Hubot to streamline deployments and Grafana to see what’s going on under the hood. In addition to automating all the things, we love to version them too! Our systems are all created using Terraform and Chef, working together to ensure consistency at all costs.
+
+Read more about The Lever Tech Stack from our Software Engineer, Eric Hwang.
+
+Learn more about Lever’s interview process and read about what our engineering has been up to on our engineering team blog.
+</description><pubDate>Wed, 10 Feb 2021 02:18:20 +0000</pubDate></item><item><title>Senior Full-Stack Software Engineer</title><link>https://jobs.lever.co/lever/00576410-b918-4146-93af-1cfaf7eb2403</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE OPPORTUNITY
+As an Engineer on our Product team, you’ll help us build out our core product by developing high-impact, user-facing features. In our growing engineering organization, you’ll be developing and shipping new features and updates to Lever’s product. You’ll be learning about our real-time web stack UI frameworks that help us deliver a beautiful and high quality solution to our customers. In addition, working on API's and integrations to support our partners. You’ll work collaboratively with product managers and designers to drive the implementation and release of major features, and be a champion of best practices for writing well-tested, well-organized code.
+
+You’ll become familiar with all parts of our stack—including our open source web framework, DerbyJS. You will exercise judgment in making tradeoffs between design and feasibility. You’ll engineer extension points to be scalable and resilient in a complex, single-page application.
+
+We believe that user-centric design ultimately leads to the best products, so we listen closely to our users, both external and internal. As an engineer on our close-knit, cross-functional team, you’ll be an active voice in shaping our product. Lever is constantly rolling out high-demand features and tackling ever greater challenges of scale. 
+
+THE TEAM
+You’ll join a team where everyone—including you—is striving to constantly improve their knowledge of infrastructure, systems, and cares about minimizing downtime. We are an incredibly supportive team–we love to pitch in when problems arise and give great peer feedback to help each other grow. We are passionate about lots of things--automation, friendly chat bots, creating a great hiring experience, and a great user experience--and we love sharing those passions with each other.
+
+Read about what our team values and why here. 
+
+THE TECH STACK
+Lever uses our own open source MVC framework called Derby that syncs all data via Operational Transformation (the algorithm behind Google Docs). OT is the way we handle concurrency conflicts for any piece of data that is edited at the same time. In addition to real-time sync, OT allows us to provide a smoother UI since we can render updates on the client instantly without waiting for our backend to respond, while still guaranteeing consistency.
+
+Lever makes extensive use of AWS, Docker, Node, TypeScript, Mongo, ElasticSearch, and Redis within our infrastructure. We use tools like Hubot to streamline deployments and Grafana to see what’s going on under the hood. In addition to automating all the things, we love to version them too! Our systems are all created using Terraform and Chef, working together to ensure consistency at all costs.
+
+Read more about The Lever Tech Stack from our Software Engineer, Eric Hwang.
+
+Learn more about Lever’s interview process and read about what our engineering has been up to on our engineering team blog.
+</description><pubDate>Tue, 08 Feb 2022 23:30:59 +0000</pubDate></item><item><title>Product Manager</title><link>https://jobs.lever.co/lever/3efe71df-c507-419b-ac4b-02a5531f107b</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+We are looking for an experienced Product Manager to join the team and collaborate to innovate around our Talent Acquisition solution.  The successful candidate will help us drive our core roadmap and collaborate with customers to deliver value in areas such as candidate relationship management.  The role will partner with Design and Engineering to continue driving innovation for our customers.
+
+THE OPPORTUNITY
+As a PM, you will have the ability to deliver meaningful customer value in a SaaS environment, while you hone your continuous discovery skills, and collaborate with a team of committed product experts.  You will contribute to a broader strategy and roadmap discussion based on your unique understanding of our market and customers, and gain experience across the entire product lifecycle, from idea to launch. 
+
+THE TEAM
+In the Product Manager role you will report to the Head of Product, and work collaboratively with a distributed team of product management and design experts who execute on our product strategy through roadmap.  You will also have the opportunity for cross functional collaboration across our entire company - Engineering, Services, Support, Customer Success, Sales and Marketing.
+</description><pubDate>Mon, 20 Jun 2022 18:42:24 +0000</pubDate></item><item><title>Product Designer</title><link>https://jobs.lever.co/lever/89d1c98a-e5dc-40fa-bb8c-ad7f6f7a5d3e</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE 
+Design is one of Lever’s core competencies. As a Product Designer on the team, you will contribute to an elegant, seamless, and empowering user experience for the hiring teams who rely on Lever every day. We believe well-designed user experiences in the workplace are key to displacing stale and broken status-quo software. Built from the ground up with user-centered design methodology and principles, Lever is the only hiring software that is mobilizing entire companies to effortlessly collaborate on hiring. 
+
+As a Product Designer, you’ll use your expertise to take on design challenges across multiple stages of our design and delivery process. Understanding our users is core to how we work, through UX research, testing (and re-testing!) design concepts, and ongoing feedback from customers. We’re looking for a designer with a strong track record of designing high-quality digital solutions, with an eye to both the user experience and visual design; someone who takes a collaborative approach to solving problems, partnering with teams across Lever to deliver delightful, easy-to-use experiences to our users.
+
+THE OPPORTUNITY
+We’re building a world-class, product-first organization and assembling the right team to begin scaling aggressively. This is an opportunity for someone who wants to be part of something impactful and transformative, and will play a critical role in driving Lever’s success. This is also the perfect fit for someone who is keen to take on design projects that range from iterative feature improvements, all the way through to exploring new, innovative functionality.
+
+THE TEAM
+Our Design team is a small (but mighty!) group of generalists with a broad set of skills and experiences, who are continuously learning from each other. Our team is exceptionally collaborative, thoughtful, and passionate about user-centered design. We work closely with our partners in Product Management and Engineering. As part of this team, you’ll shape the Lever user experience based on our design principles and research insights, contributing to our mission to help the world hire with conviction and connect talent to meaningful work. 
+</description><pubDate>Mon, 27 Jun 2022 22:14:14 +0000</pubDate></item><item><title>Product Designer</title><link>https://jobs.lever.co/lever/88f0bd43-9414-4f88-8450-d9f42e93db66</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE 
+Design is one of Lever’s core competencies. As a Product Designer on the team, you will contribute to an elegant, seamless, and empowering user experience for the hiring teams who rely on Lever every day. We believe well-designed user experiences in the workplace are key to displacing stale and broken status-quo software. Built from the ground up with user-centered design methodology and principles, Lever is the only hiring software that is mobilizing entire companies to effortlessly collaborate on hiring. 
+
+As a Product Designer, you’ll use your expertise to take on design challenges across multiple stages of our design and delivery process. Understanding our users is core to how we work, through UX research, testing (and re-testing!) design concepts, and ongoing feedback from customers. We’re looking for a designer with a strong track record of designing high-quality digital solutions, with an eye to both the user experience and visual design; someone who takes a collaborative approach to solving problems, partnering with teams across Lever to deliver delightful, easy-to-use experiences to our users.
+
+THE OPPORTUNITY
+We’re building a world-class, product-first organization and assembling the right team to begin scaling aggressively. This is an opportunity for someone who wants to be part of something impactful and transformative, and will play a critical role in driving Lever’s success. This is also the perfect fit for someone who is keen to take on design projects that range from iterative feature improvements, all the way through to exploring new, innovative functionality.
+
+THE TEAM
+Our Design team is a small (but mighty!) group of generalists with a broad set of skills and experiences, who are continuously learning from each other. Our team is exceptionally collaborative, thoughtful, and passionate about user-centered design. We work closely with our partners in Product Management and Engineering. As part of this team, you’ll shape the Lever user experience based on our design principles and research insights, contributing to our mission to help the world hire with conviction and connect talent to meaningful work. 
+</description><pubDate>Mon, 27 Jun 2022 22:12:34 +0000</pubDate></item><item><title>Product Designer</title><link>https://jobs.lever.co/lever/348d8575-06e6-4568-b429-4a1723960ef9</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE 
+Design is one of Lever’s core competencies. As a Product Designer on the team, you will contribute to an elegant, seamless, and empowering user experience for the hiring teams who rely on Lever every day. We believe well-designed user experiences in the workplace are key to displacing stale and broken status-quo software. Built from the ground up with user-centered design methodology and principles, Lever is the only hiring software that is mobilizing entire companies to effortlessly collaborate on hiring. 
+
+As a Product Designer, you’ll use your expertise to take on design challenges across multiple stages of our design and delivery process. Understanding our users is core to how we work, through UX research, testing (and re-testing!) design concepts, and ongoing feedback from customers. We’re looking for a designer with a strong track record of designing high-quality digital solutions, with an eye to both the user experience and visual design; someone who takes a collaborative approach to solving problems, partnering with teams across Lever to deliver delightful, easy-to-use experiences to our users.
+
+THE OPPORTUNITY
+We’re building a world-class, product-first organization and assembling the right team to begin scaling aggressively. This is an opportunity for someone who wants to be part of something impactful and transformative, and will play a critical role in driving Lever’s success. This is also the perfect fit for someone who is keen to take on design projects that range from iterative feature improvements, all the way through to exploring new, innovative functionality.
+
+THE TEAM
+Our Design team is a small (but mighty!) group of generalists with a broad set of skills and experiences, who are continuously learning from each other. Our team is exceptionally collaborative, thoughtful, and passionate about user-centered design. We work closely with our partners in Product Management and Engineering. As part of this team, you’ll shape the Lever user experience based on our design principles and research insights, contributing to our mission to help the world hire with conviction and connect talent to meaningful work. 
+</description><pubDate>Mon, 27 Jun 2022 22:10:12 +0000</pubDate></item><item><title>Product Designer</title><link>https://jobs.lever.co/lever/27a4df4c-44cc-4093-a727-4c2b300f95ff</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE 
+Design is one of Lever’s core competencies. As a Product Designer on the team, you will contribute to an elegant, seamless, and empowering user experience for the hiring teams who rely on Lever every day. We believe well-designed user experiences in the workplace are key to displacing stale and broken status-quo software. Built from the ground up with user-centered design methodology and principles, Lever is the only hiring software that is mobilizing entire companies to effortlessly collaborate on hiring. 
+
+As a Product Designer, you’ll use your expertise to take on design challenges across multiple stages of our design and delivery process. Understanding our users is core to how we work, through UX research, testing (and re-testing!) design concepts, and ongoing feedback from customers. We’re looking for a designer with a strong track record of designing high-quality digital solutions, with an eye to both the user experience and visual design; someone who takes a collaborative approach to solving problems, partnering with teams across Lever to deliver delightful, easy-to-use experiences to our users.
+
+THE OPPORTUNITY
+We’re building a world-class, product-first organization and assembling the right team to begin scaling aggressively. This is an opportunity for someone who wants to be part of something impactful and transformative, and will play a critical role in driving Lever’s success. This is also the perfect fit for someone who is keen to take on design projects that range from iterative feature improvements, all the way through to exploring new, innovative functionality.
+
+THE TEAM
+Our Design team is a small (but mighty!) group of generalists with a broad set of skills and experiences, who are continuously learning from each other. Our team is exceptionally collaborative, thoughtful, and passionate about user-centered design. We work closely with our partners in Product Management and Engineering. As part of this team, you’ll shape the Lever user experience based on our design principles and research insights, contributing to our mission to help the world hire with conviction and connect talent to meaningful work. 
+</description><pubDate>Mon, 27 Jun 2022 22:13:13 +0000</pubDate></item><item><title>Product Designer</title><link>https://jobs.lever.co/lever/2138e4e4-25ad-4b00-a179-2e7e42e42d40</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE 
+Design is one of Lever’s core competencies. As a Product Designer on the team, you will contribute to an elegant, seamless, and empowering user experience for the hiring teams who rely on Lever every day. We believe well-designed user experiences in the workplace are key to displacing stale and broken status-quo software. Built from the ground up with user-centered design methodology and principles, Lever is the only hiring software that is mobilizing entire companies to effortlessly collaborate on hiring. 
+
+As a Product Designer, you’ll use your expertise to take on design challenges across multiple stages of our design and delivery process. Understanding our users is core to how we work, through UX research, testing (and re-testing!) design concepts, and ongoing feedback from customers. We’re looking for a designer with a strong track record of designing high-quality digital solutions, with an eye to both the user experience and visual design; someone who takes a collaborative approach to solving problems, partnering with teams across Lever to deliver delightful, easy-to-use experiences to our users.
+
+THE OPPORTUNITY
+We’re building a world-class, product-first organization and assembling the right team to begin scaling aggressively. This is an opportunity for someone who wants to be part of something impactful and transformative, and will play a critical role in driving Lever’s success. This is also the perfect fit for someone who is keen to take on design projects that range from iterative feature improvements, all the way through to exploring new, innovative functionality.
+
+THE TEAM
+Our Design team is a small (but mighty!) group of generalists with a broad set of skills and experiences, who are continuously learning from each other. Our team is exceptionally collaborative, thoughtful, and passionate about user-centered design. We work closely with our partners in Product Management and Engineering. As part of this team, you’ll shape the Lever user experience based on our design principles and research insights, contributing to our mission to help the world hire with conviction and connect talent to meaningful work. 
+</description><pubDate>Mon, 27 Jun 2022 22:11:03 +0000</pubDate></item><item><title>Product Designer</title><link>https://jobs.lever.co/lever/068a71ac-01a3-422b-9d9b-991bef03e1e8</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE 
+Design is one of Lever’s core competencies. As a Product Designer on the team, you will contribute to an elegant, seamless, and empowering user experience for the hiring teams who rely on Lever every day. We believe well-designed user experiences in the workplace are key to displacing stale and broken status-quo software. Built from the ground up with user-centered design methodology and principles, Lever is the only hiring software that is mobilizing entire companies to effortlessly collaborate on hiring. 
+
+As a Product Designer, you’ll use your expertise to take on design challenges across multiple stages of our design and delivery process. Understanding our users is core to how we work, through UX research, testing (and re-testing!) design concepts, and ongoing feedback from customers. We’re looking for a designer with a strong track record of designing high-quality digital solutions, with an eye to both the user experience and visual design; someone who takes a collaborative approach to solving problems, partnering with teams across Lever to deliver delightful, easy-to-use experiences to our users.
+
+THE OPPORTUNITY
+We’re building a world-class, product-first organization and assembling the right team to begin scaling aggressively. This is an opportunity for someone who wants to be part of something impactful and transformative, and will play a critical role in driving Lever’s success. This is also the perfect fit for someone who is keen to take on design projects that range from iterative feature improvements, all the way through to exploring new, innovative functionality.
+
+THE TEAM
+Our Design team is a small (but mighty!) group of generalists with a broad set of skills and experiences, who are continuously learning from each other. Our team is exceptionally collaborative, thoughtful, and passionate about user-centered design. We work closely with our partners in Product Management and Engineering. As part of this team, you’ll shape the Lever user experience based on our design principles and research insights, contributing to our mission to help the world hire with conviction and connect talent to meaningful work. 
+</description><pubDate>Mon, 27 Jun 2022 22:12:53 +0000</pubDate></item><item><title>Engineering Manager</title><link>https://jobs.lever.co/lever/f992b8ce-961b-4112-9e62-c90a32e20e2e</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever's engineering team is growing rapidly and we're looking for another Engineering Manager to help scale the org. Our team is a thoughtful bunch that cares about delighting our customers by excelling at both code quality and design thinking. We value transparency and believe in fostering an inclusive, collaborative, helpful team environment. We're always looking for ways to do better for our customers, the product, and for the team: #continuous-improvement.
+
+THE OPPORTUNITY
+We’re looking for an engineering manager who is inspired to mentor, grow, and help teams succeed, especially when the team is still small and nimble. You’re an experienced people manager and adept project manager who can guide developers to perform at their best (without sacrificing sleep) and also remove any blockers that may appear.
+
+As an engineering manager, you’ll lead a team of product developers as they evolve and enhance our core web app.  You will build an energized and capable team by hiring top-notch talent and by engaging and mentoring current employees. You’ll make sure that projects are running without a hitch; and bridge the gap with Product &amp; Design to make sure that what we are building is on target and prioritizing customer value. As we onboard bigger customers and continue to evolve our hiring product, you’ll guide your team to execute with efficiency, consistency, and, above all, empathy. That’s the Lever way.
+
+THE TEAM
+Working as part of Engineering's leadership team, you will be one of Lever's key technical leaders. You will be joined by several other leaders within product engineering, infrastructure, IT, and architecture. You will also engage with product managers and business leaders to build alignment on technical direction and will provide thought leadership across the company.
+</description><pubDate>Tue, 28 Dec 2021 18:09:45 +0000</pubDate></item><item><title>Engineering Manager</title><link>https://jobs.lever.co/lever/ef0a1660-1242-4802-a77a-7310ff078ddc</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever's engineering team is growing rapidly and we're looking for another Engineering Manager to help scale the org. Our team is a thoughtful bunch that cares about delighting our customers by excelling at both code quality and design thinking. We value transparency and believe in fostering an inclusive, collaborative, helpful team environment. We're always looking for ways to do better for our customers, the product, and for the team: #continuous-improvement.
+
+THE OPPORTUNITY
+We’re looking for an engineering manager who is inspired to mentor, grow, and help teams succeed, especially when the team is still small and nimble. You’re an experienced people manager and adept project manager who can guide developers to perform at their best (without sacrificing sleep) and also remove any blockers that may appear.
+
+As an engineering manager, you’ll lead a team of product developers as they evolve and enhance our core web app.  You will build an energized and capable team by hiring top-notch talent and by engaging and mentoring current employees. You’ll make sure that projects are running without a hitch; and bridge the gap with Product &amp; Design to make sure that what we are building is on target and prioritizing customer value. As we onboard bigger customers and continue to evolve our hiring product, you’ll guide your team to execute with efficiency, consistency, and, above all, empathy. That’s the Lever way.
+
+THE TEAM
+Working as part of Engineering's leadership team, you will be one of Lever's key technical leaders. You will be joined by several other leaders within product engineering, infrastructure, IT, and architecture. You will also engage with product managers and business leaders to build alignment on technical direction and will provide thought leadership across the company.
+</description><pubDate>Mon, 27 Jun 2022 19:28:38 +0000</pubDate></item><item><title>Engineering Manager</title><link>https://jobs.lever.co/lever/ce76138a-1178-41a8-bb9c-19c2041d6e43</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever's engineering team is growing rapidly and we're looking for another Engineering Manager to help scale the org. Our team is a thoughtful bunch that cares about delighting our customers by excelling at both code quality and design thinking. We value transparency and believe in fostering an inclusive, collaborative, helpful team environment. We're always looking for ways to do better for our customers, the product, and for the team: #continuous-improvement.
+
+THE OPPORTUNITY
+We’re looking for an engineering manager who is inspired to mentor, grow, and help teams succeed, especially when the team is still small and nimble. You’re an experienced people manager and adept project manager who can guide developers to perform at their best (without sacrificing sleep) and also remove any blockers that may appear.
+
+As an engineering manager, you’ll lead a team of product developers as they evolve and enhance our core web app.  You will build an energized and capable team by hiring top-notch talent and by engaging and mentoring current employees. You’ll make sure that projects are running without a hitch; and bridge the gap with Product &amp; Design to make sure that what we are building is on target and prioritizing customer value. As we onboard bigger customers and continue to evolve our hiring product, you’ll guide your team to execute with efficiency, consistency, and, above all, empathy. That’s the Lever way.
+
+THE TEAM
+Working as part of Engineering's leadership team, you will be one of Lever's key technical leaders. You will be joined by several other leaders within product engineering, infrastructure, IT, and architecture. You will also engage with product managers and business leaders to build alignment on technical direction and will provide thought leadership across the company.
+</description><pubDate>Mon, 27 Jun 2022 19:27:37 +0000</pubDate></item><item><title>Engineering Manager</title><link>https://jobs.lever.co/lever/c1f738a0-684c-4b83-9e1a-7ba9d9e4323e</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever's engineering team is growing rapidly and we're looking for another Engineering Manager to help scale the org. Our team is a thoughtful bunch that cares about delighting our customers by excelling at both code quality and design thinking. We value transparency and believe in fostering an inclusive, collaborative, helpful team environment. We're always looking for ways to do better for our customers, the product, and for the team: #continuous-improvement.
+
+THE OPPORTUNITY
+We’re looking for an engineering manager who is inspired to mentor, grow, and help teams succeed, especially when the team is still small and nimble. You’re an experienced people manager and adept project manager who can guide developers to perform at their best (without sacrificing sleep) and also remove any blockers that may appear.
+
+As an engineering manager, you’ll lead a team of product developers as they evolve and enhance our core web app.  You will build an energized and capable team by hiring top-notch talent and by engaging and mentoring current employees. You’ll make sure that projects are running without a hitch; and bridge the gap with Product &amp; Design to make sure that what we are building is on target and prioritizing customer value. As we onboard bigger customers and continue to evolve our hiring product, you’ll guide your team to execute with efficiency, consistency, and, above all, empathy. That’s the Lever way.
+
+THE TEAM
+Working as part of Engineering's leadership team, you will be one of Lever's key technical leaders. You will be joined by several other leaders within product engineering, infrastructure, IT, and architecture. You will also engage with product managers and business leaders to build alignment on technical direction and will provide thought leadership across the company.
+</description><pubDate>Tue, 28 Dec 2021 18:11:22 +0000</pubDate></item><item><title>Engineering Manager</title><link>https://jobs.lever.co/lever/a361decd-6ed8-471a-be3a-c37e935c1fc9</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever's engineering team is growing rapidly and we're looking for another Engineering Manager to help scale the org. Our team is a thoughtful bunch that cares about delighting our customers by excelling at both code quality and design thinking. We value transparency and believe in fostering an inclusive, collaborative, helpful team environment. We're always looking for ways to do better for our customers, the product, and for the team: #continuous-improvement.
+
+THE OPPORTUNITY
+We’re looking for an engineering manager who is inspired to mentor, grow, and help teams succeed, especially when the team is still small and nimble. You’re an experienced people manager and adept project manager who can guide developers to perform at their best (without sacrificing sleep) and also remove any blockers that may appear.
+
+As an engineering manager, you’ll lead a team of product developers as they evolve and enhance our core web app.  You will build an energized and capable team by hiring top-notch talent and by engaging and mentoring current employees. You’ll make sure that projects are running without a hitch; and bridge the gap with Product &amp; Design to make sure that what we are building is on target and prioritizing customer value. As we onboard bigger customers and continue to evolve our hiring product, you’ll guide your team to execute with efficiency, consistency, and, above all, empathy. That’s the Lever way.
+
+THE TEAM
+Working as part of Engineering's leadership team, you will be one of Lever's key technical leaders. You will be joined by several other leaders within product engineering, infrastructure, IT, and architecture. You will also engage with product managers and business leaders to build alignment on technical direction and will provide thought leadership across the company.
+</description><pubDate>Tue, 10 May 2022 18:47:28 +0000</pubDate></item><item><title>Engineering Manager</title><link>https://jobs.lever.co/lever/7676ea83-f746-4c74-abbd-1dcf6cd2e9a6</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever's engineering team is growing rapidly and we're looking for another Engineering Manager to help scale the org. Our team is a thoughtful bunch that cares about delighting our customers by excelling at both code quality and design thinking. We value transparency and believe in fostering an inclusive, collaborative, helpful team environment. We're always looking for ways to do better for our customers, the product, and for the team: #continuous-improvement.
+
+THE OPPORTUNITY
+We’re looking for an engineering manager who is inspired to mentor, grow, and help teams succeed, especially when the team is still small and nimble. You’re an experienced people manager and adept project manager who can guide developers to perform at their best (without sacrificing sleep) and also remove any blockers that may appear.
+
+As an engineering manager, you’ll lead a team of product developers as they evolve and enhance our core web app.  You will build an energized and capable team by hiring top-notch talent and by engaging and mentoring current employees. You’ll make sure that projects are running without a hitch; and bridge the gap with Product &amp; Design to make sure that what we are building is on target and prioritizing customer value. As we onboard bigger customers and continue to evolve our hiring product, you’ll guide your team to execute with efficiency, consistency, and, above all, empathy. That’s the Lever way.
+
+THE TEAM
+Working as part of Engineering's leadership team, you will be one of Lever's key technical leaders. You will be joined by several other leaders within product engineering, infrastructure, IT, and architecture. You will also engage with product managers and business leaders to build alignment on technical direction and will provide thought leadership across the company.
+</description><pubDate>Mon, 27 Jun 2022 19:28:56 +0000</pubDate></item><item><title>Engineering Manager</title><link>https://jobs.lever.co/lever/6d8f6890-bcf8-4c8c-baa3-59fb7fd7c482</link><description>A BIT ABOUT US
+Lever was founded ten years ago to tackle the most strategic challenge that companies face: how to recruit and hire top talent. We’re building the next generation of hiring software that companies can rely on to grow their teams. We've rethought the talent acquisition paradigm and are the innovation leaders in our space and looking for the right people to join us as we scale. 
+
+We’re extraordinarily proud of the company we’ve built so far and are thrilled for our plans to come after our last round of funding of $50 million in November 2021. Together, our company has been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage and we’ll continue investing in our “Leveroos” and people-first culture.    
+
+THE CHALLENGE
+Lever's engineering team is growing rapidly and we're looking for another Engineering Manager to help scale the org. Our team is a thoughtful bunch that cares about delighting our customers by excelling at both code quality and design thinking. We value transparency and believe in fostering an inclusive, collaborative, helpful team environment. We're always looking for ways to do better for our customers, the product, and for the team: #continuous-improvement.
+
+THE OPPORTUNITY
+We’re looking for an engineering manager who is inspired to mentor, grow, and help teams succeed, especially when the team is still small and nimble. You’re an experienced people manager and adept project manager who can guide developers to perform at their best (without sacrificing sleep) and also remove any blockers that may appear.
+
+As an engineering manager, you’ll lead a team of product developers as they evolve and enhance our core web app.  You will build an energized and capable team by hiring top-notch talent and by engaging and mentoring current employees. You’ll make sure that projects are running without a hitch; and bridge the gap with Product &amp; Design to make sure that what we are building is on target and prioritizing customer value. As we onboard bigger customers and continue to evolve our hiring product, you’ll guide your team to execute with efficiency, consistency, and, above all, empathy. That’s the Lever way.
+
+THE TEAM
+Working as part of Engineering's leadership team, you will be one of Lever's key technical leaders. You will be joined by several other leaders within product engineering, infrastructure, IT, and architecture. You will also engage with product managers and business leaders to build alignment on technical direction and will provide thought leadership across the company.
+</description><pubDate>Tue, 28 Dec 2021 18:10:37 +0000</pubDate></item><item><title>Engineering Manager</title><link>https://jobs.lever.co/lever/5a360f24-53df-4715-8e43-24706e132c6f</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever's engineering team is growing rapidly and we're looking for another Engineering Manager to help scale the org. Our team is a thoughtful bunch that cares about delighting our customers by excelling at both code quality and design thinking. We value transparency and believe in fostering an inclusive, collaborative, helpful team environment. We're always looking for ways to do better for our customers, the product, and for the team: #continuous-improvement.
+
+THE OPPORTUNITY
+We’re looking for an engineering manager who is inspired to mentor, grow, and help teams succeed, especially when the team is still small and nimble. You’re an experienced people manager and adept project manager who can guide developers to perform at their best (without sacrificing sleep) and also remove any blockers that may appear.
+
+As an engineering manager, you’ll lead a team of product developers as they evolve and enhance our core web app.  You will build an energized and capable team by hiring top-notch talent and by engaging and mentoring current employees. You’ll make sure that projects are running without a hitch; and bridge the gap with Product &amp; Design to make sure that what we are building is on target and prioritizing customer value. As we onboard bigger customers and continue to evolve our hiring product, you’ll guide your team to execute with efficiency, consistency, and, above all, empathy. That’s the Lever way.
+
+THE TEAM
+Working as part of Engineering's leadership team, you will be one of Lever's key technical leaders. You will be joined by several other leaders within product engineering, infrastructure, IT, and architecture. You will also engage with product managers and business leaders to build alignment on technical direction and will provide thought leadership across the company.
+</description><pubDate>Tue, 28 Dec 2021 18:11:45 +0000</pubDate></item><item><title>Engineering Manager</title><link>https://jobs.lever.co/lever/14726216-4351-4eeb-a348-02e31863b783</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever's engineering team is growing rapidly and we're looking for another Engineering Manager to help scale the org. Our team is a thoughtful bunch that cares about delighting our customers by excelling at both code quality and design thinking. We value transparency and believe in fostering an inclusive, collaborative, helpful team environment. We're always looking for ways to do better for our customers, the product, and for the team: #continuous-improvement.
+
+THE OPPORTUNITY
+We’re looking for an engineering manager who is inspired to mentor, grow, and help teams succeed, especially when the team is still small and nimble. You’re an experienced people manager and adept project manager who can guide developers to perform at their best (without sacrificing sleep) and also remove any blockers that may appear.
+
+As an engineering manager, you’ll lead a team of product developers as they evolve and enhance our core web app.  You will build an energized and capable team by hiring top-notch talent and by engaging and mentoring current employees. You’ll make sure that projects are running without a hitch; and bridge the gap with Product &amp; Design to make sure that what we are building is on target and prioritizing customer value. As we onboard bigger customers and continue to evolve our hiring product, you’ll guide your team to execute with efficiency, consistency, and, above all, empathy. That’s the Lever way.
+
+THE TEAM
+Working as part of Engineering's leadership team, you will be one of Lever's key technical leaders. You will be joined by several other leaders within product engineering, infrastructure, IT, and architecture. You will also engage with product managers and business leaders to build alignment on technical direction and will provide thought leadership across the company.
+</description><pubDate>Mon, 27 Jun 2022 19:26:14 +0000</pubDate></item><item><title>Director, Product Management</title><link>https://jobs.lever.co/lever/26982f51-a531-4753-b8e2-08369b40ac28</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+We are looking for an experienced Product Management  leader to lead key areas of the Product team and collaborate to innovate around our Talent Acquisition solution.  The successful candidate will help us drive our core roadmap and collaborate with customers to deliver value across all aspects of talent acquisition.  The role will partner with Product, Design and Engineering leaders to deliver customer value through innovation and increased velocity. A key responsibility for this role will also be attraction and retention of key Product Managers.
+
+THE OPPORTUNITY
+As a Product leader you will drive our roadmap to ensure we are the leading talent acquisition solution in our target markets.  You will lead the team to define and deliver meaningful customer value in a SaaS environment, while you build their continuous discovery skills, and collaborate with a team of committed product experts.  You will contribute to a broader strategy and roadmap discussion based on your unique understanding of our market and customers, and help drive best practices across the entire product lifecycle, from idea to launch.
+
+THE TEAM
+In the Director, Product Management role you will report to the SVP of Product, and work collaboratively with a distributed team of product management and design experts who execute on our product strategy.  You will also have the opportunity for cross functional collaboration across our entire company - Engineering, Services, Support, Customer Success, Sales and Marketing.
+</description><pubDate>Wed, 24 Aug 2022 21:32:29 +0000</pubDate></item><item><title>Director, Financial Planning &amp; Analysis</title><link>https://jobs.lever.co/lever/f01c89d3-d885-478a-b99d-38eab1e0fb18</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever’s Director of Planning and Analysis will play a key role in building the company’s long- and short-term operating and financial plans. This leader will report to the Lever’s COO, matrix reporting to the head of FP&amp;A for Employ, have direct working relationships with the Lever’s President and CEO, CRO, and all of Lever’s executive staff, in addition to building strong business partnerships with leaders all across Lever and Employ. 
+
+In addition to planning, this person will drive improvements and efficiencies in how business decisions are made, and expected returns. This person will have the opportunity to build out a team over time, composed of FP&amp;A partners that support functional leaders company wide. Business processes such as budgeting, forecasting, management reporting, financial analyses, and ad hoc business case production will all fall under this leader’s remit, as well. This is an opportunity for a leader to build something truly special—a role that will have a massive strategic impact for a company poised to capture and dominate the Talent Acquisition market.
+
+THE OPPORTUNITY
+This is an opportunity to make an immediate impact as a member of the Lever team, at the start of a new chapter in Lever’s exceptional growth story, while also partnering across all business units under the Employ umbrella. You will have the opportunity to grow your team as Lever and Employ continue to scale. In this role, you are positioned perfectly to influence every leader across a growing, dynamic company—up through the President and CEO of Lever to the President and CEO of Employ. Your work will directly impact Lever’s business strategy, operating model, financial plans, and value creation. As we plan our next phases of growth, including continuing our global expansion, you will play a central role in building the necessary plans and forward-looking models to guide the company to reach these milestones and well beyond.
+
+THE TEAM
+The Finance and Business Operations team under Lever’s COO is made up of outstanding and diverse talent. It possesses values of trust, customer success, and shareholder value. This group is widely respected across the company and perfectly positioned to create high leverage value. It is a high achieving, high performing, and strong culture team—that loves to serve, have fun, and add business value each and every day.
+</description><pubDate>Tue, 23 Aug 2022 18:14:40 +0000</pubDate></item><item><title>Director, Financial Planning &amp; Analysis</title><link>https://jobs.lever.co/lever/a9fba8a7-44d7-49e5-8056-440ec19f3ccc</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever’s Director of Planning and Analysis will play a key role in building the company’s long- and short-term operating and financial plans. This leader will report to the Lever’s COO, matrix reporting to the head of FP&amp;A for Employ, have direct working relationships with the Lever’s President and CEO, CRO, and all of Lever’s executive staff, in addition to building strong business partnerships with leaders all across Lever and Employ. 
+
+In addition to planning, this person will drive improvements and efficiencies in how business decisions are made, and expected returns. This person will have the opportunity to build out a team over time, composed of FP&amp;A partners that support functional leaders company wide. Business processes such as budgeting, forecasting, management reporting, financial analyses, and ad hoc business case production will all fall under this leader’s remit, as well. This is an opportunity for a leader to build something truly special—a role that will have a massive strategic impact for a company poised to capture and dominate the Talent Acquisition market.
+
+THE OPPORTUNITY
+This is an opportunity to make an immediate impact as a member of the Lever team, at the start of a new chapter in Lever’s exceptional growth story, while also partnering across all business units under the Employ umbrella. You will have the opportunity to grow your team as Lever and Employ continue to scale. In this role, you are positioned perfectly to influence every leader across a growing, dynamic company—up through the President and CEO of Lever to the President and CEO of Employ. Your work will directly impact Lever’s business strategy, operating model, financial plans, and value creation. As we plan our next phases of growth, including continuing our global expansion, you will play a central role in building the necessary plans and forward-looking models to guide the company to reach these milestones and well beyond.
+
+THE TEAM
+The Finance and Business Operations team under Lever’s COO is made up of outstanding and diverse talent. It possesses values of trust, customer success, and shareholder value. This group is widely respected across the company and perfectly positioned to create high leverage value. It is a high achieving, high performing, and strong culture team—that loves to serve, have fun, and add business value each and every day.
+</description><pubDate>Tue, 23 Aug 2022 18:16:14 +0000</pubDate></item><item><title>Director, Financial Planning &amp; Analysis</title><link>https://jobs.lever.co/lever/552287ce-83d5-4e7b-bbf9-4d9f2b440a91</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever’s Director of Planning and Analysis will play a key role in building the company’s long- and short-term operating and financial plans. This leader will report to the Lever’s COO, matrix reporting to the head of FP&amp;A for Employ, have direct working relationships with the Lever’s President and CEO, CRO, and all of Lever’s executive staff, in addition to building strong business partnerships with leaders all across Lever and Employ. 
+
+In addition to planning, this person will drive improvements and efficiencies in how business decisions are made, and expected returns. This person will have the opportunity to build out a team over time, composed of FP&amp;A partners that support functional leaders company wide. Business processes such as budgeting, forecasting, management reporting, financial analyses, and ad hoc business case production will all fall under this leader’s remit, as well. This is an opportunity for a leader to build something truly special—a role that will have a massive strategic impact for a company poised to capture and dominate the Talent Acquisition market.
+
+THE OPPORTUNITY
+This is an opportunity to make an immediate impact as a member of the Lever team, at the start of a new chapter in Lever’s exceptional growth story, while also partnering across all business units under the Employ umbrella. You will have the opportunity to grow your team as Lever and Employ continue to scale. In this role, you are positioned perfectly to influence every leader across a growing, dynamic company—up through the President and CEO of Lever to the President and CEO of Employ. Your work will directly impact Lever’s business strategy, operating model, financial plans, and value creation. As we plan our next phases of growth, including continuing our global expansion, you will play a central role in building the necessary plans and forward-looking models to guide the company to reach these milestones and well beyond.
+
+THE TEAM
+The Finance and Business Operations team under Lever’s COO is made up of outstanding and diverse talent. It possesses values of trust, customer success, and shareholder value. This group is widely respected across the company and perfectly positioned to create high leverage value. It is a high achieving, high performing, and strong culture team—that loves to serve, have fun, and add business value each and every day.
+</description><pubDate>Tue, 23 Aug 2022 18:15:08 +0000</pubDate></item><item><title>Director, Financial Planning &amp; Analysis</title><link>https://jobs.lever.co/lever/110dccd0-85f4-4427-9a40-b5a38561dcab</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever’s Director of Planning and Analysis will play a key role in building the company’s long- and short-term operating and financial plans. This leader will report to the Lever’s COO, matrix reporting to the head of FP&amp;A for Employ, have direct working relationships with the Lever’s President and CEO, CRO, and all of Lever’s executive staff, in addition to building strong business partnerships with leaders all across Lever and Employ. 
+
+In addition to planning, this person will drive improvements and efficiencies in how business decisions are made, and expected returns. This person will have the opportunity to build out a team over time, composed of FP&amp;A partners that support functional leaders company wide. Business processes such as budgeting, forecasting, management reporting, financial analyses, and ad hoc business case production will all fall under this leader’s remit, as well. This is an opportunity for a leader to build something truly special—a role that will have a massive strategic impact for a company poised to capture and dominate the Talent Acquisition market.
+
+THE OPPORTUNITY
+This is an opportunity to make an immediate impact as a member of the Lever team, at the start of a new chapter in Lever’s exceptional growth story, while also partnering across all business units under the Employ umbrella. You will have the opportunity to grow your team as Lever and Employ continue to scale. In this role, you are positioned perfectly to influence every leader across a growing, dynamic company—up through the President and CEO of Lever to the President and CEO of Employ. Your work will directly impact Lever’s business strategy, operating model, financial plans, and value creation. As we plan our next phases of growth, including continuing our global expansion, you will play a central role in building the necessary plans and forward-looking models to guide the company to reach these milestones and well beyond.
+
+THE TEAM
+The Finance and Business Operations team under Lever’s COO is made up of outstanding and diverse talent. It possesses values of trust, customer success, and shareholder value. This group is widely respected across the company and perfectly positioned to create high leverage value. It is a high achieving, high performing, and strong culture team—that loves to serve, have fun, and add business value each and every day.
+</description><pubDate>Tue, 23 Aug 2022 18:15:38 +0000</pubDate></item></channel></rss>

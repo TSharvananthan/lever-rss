@@ -1,0 +1,381 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cohere Job Postings</title><link>https://api.lever.co/v0/postings/cohere?mode=json</link><description>Job postings for Cohere from lever.co</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 10 Sep 2022 18:13:33 +0000</lastBuildDate><item><title>Strategy and Sales Operations Manager</title><link>https://jobs.lever.co/cohere/725ebd5c-a1f0-4da8-9470-0f3571453cce</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Please Note: We have offices in Toronto, Palo Alto and London but embrace being remote-first! We are looking for candidates based in Canada or United States for this role.
+</description><pubDate>Mon, 18 Jul 2022 20:26:12 +0000</pubDate></item><item><title>Sr. Engineering Program Manager</title><link>https://jobs.lever.co/cohere/d4e6f734-0925-4e8f-8d22-bb299f333b84</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Why this role? 
+We’re looking for an Engineering Program Manager to join Cohere’s Tech organization. As the first candidate hired into the EPM organization, we need someone who will bring curiosity, drive, independence, and leadership to the company. You should have hands-on experience managing projects for consumer software development and machine learning solutions, and building large-scale foundational processes and programs to improve engineering operations. 
+
+In return, you will have the unique opportunity and responsibility to design the way that Cohere will operate for years. You’ll get to build relationships with some of the leading AI and NLP minds in the world, collaborate with other Cohere teams like Product, Business, and Marketing, have significant visibility and impact on a fast-growing product, and contribute to the company culture.
+
+This role will start as an individual contributor, but with a rapidly growing product and staff, there will be ample opportunities for both leadership and career growth.
+
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role.
+</description><pubDate>Thu, 30 Jun 2022 21:55:05 +0000</pubDate></item><item><title>Solutions Architect (NLP)</title><link>https://jobs.lever.co/cohere/fdded9a9-4481-4bc0-96fb-74ed70c5798e</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Why this role?
+As a Solutions Architect at Cohere, you’ll play a huge role in growing the business and will have an immense sense of autonomy when it comes to technical pre and post-sales.  You will work closely with the sales and business development teams to lay the foundation for Cohere’s growth.  Together, you will engage customers from different audience groups (e.g., developers, start-ups, enterprise customers) to understand their challenges.  You are comfortable leading conversations from an early stage with the customer and are naturally curious about their business.  You will play a hands-on role in designing and executing experiments that demonstrate the transformative impact of our models.  You have the technical credibility to instill confidence in the Cohere platform and our solutions including how best to integrate our API into customers’ products. 
+
+It’s a highly self-directed role, so you should be someone who thrives in an unstructured, rapidly evolving environment. 
+
+Please Note: We have offices in Toronto, Palo Alto and London but embrace being remote-first! We are looking for candidates based in Canada or United States for this role.
+</description><pubDate>Fri, 15 Jul 2022 14:40:17 +0000</pubDate></item><item><title>Software Engineer, ML Production</title><link>https://jobs.lever.co/cohere/76faca41-c663-4e51-aee1-c96afa6058b7</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Why this role?
+This role sits at the intersection between machine learning and software engineering. It is a high-impact position in delivering large-scale language models that Cohere builds. This role will focus on system designs of model inference runtimes and model production pipelines to ensure that our models run efficiently and reliably in various environments. In addition, this role will work closely with the latest ML frameworks to integrate cutting-edge model runtimes.
+
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! We are looking for candidates based in Canada for this role.
+</description><pubDate>Wed, 11 May 2022 20:35:30 +0000</pubDate></item><item><title>Software Engineer, ML Frameworks</title><link>https://jobs.lever.co/cohere/83ed9e66-42f2-401f-b55b-5f501016adb1</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Why this role?
+Distribute and optimize anything and everything. 
+
+This role is ideal for you if you are excited about building a scale-first machine learning framework that powers Cohere’s language models. Here you will design and improve upon the framework that enables fast, reliable, and flexible training of large language models. In this role, you will work on the cutting edge of research and engineering, design and develop state-of-the-art machine learning models. If you are an experienced software engineer aiming to break into the ML industry, this is the role you are looking for!
+
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
+</description><pubDate>Thu, 10 Feb 2022 19:47:59 +0000</pubDate></item><item><title>Software Engineer, Inference</title><link>https://jobs.lever.co/cohere/ab7e5a71-ffdc-4b07-b4ce-122e1f332027</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role.
+</description><pubDate>Sun, 13 Feb 2022 23:57:44 +0000</pubDate></item><item><title>Senior Scientist, Applied NLP</title><link>https://jobs.lever.co/cohere/30839098-20ad-4d5f-aa36-64347ef99f56</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
+</description><pubDate>Wed, 22 Jun 2022 21:22:41 +0000</pubDate></item><item><title>Senior Research Scientist</title><link>https://jobs.lever.co/cohere/d7644e63-86b2-43b2-9773-6e88df500415</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Why this role?
+Cohere For AI is the dedicated non-profit arm of Cohere, and our mission is to lower the barriers to entry to machine learning research and support a community of independent research talent across the world. We are committed to collaborating widely and empowering independent researchers around the world.
+
+For AI intends to execute this mission through two different efforts 1) create spaces where engineers, researchers and multidisciplinary experts can connect and contribute to NLP and machine learning research, and 2) provide research training that brings in new talent from across the world to the field of machine learning.
+
+As a Senior Research Scientist, you have an independent high impact research agenda and are excited to work with researchers from all over the world. You actively contribute to the wider research community by sharing and publishing your findings and code. Your work evidences a consideration for the societal and ethical implications of machine learning. You have a strong track record of mentorship and are excited to collaborate with independent researchers around the world who are new to the machine learning and NLP community.
+
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
+</description><pubDate>Thu, 01 Sep 2022 22:24:09 +0000</pubDate></item><item><title>Senior Project Manager, Product</title><link>https://jobs.lever.co/cohere/fcc130d0-4c16-4a3f-8ad1-a11feee04ce6</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+As the first Project Manager on the Product team you will have the unique opportunity and responsibility to oversee project plans. You’ll get to work with one of the leading AI and NLP teams in the world, work on a fast-growing product, and contribute to the company culture
+
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
+</description><pubDate>Wed, 30 Mar 2022 15:43:24 +0000</pubDate></item><item><title>Senior Product Manager</title><link>https://jobs.lever.co/cohere/847865e1-074d-4ee7-9a68-455e09922ee3</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Why this role?
+Product Managers have the unique opportunity and responsibility to both define product vision and drive results. On this team, you’ll get to work with one of the leading AI and NLP teams in the world and grow the product vision and company culture.
+
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
+
+As a Senior Product Manager, your responsibilities include:
+</description><pubDate>Wed, 16 Feb 2022 16:17:57 +0000</pubDate></item><item><title>Senior Golang Engineer, Product</title><link>https://jobs.lever.co/cohere/a400534c-8dd8-4535-9550-918ff180fd7a</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
+</description><pubDate>Mon, 29 Aug 2022 23:10:43 +0000</pubDate></item><item><title>Senior Front-End Engineer, Product</title><link>https://jobs.lever.co/cohere/b3eb4c70-da16-444e-b281-d2d5d6ee6749</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
+</description><pubDate>Thu, 23 Jun 2022 18:30:14 +0000</pubDate></item><item><title>Product Designer</title><link>https://jobs.lever.co/cohere/a087e2de-7966-4d84-8b09-f5e7ef15817b</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Why this role?
+Design uncharted user experiences that augment all the others. Empower technologists to reimagine the building blocks of human-computer interaction: language.
+
+Please Note: We have offices in Toronto, Palo Alto and London but embrace being remote-first! We are looking for candidates based in Canada or United States for this role.
+</description><pubDate>Fri, 24 Jun 2022 20:43:02 +0000</pubDate></item><item><title>NLP Software Engineer</title><link>https://jobs.lever.co/cohere/4c41f7eb-d3bb-44f6-8265-7593fd5fb972</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Why this role?
+As a Rapid NLP prototyper you will be responsible for prototyping, developing, and deploying a wide variety of applications using the cohere API. You will work directly with Nick Frosst (co-founder / CTO) as well as the rest of the eng team, in order to build out and publish demos and examples of NLP applications. You would be a good fit for this role if you have a wide breadth of technical background (front end / back end / ML / Infra), if you are passionate about building things, and if you are a self-starter and enjoy working independently. 
+
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role.  
+</description><pubDate>Wed, 04 May 2022 16:19:57 +0000</pubDate></item><item><title>ML Lead, Safety</title><link>https://jobs.lever.co/cohere/544f6ece-c790-4dbc-93d1-d5c247d63bd7</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Why this role?
+The ML Lead, Safety, will lead the engineering efforts to ensure that we are making our models safe, accessible, and useful. This role sits at the intersection of engineering, safety research, product, and policy. They will work with our Machine Learning and Product teams to improve the quality of our models and build out new reporting &amp; monitoring tools to ensure our models are being used for applications we would be proud of. This role will also work on norms and policies which will be used to ensure the safe deployment of our language model API.
+
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role.
+</description><pubDate>Mon, 16 May 2022 19:41:37 +0000</pubDate></item><item><title>Marketing Events Manager</title><link>https://jobs.lever.co/cohere/76caa150-bbc8-4829-99af-393b6bd2575c</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! 
+</description><pubDate>Thu, 28 Jul 2022 13:56:35 +0000</pubDate></item><item><title>Manager, Solution Architecture</title><link>https://jobs.lever.co/cohere/fcc96606-2726-4a49-99a7-348f54c28208</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Why this role?
+As a Manager, Solutions Architecture at Cohere, you’ll lead a team at the forefront of applying cutting edge NLP technology to real world challenges. You will work closely with the sales and business development teams to drive Cohere’s growth. Together, you will engage prospects ranging from developers to enterprise leaders to understand their NLP challenges and present Cohere as the solution. You are comfortable being hands-on with prospects as well as coaching SAs on your team on how to most effectively engage. You have a background in NLP, the technical credibility to instill confidence in the Cohere platform, and the chops to scope and execute PoCs. As the team’s leader, you will support your team for continuous growth. It’s a highly self-directed role, so you should be someone who thrives in an unstructured, rapidly evolving environment.
+
+Please Note: We have offices in Toronto, Palo Alto and London but embrace being remote-first! We are looking for candidates based in Canada or United States for this role.
+</description><pubDate>Fri, 15 Jul 2022 14:40:38 +0000</pubDate></item><item><title>Manager, Machine Learning</title><link>https://jobs.lever.co/cohere/0269c0a0-1c24-4775-b0b4-c07c22f82d75</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Why this role?
+Cohere is seeking exceptional leaders to help develop and direct one of the top AI / ML / NLP teams in the world. In this role, you will hire and mentor world-class scientists and engineers. You will use your expertise in machine learning to define strategy and direction for the development of our core technology. You will lead your team in developing Transformer-based large language models which are smarter, faster, safer, and easier to use than any in the world. And you will apply this technology to develop solutions to real human needs.
+
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
+</description><pubDate>Wed, 18 May 2022 13:05:30 +0000</pubDate></item><item><title>Machine Learning Intern (January 2023)</title><link>https://jobs.lever.co/cohere/2252200f-104f-4d95-840d-c1d9cbcfda9b</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Why this role? 
+Ship state of the art models to production.
+
+Design and implement novel research ideas.
+
+Build elegant training/deployment pipelines.
+
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role.
+</description><pubDate>Mon, 08 Aug 2022 15:32:45 +0000</pubDate></item><item><title>Machine Learning Engineer, Model Production</title><link>https://jobs.lever.co/cohere/9c80917c-3ca8-4bb1-8872-a6ead2210869</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Why this role? 
+Optimize and ship state of the art models to production.
+
+Build elegant ML tools and deployment pipelines.
+
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
+</description><pubDate>Wed, 08 Sep 2021 18:39:48 +0000</pubDate></item><item><title>Machine Learning Engineer - Exploratory Projects</title><link>https://jobs.lever.co/cohere/b7463e89-6e3c-44ac-a8c0-2fe775cdc9a2</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Why this role?
+Contribute to Cohere’s mission by exploring new high-risk, high-reward areas of product impact. Collaborate with Sales, Product, and Engineering teams to develop &amp; execute visionary, yet grounded, research projects. Discover and weave insights across the academic literature to build new open-source tooling, interactive demos, and additions to Cohere’s core products.
+</description><pubDate>Thu, 08 Sep 2022 13:29:38 +0000</pubDate></item><item><title>Machine Learning Engineer</title><link>https://jobs.lever.co/cohere/c2c4f840-d2a7-4dc3-929c-4765d4c5add2</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Why this role? 
+Design and implement novel research ideas. 
+
+Ship state of the art models to production.
+
+Deep connections to academia.
+
+We do not delineate strongly between engineering and research. Everyone will contribute to writing production code and conducting research depending on individual interest and organizational need.
+
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
+</description><pubDate>Mon, 08 Aug 2022 20:23:50 +0000</pubDate></item><item><title>Industry Post-Doc</title><link>https://jobs.lever.co/cohere/3f8e1b46-3437-4cf7-87d0-33699a96df0e</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Why this role?
+Cohere For AI is the dedicated non-profit arm of Cohere, and our mission is to lower the barriers to entry to machine learning research and support a community of independent research talent across the world. We are committed to collaborating widely and empowering independent researchers around the world.
+
+For AI intends to execute this mission through two different efforts 1) create spaces where engineers, researchers and multidisciplinary experts can connect and contribute to NLP and machine learning research, and 2) provide research training that brings in new talent from across the world to the field of machine learning.
+
+Our open culture and our emphasis on academic collaboration and decentralized research that empowers collaborators across the world offer a unique chance to grow as a researcher and impact the experience of others.
+
+The visiting researcher role is a 1-year contract for post-docs, professors on sabbatical or independent researchers with equivalent experience that are excited about collaboratory research within an industry that pushes forward the frontier of what is possible with machine learning. You have an independent high impact research agenda and are excited to work with researchers from all over the world. You actively contribute to the wider research community by sharing and publishing your findings and code. Your work evidences a consideration for the societal and ethical implications of machine learning. You have a strong track record of mentorship and are excited to collaborate with independent researchers around the world who want to join the machine learning community.
+
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
+</description><pubDate>Mon, 13 Jun 2022 20:07:04 +0000</pubDate></item><item><title>Head of Developer Relations</title><link>https://jobs.lever.co/cohere/f3b7c387-4604-4fdd-af08-49495264772e</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Why this role? 
+As the first Developer Advocate in the North American region, at Cohere, you’ll be able to flex your leadership muscles to shape the overall function and drive the initial build-out of the Cohere community. This is a highly visible role within the Cohere team.  You will be surrounded by teammates across Product, Marketing, Business Development and Sales who will partner with you to ensure your success. Your opportunity for impact will be astronomical — Cohere has sky’s-the-limit potential and you’ll help us reach it. 
+
+Please Note: We have offices in Toronto, Canada and Palo Alto and San Francisco, USA, but embrace being remote-first! This role will be based in US or Canada.
+</description><pubDate>Sun, 14 Aug 2022 22:53:52 +0000</pubDate></item><item><title>Growth Product Manager</title><link>https://jobs.lever.co/cohere/ca4afc01-cbf8-43e8-9437-76fa9d510441</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Why this role?
+Product Managers have the unique opportunity and responsibility to both define product vision and drive results. On this team, you’ll get to work with one of the leading AI and NLP teams in the world and grow the product vision and company culture.
+
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
+
+As a Growth Product Manager, your responsibilities include:
+</description><pubDate>Tue, 23 Aug 2022 22:53:18 +0000</pubDate></item><item><title>Finance Manager</title><link>https://jobs.lever.co/cohere/0d3a5b05-642f-4134-89d0-fdf422ef452d</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Why this role? 
+We are looking for someone with a strong Finance &amp; Accounting background to join Cohere’s Finance team as a Senior Accountant and help scale our Finance operations. As one of the first few members of our Finance team, you will gain hands-on experience building a successful Finance organization in a fast-growing start-up environment.
+
+Please Note: We have offices in Toronto, Palo Alto and London but embrace being remote-first! We are looking for candidates based in Canada or the United States for this role.
+</description><pubDate>Thu, 01 Sep 2022 22:03:11 +0000</pubDate></item><item><title>Customer Support Lead</title><link>https://jobs.lever.co/cohere/50bdc51e-59ca-4c90-a6e2-d084f30a2c83</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+Why this role?
+The Customer Support &amp; Success function at Cohere is the team that ensures our customers have the best experience discovering, onboarding and using our platform. Great teams in these functions will optimize retention, drive new usage and minimize churn on the platform. 
+
+We’re looking for an analytical, collaborative and customer-focused individual who is passionate to learn more about NLP and lead the Customer Support efforts at Cohere. Cohere has skies-the-limit potential and you’ll help us reach it.
+
+Please Note: We have offices in Toronto, Palo Alto and London but embrace being remote-first! We are looking for candidates based in Canada or United States for this role.
+</description><pubDate>Mon, 08 Aug 2022 20:19:28 +0000</pubDate></item><item><title>Applied Machine Learning Engineer</title><link>https://jobs.lever.co/cohere/3ad7a602-7b6c-4b6b-9558-f7666aeebd21</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
+
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
+
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
+
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
+
+We are forming a team focused on building new applications that utilize our core large language models (LLM). This team will work on projects from conception through to productization. Team members will be involved in direct interaction with customers to fully understand their needs and devise a plan to provide solutions (to those needs) using the Cohere API. These proof of concept projects will be productized into general solutions available to all customers. Completing these end-to-end projects will involve close collaboration with a number of other related engineering teams working on multiple components of our stack.
+
+We are looking for candidates at all levels of experience, from new grads to experienced Machine Learning Engineers. This is a brand new team to Cohere, with an opportunity to have a direct impact on the next stage of our growth. 
+
+</description><pubDate>Tue, 30 Aug 2022 19:36:46 +0000</pubDate></item></channel></rss>

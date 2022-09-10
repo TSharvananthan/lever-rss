@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Nielsen Job Postings</title><link>https://api.lever.co/v0/postings/nielsen?mode=json</link><description>Job postings for Nielsen from lever.co</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 10 Sep 2022 18:13:43 +0000</lastBuildDate><item><title>Senior React Native Engineer - Canada Wide</title><link>https://jobs.lever.co/newton/a4afd774-efa1-4de4-bbf7-f79bf5ec32da</link><description>Say hello to Newton — Canada's first low-cost cryptocurrency trading platform. We see a future where financial systems are open to everyone and built to empower people to embrace financial freedom. We believe cryptocurrency plays a role in that future, so we're making it more accessible to Canadians.
+
+Newton team members are spread out across Canada within a fully-remote capacity.
+
+Our engineering team is focused on delivering robust, testable software that will allow us to scale our core business and growing user base.
+
+As a React Native Engineer at Newton, you will help develop core features of our React Native and React Web projects and integrate with our both teams.  You'll use modern techniques, tools, and frameworks and can communicate the tradeoffs for your technical decisions.  You'll drive features from start to finish, from gathering requirements with business stakeholders to leading technical design and implementation on all platforms.  You write high-quality, testable code.  When mistakes are made, you dive deep into root-cause and focus on solutions.  You work well in a small collaborative team; every member is a key contributor.  You'll mentor junior engineers in delivering solutions and lead the team in best practices.
+</description><pubDate>Tue, 31 May 2022 17:44:14 +0000</pubDate></item><item><title>Senior React Native Engineer - Austin,TX</title><link>https://jobs.lever.co/newton/46b31825-f018-4267-9e89-f9ac6bcaa8d8</link><description>Say hello to Newton - A low-cost cryptocurrency trading platform looking to expand and grow our team across the US and Canada. We see a future where financial systems are open to everyone and built to empower people to embrace financial freedom. We believe cryptocurrency plays a role in that future, and each member of the team plays a critical role in building the next generation of crypto products and supporting this mission.
+
+Newton team members are spread out across the US and Canada, within a fully-remote capacity.
+
+Our engineering team is focused on delivering robust, testable software that will allow us to scale our core business and growing user base.
+
+As a React Native Engineer at Newton, you will help develop core features of our React Native and React Web projects and integrate with our both teams.  You'll use modern techniques, tools, and frameworks and can communicate the tradeoffs for your technical decisions.  You'll drive features from start to finish, from gathering requirements with business stakeholders to leading technical design and implementation on all platforms.  You write high-quality, testable code.  When mistakes are made, you dive deep into root-cause and focus on solutions.  You work well in a small collaborative team; every member is a key contributor.  You'll mentor junior engineers in delivering solutions and lead the team in best practices.
+</description><pubDate>Fri, 17 Jun 2022 15:06:25 +0000</pubDate></item><item><title>Senior React Developer - Canada Wide</title><link>https://jobs.lever.co/newton/b2dfe96d-c1eb-4bef-b337-486ff4357927</link><description>Say hello to Newton — Canada's first low-cost cryptocurrency trading platform. We see a future where financial systems are open to everyone and built to empower people to embrace financial freedom. We believe cryptocurrency plays a role in that future, so we're making it more accessible to Canadians.
+
+Newton team members are spread out across Canada within a fully-remote capacity.
+
+Our engineering team is focused on delivering robust, testable software that will allow us to scale our core business and growing user base.
+
+
+As a React Developer at Newton, you will work on our main web project in React.js, developing high-quality components. You’ll use modern techniques, tools, and frameworks and can communicate the tradeoffs for your technical decisions. You’ll drive features from start to finish, from gathering requirements with business stakeholders to leading technical design and implementation. You write high-quality, testable code. When mistakes are made, you dive deep into root-cause and can craft up a solution. You work well in a small collaborative team; every member is a key contributor.
+</description><pubDate>Tue, 31 May 2022 17:45:56 +0000</pubDate></item><item><title>Senior Backend Developer - Canada Wide</title><link>https://jobs.lever.co/newton/5f524637-c902-49b1-a6a1-ae1e733b3a8a</link><description>Say hello to Newton — Canada's first low-cost cryptocurrency trading platform. We see a future where financial systems are open to everyone and built to empower people to embrace financial freedom. We believe cryptocurrency plays a role in that future, so we're making it more accessible to Canadians.
+
+Newton team members are spread out across Canada within a fully-remote capacity.
+
+As a Backend Developer you'll:
+
+* Champion the backend architecture following modern OOP principles
+* Setup and improve the infrastructure that supports our projects
+* Develop clean, efficient code with accompanying unit tests
+* Write integration tests to ensure code quality
+*  Lead code reviews and invite others to review your work
+* Champion the importance of addressing technical debt
+* Be a force-multiplier for the development team; solutions you provide are simple, scalable, and enable engineers to code more effectively
+* Passionate about learning and sharing knowledge with the rest of the team
+
+Nice to haves:
+
+* Experience in a startup environment; you're a self-starter
+* Experience with Python (Django), Java, Node.JS
+* Experience with AWS products (EC2, Dynamo, RDS, and more)
+* Experience with Postgresql and NoSQL databases
+* Experience with unit testing
+* Experience with version control tools like Git
+* Experience in working with APIs, authorizations, etc.
+* Familiarity with issue tracking tools (i.e. JIRA, Asana)
+</description><pubDate>Thu, 16 Jun 2022 13:11:11 +0000</pubDate></item><item><title>Senior Backend Developer - Austin, TX</title><link>https://jobs.lever.co/newton/b0aefb16-67e3-4584-95ae-de2d84d7c16a</link><description>Say hello to Newton - A low-cost cryptocurrency trading platform looking to expand and grow our team across the US and Canada. We see a future where financial systems are open to everyone and built to empower people to embrace financial freedom. We believe cryptocurrency plays a role in that future, and each member of the team plays a critical role in building the next generation of crypto products and supporting this mission.
+
+Newton team members are spread out across the US and Canada, within a fully-remote capacity.
+
+
+</description><pubDate>Fri, 17 Jun 2022 15:06:06 +0000</pubDate></item><item><title>Security Developer - Canada Wide - Remote</title><link>https://jobs.lever.co/newton/c7a8cc13-20c9-41d6-bcaa-67c8fd262de5</link><description>Say hello to Newton — Canada's first low-cost cryptocurrency trading platform. We see a future where financial systems are open to everyone and built to empower people to embrace financial freedom. We believe cryptocurrency plays a role in that future, so we're making it more accessible to Canadians.
+
+Newton team members are spread out across Canada within a fully-remote capacity.
+
+
+</description><pubDate>Mon, 04 Apr 2022 20:48:26 +0000</pubDate></item><item><title>Fraud Analyst - Canada Wide - Remote - CONTRACT</title><link>https://jobs.lever.co/newton/3d424d6b-4b85-4afb-afed-84febb96992b</link><description>Say hello to Newton — Canada's first low-cost cryptocurrency trading platform. We see a future where financial systems are open to everyone and built to empower people to embrace financial freedom. We believe cryptocurrency plays a role in that future, so we're making it more accessible to Canadians.
+
+Newton team members are spread out across Canada within a fully-remote capacity.
+
+As a fraud analyst, you will be responsible for investigating incidents and cases that are suspected to be fraudulent at any point in the Newton platform. After reviewing suspicious incidents, you will make decisions and recommendations that best mitigate risk for the customer and or the Newton platform from financial crime activity or financial loss as a result of financial crime.
+</description><pubDate>Fri, 31 Dec 2021 18:00:53 +0000</pubDate></item><item><title>CFO - Chief Financial Officer - Canada Wide</title><link>https://jobs.lever.co/newton/f13e8e5b-14e5-431f-90a5-3f5137231e94</link><description>Say hello to Newton — Canada's first low-cost cryptocurrency trading platform. We see a future where financial systems are open to everyone and built to empower people to embrace financial freedom. We believe cryptocurrency plays a role in that future, so we're making it more accessible to Canadians.
+
+Newton team members are spread out across Canada within a fully-remote capacity.
+
+We are looking for an experienced CFO to join the Newton Team! As our CFO you will oversee the finance team and Newton’s corporate financial strategy.
+</description><pubDate>Wed, 10 Aug 2022 15:42:26 +0000</pubDate></item><item><title>CFO - Chief Financial Officer - Austin, TX</title><link>https://jobs.lever.co/newton/f2d7abf4-26a7-4721-a553-4823474b2e20</link><description>Say hello to Newton - A low-cost cryptocurrency trading platform looking to expand and grow our team across the US and Canada. We see a future where financial systems are open to everyone and built to empower people to embrace financial freedom. We believe cryptocurrency plays a role in that future, and each member of the team plays a critical role in building the next generation of crypto products and supporting this mission.
+
+Newton team members are spread out across the US and Canada, within a fully-remote capacity.
+
+We are looking for an experienced CFO to join the Newton Team! As our CFO you will oversee the finance team and Newton’s corporate financial strategy.
+</description><pubDate>Wed, 10 Aug 2022 15:47:36 +0000</pubDate></item></channel></rss>
