@@ -8,7 +8,18 @@ def _handle_exception(request, exception):
 def _job_xml_to_rss(name, url, response):
     postings = response.json()
 
-    if not isinstance(postings, list):
+    # There are two types of responses. An error or success.
+    # An error would be a dictionary that looks like the
+    # below
+    #
+    # {"ok":false,"error":"Document not found"}
+    #
+    # Otherwise, it would be a list of postings. In other
+    # words, if the response is a dictionary, it implies
+    # an error. If the response is a list, it implies a
+    # success.
+    is_success = isinstance(postings, list)
+    if not is_success:
         return
 
     feed = FeedGenerator()
