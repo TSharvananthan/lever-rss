@@ -1,282 +1,570 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Koho Job Postings</title><link>https://api.lever.co/v0/postings/koho?mode=json</link><description>Job postings for Koho from lever.co</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 10 Sep 2022 18:13:32 +0000</lastBuildDate><item><title>Staff Developer, Payments - Remote</title><link>https://jobs.lever.co/koho/0425f251-c32f-478a-9710-9adaea935247</link><description>About KOHO
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Koho Job Postings</title><link>https://api.lever.co/v0/postings/koho?mode=json</link><description>Job postings for Koho from lever.co</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 10 Sep 2022 18:29:57 +0000</lastBuildDate><item><title>Senior Full-Stack Software Engineer, Analytics</title><link>https://jobs.lever.co/lever/cb07d7c0-2474-4a45-91d8-80b3ffead545</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further. 
 
-KOHO’s purpose is to empower Canadians to build a great financial foundation with products that are radically transparent and easy to manage. Our journey began in 2014, and we have since built a community of over 600,000 users. Leading investors around the globe believe in our vision, and we’ve successfully raised over $320M to make our vision a reality.
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021. 
 
-The KOHO collective has grown to 300+ employees to date. Discover our culture here and get the inside scoop from our team here!
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/. 
 
-About the Role:
-As a Staff Software Developer, Backend on KOHO’s Tech team, you will be a technical leader in the KOHO payment ecosystem. You will help define the vision for payments at KOHO while improving the overall technology platform. Even though your main focus is the Payments ecosystem, the impact you will have will be felt and seen across the entire Tech team. 
+THE CHALLENGE 
+Lever Talent Intelligence, Lever’s advanced analytics application, is built on top of Tableau Server. Our next generation of reporting features is built on the Looker platform. We are in the process of translating and improving on what we have in Tableau into Looker to enable a smooth transition for customers. At the end of this process, we will sunset our Tableau Server and consolidate our analytics features into Looker. 
 
-Our teams have a significant degree of autonomy and ownership, and we’re looking for someone with a high level of initiative. This is a fast-paced outcome-oriented environment! We are looking for collaborative developers like you who are eager to help other developers grow, never afraid to voice concerns, and always pushing for best practices. We are looking for you to own and help us improve our coding standards, testing practices, metric definitions, monitoring and alerting our system, and documentation guidelines.
+This is where you come in. You will help evolve Lever’s analytics features to help Lever’s customers recruit more efficiently and more predictably. This position will focus on our Looker integration while helping maintain our Tableau Server integration. 
 
-</description><pubDate>Fri, 09 Sep 2022 21:20:09 +0000</pubDate></item><item><title>Senior Software Developer, Frontend - Remote</title><link>https://jobs.lever.co/koho/0a74bc2f-2570-4440-85d7-fa6418fea82f</link><description>About KOHO
+THE OPPORTUNITY
+As an engineer on the Analytics team, you will be able to help build the next generation of talent analytics at Lever. You will have the chance to work directly with experienced data analysts and reporting ETL engineers to provide a best-in-class analytics solution. Lever wants to set the analytics standard for recruiting, you help us establish that standard. 
 
-KOHO’s purpose is to empower Canadians to build a great financial foundation with products that are radically transparent and easy to manage. Our journey began in 2014, and we have since built a community of over 600,000 users. Leading investors around the globe believe in our vision, and we’ve successfully raised over $320M to make our vision a reality.
+As part of your daily work, you will have the opportunity to build expertise in multiple Business Intelligence tools. You will be able to exercise and strengthen your automation and efficiency skills. You will learn about state of the art data infrastructure like Kafka and Snowflake. You will be on the team building the best-in-class talent analytics suite. 
 
-The KOHO collective has grown to 300+ employees to date. Discover our culture here and get the inside scoop from our team here!
+THE TEAM
+Lever’s reporting engineering team combines ETL engineers, data analysts, designers, and product managers to build, define, and design analytics products for customers. You will join the team as a software engineer building and maintaining advanced analytics products for Lever’s customers. 
 
-About the Role
+You will collaborate closely with the ETL engineers to build software that makes our Business Intelligence tools more efficient. You will work closely with the Data Analysts and Talent Analytics Consultants who build dashboards and other data related content for customers. You will consult and help guide a product and design team that strives to build features to connect human potential to meaningful work.
+</description><pubDate>Wed, 15 Jun 2022 17:33:08 +0000</pubDate></item><item><title>Senior Full-Stack Software Engineer, Analytics</title><link>https://jobs.lever.co/lever/6a7b32ff-63d8-4f90-abf0-02180647fb35</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further. 
 
-As a Senior Software Developer, Frontend, you will be a technical leader within your team. You will evangelize our technology, own our system, mentor team members, challenge our processes, and influence others.
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021. 
 
-Our teams have a large degree of autonomy and ownership and we’re looking for someone with a high level of initiative. This is a fast-paced outcome-oriented environment! We are looking for team players like you who are always eager to learn and help other developers grow. Excited yet?
-</description><pubDate>Mon, 21 Mar 2022 18:16:09 +0000</pubDate></item><item><title>Senior Software Developer, Back End - Remote</title><link>https://jobs.lever.co/koho/243fefb6-d3e9-4051-87f2-70c911e5f2a4</link><description>About the Role 
-As a Senior Software Developer, Backend on KOHO’s Tech and Engineering team, you will be a strong contributor in the KOHO ecosystem and work with other developers to help define and implement processes. You will be working as part of a cross-functional team and driving our core features from start to finish. 
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/. 
 
-Our teams have a large degree of autonomy and ownership and we’re looking for someone with a high level of initiative. This is a fast-paced outcome-oriented environment! We are looking for collaborative-oriented developers like you who are always eager to learn and help other developers grow. Excited yet?
+THE CHALLENGE 
+Lever Talent Intelligence, Lever’s advanced analytics application, is built on top of Tableau Server. Our next generation of reporting features is built on the Looker platform. We are in the process of translating and improving on what we have in Tableau into Looker to enable a smooth transition for customers. At the end of this process, we will sunset our Tableau Server and consolidate our analytics features into Looker. 
 
-Please Note: This is a remote position based in Canada that is available to those who are legally entitled to work in Canada.
-</description><pubDate>Tue, 06 Sep 2022 15:55:16 +0000</pubDate></item><item><title>Senior Security Architect - Remote</title><link>https://jobs.lever.co/koho/cf570ae7-2471-46eb-a7d6-c3e4900f0261</link><description>About KOHO
+This is where you come in. You will help evolve Lever’s analytics features to help Lever’s customers recruit more efficiently and more predictably. This position will focus on our Looker integration while helping maintain our Tableau Server integration. 
 
-KOHO’s purpose is to empower Canadians to build a great financial foundation with products that are radically transparent and easy to manage. Our journey began in 2014, and we have since built a community of over 600,000 users. Leading investors around the globe believe in our vision, and we’ve successfully raised over $320M to make our vision a reality.
+THE OPPORTUNITY
+As an engineer on the Analytics team, you will be able to help build the next generation of talent analytics at Lever. You will have the chance to work directly with experienced data analysts and reporting ETL engineers to provide a best-in-class analytics solution. Lever wants to set the analytics standard for recruiting, you help us establish that standard. 
 
-The KOHO collective has grown to 300+ employees to date. Discover our culture here and get the inside scoop from our team here!
+As part of your daily work, you will have the opportunity to build expertise in multiple Business Intelligence tools. You will be able to exercise and strengthen your automation and efficiency skills. You will learn about state of the art data infrastructure like Kafka and Snowflake. You will be on the team building the best-in-class talent analytics suite. 
 
-About the Role
+THE TEAM
+Lever’s reporting engineering team combines ETL engineers, data analysts, designers, and product managers to build, define, and design analytics products for customers. You will join the team as a software engineer building and maintaining advanced analytics products for Lever’s customers. 
 
-Reporting to the Director, IT &amp; Security, you will be responsible for our cloud security projects ensuring we secure our infrastructure hosts and containers.  You will be working closely with DevOps and Tech/Engineering teams to discover, remediate, and secure vulnerabilities to reduce risks to our backend infrastructure. 
+You will collaborate closely with the ETL engineers to build software that makes our Business Intelligence tools more efficient. You will work closely with the Data Analysts and Talent Analytics Consultants who build dashboards and other data related content for customers. You will consult and help guide a product and design team that strives to build features to connect human potential to meaningful work.
+</description><pubDate>Wed, 15 Jun 2022 17:32:10 +0000</pubDate></item><item><title>Senior Full-Stack Software Engineer, Analytics</title><link>https://jobs.lever.co/lever/4d1bb825-358f-4eec-929c-008e40300807</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further. 
 
-You’ll be a foundational security team member and have significant responsibilities that make an impact on KOHO’s security posture. 
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021. 
 
-</description><pubDate>Fri, 08 Jul 2022 16:21:13 +0000</pubDate></item><item><title>Senior Marketing Lead, SEO &amp; Content - Remote</title><link>https://jobs.lever.co/koho/71e39b25-3b97-4c40-9551-6949d6646182</link><description>About KOHO
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/. 
 
-KOHO’s purpose is to empower Canadians to build a great financial foundation with products that are radically transparent and easy to manage. Our journey began in 2014, and we have since built a community of over 600,000 users. Leading investors around the globe believe in our vision, and we’ve successfully raised over $320M to make our vision a reality.
+THE CHALLENGE 
+Lever Talent Intelligence, Lever’s advanced analytics application, is built on top of Tableau Server. Our next generation of reporting features is built on the Looker platform. We are in the process of translating and improving on what we have in Tableau into Looker to enable a smooth transition for customers. At the end of this process, we will sunset our Tableau Server and consolidate our analytics features into Looker. 
 
-The KOHO collective has grown to 300+ employees to date. Discover our culture here and get the inside scoop from our team here!
+This is where you come in. You will help evolve Lever’s analytics features to help Lever’s customers recruit more efficiently and more predictably. This position will focus on our Looker integration while helping maintain our Tableau Server integration. 
 
-About the Role
+THE OPPORTUNITY
+As an engineer on the Analytics team, you will be able to help build the next generation of talent analytics at Lever. You will have the chance to work directly with experienced data analysts and reporting ETL engineers to provide a best-in-class analytics solution. Lever wants to set the analytics standard for recruiting, you help us establish that standard. 
 
-KOHO is looking for our next Senior Marketing Lead to own all things SEO and Content. There are three main pillars to this role: content, SEO and ASO. If this sounds like you already, keep reading!
+As part of your daily work, you will have the opportunity to build expertise in multiple Business Intelligence tools. You will be able to exercise and strengthen your automation and efficiency skills. You will learn about state of the art data infrastructure like Kafka and Snowflake. You will be on the team building the best-in-class talent analytics suite. 
 
-</description><pubDate>Mon, 29 Aug 2022 19:21:11 +0000</pubDate></item><item><title>Senior Legal Counsel, Commercial - Remote</title><link>https://jobs.lever.co/koho/a3f6f3a8-9517-4ee8-baf0-da660124bb3e</link><description>We're seeking a smart, motivated attorney to help our company grow and scale as we continue to deliver financial products and services that improve the lives of consumers across Canada. You will lead the commercial legal work; and may provide support for product development and regulatory matters also. This role reports to the Chief Legal Officer and can be located anywhere in Canada (as we are a fully remote company!)
-</description><pubDate>Fri, 26 Aug 2022 12:47:22 +0000</pubDate></item><item><title>Senior Analytics Engineer - Remote</title><link>https://jobs.lever.co/koho/fad43ed6-71e0-4510-bdbb-2c8969c7537a</link><description>About KOHO
+THE TEAM
+Lever’s reporting engineering team combines ETL engineers, data analysts, designers, and product managers to build, define, and design analytics products for customers. You will join the team as a software engineer building and maintaining advanced analytics products for Lever’s customers. 
 
-KOHO’s purpose is to empower Canadians to build a great financial foundation with products that are radically transparent and easy to manage. Our journey began in 2014, and we have since built a community of over 600,000 users. Leading investors around the globe believe in our vision, and we’ve successfully raised over $320M to make our vision a reality.
+You will collaborate closely with the ETL engineers to build software that makes our Business Intelligence tools more efficient. You will work closely with the Data Analysts and Talent Analytics Consultants who build dashboards and other data related content for customers. You will consult and help guide a product and design team that strives to build features to connect human potential to meaningful work.
+</description><pubDate>Wed, 15 Jun 2022 17:31:30 +0000</pubDate></item><item><title>Senior Full-Stack Software Engineer, Analytics</title><link>https://jobs.lever.co/lever/08d92b00-0c10-4983-b10a-958954939f22</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further. 
 
-The KOHO collective has grown to 300+ employees to date. Discover our culture here and get the inside scoop from our team here!
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021. 
 
-About the Role
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/. 
 
-KOHO is looking for a Senior Analytics Engineer to work with our data analytics, engineering, data science, and machine learning teams. This role is for you if you are passionate about modeling data in a way that empowers end users to answer their own questions. Successful applicants will spend their time transforming, testing, deploying, and documenting data leveraging dbt while applying software engineering best practices across the analytics code base. This role will also include the ownership of dbt across the organization and collaboration with data leadership related to all aspects of analytics engineering for the firm.
+THE CHALLENGE 
+Lever Talent Intelligence, Lever’s advanced analytics application, is built on top of Tableau Server. Our next generation of reporting features is built on the Looker platform. We are in the process of translating and improving on what we have in Tableau into Looker to enable a smooth transition for customers. At the end of this process, we will sunset our Tableau Server and consolidate our analytics features into Looker. 
 
-Please Note: This is a remote position and is available to those who are legally entitled to work in Canada.
+This is where you come in. You will help evolve Lever’s analytics features to help Lever’s customers recruit more efficiently and more predictably. This position will focus on our Looker integration while helping maintain our Tableau Server integration. 
 
-</description><pubDate>Thu, 14 Jul 2022 18:33:57 +0000</pubDate></item><item><title>Sales Engineer - Remote</title><link>https://jobs.lever.co/koho/646ef82e-8830-4d27-a580-278a34c4e230</link><description>About the Role
+THE OPPORTUNITY
+As an engineer on the Analytics team, you will be able to help build the next generation of talent analytics at Lever. You will have the chance to work directly with experienced data analysts and reporting ETL engineers to provide a best-in-class analytics solution. Lever wants to set the analytics standard for recruiting, you help us establish that standard. 
 
-As a Sales Engineer at KOHO, you will be a core part of the team responsible for selling our unique solutions to partners across Canada. You will lead consultative, technical-focused discussions with both internal and external stakeholders in support of new partnerships, implementations and integrations. The role will require you to collaborate with a wide range of cross-functional teams to gain a holistic understanding of KOHOs technical capabilities to successfully support your day-to-day responsibilities.
-</description><pubDate>Thu, 01 Sep 2022 20:16:00 +0000</pubDate></item><item><title>Responsable de la Sécurité des Produits - À Distance</title><link>https://jobs.lever.co/koho/4d5e66a5-cb09-42c8-abbb-97f903393a92</link><description>À Propos de KOHO
+As part of your daily work, you will have the opportunity to build expertise in multiple Business Intelligence tools. You will be able to exercise and strengthen your automation and efficiency skills. You will learn about state of the art data infrastructure like Kafka and Snowflake. You will be on the team building the best-in-class talent analytics suite. 
 
-L'objectif de KOHO est de donner aux Canadiens les moyens d’établir des fondations financières solides grâce à des produits totalement transparents et faciles à gérer. Notre parcours a débuté en 2014 et nous avons depuis créé une communauté de plus de 600 000 utilisateurs. Des investisseurs de premier plan du monde entier croient en notre vision et nous avons réussi à amasser plus de 320 M$ pour la concrétiser. 
+THE TEAM
+Lever’s reporting engineering team combines ETL engineers, data analysts, designers, and product managers to build, define, and design analytics products for customers. You will join the team as a software engineer building and maintaining advanced analytics products for Lever’s customers. 
 
-Le collectif KOHO compte plus de 300 employés à ce jour. Pour en savoir plus sur notre culture, cliquez ici et pour connaître les dernières nouvelles de notre équipe, cliquez ici!
+You will collaborate closely with the ETL engineers to build software that makes our Business Intelligence tools more efficient. You will work closely with the Data Analysts and Talent Analytics Consultants who build dashboards and other data related content for customers. You will consult and help guide a product and design team that strives to build features to connect human potential to meaningful work.
+</description><pubDate>Wed, 15 Jun 2022 17:32:49 +0000</pubDate></item><item><title>Senior Full-Stack Software Engineer</title><link>https://jobs.lever.co/lever/7d57c883-83cf-4515-a7e1-81242f113159</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
 
-À Propos du Poste
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
 
-Relevant du directeur, TI et sécurité, nous sommes à la recherche d’un gestionnaire qui veillera à ce que les produits de KOHO répondent aux exigences en matière de sécurité, de confidentialité et de résilience. Le titulaire de ce poste dirigera la sécurité des produits et collaborera avec les équipes suivantes : Tech/Ingénierie, Produit, Risque et Juridique. 
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
 
-Vous travaillerez en étroite collaboration avec les équipes de produits pour comprendre les feuilles de route et la stratégie des produits de KOHO. Vous dirigerez et développerez la stratégie de confidentialité et de sécurité des produits de KOHO pour toutes les gammes de produits. Vous comprendrez les fonctionnalités qui ont un impact sur la confidentialité et la sécurité de nos utilisateurs pour l'ensemble des produits.
+THE OPPORTUNITY
+As an Engineer on our Product team, you’ll help us build out our core product by developing high-impact, user-facing features. In our growing engineering organization, you’ll be developing and shipping new features and updates to Lever’s product. You’ll be learning about our real-time web stack UI frameworks that help us deliver a beautiful and high quality solution to our customers. In addition, working on API's and integrations to support our partners. You’ll work collaboratively with product managers and designers to drive the implementation and release of major features, and be a champion of best practices for writing well-tested, well-organized code.
 
-Vous serez un membre essentiel de l’équipe de sécurité et aurez des responsabilités importantes qui auront une incidence sur la stratégie de sécurité de KOHO.
-</description><pubDate>Tue, 30 Aug 2022 17:44:50 +0000</pubDate></item><item><title>Product Security Manager - Remote</title><link>https://jobs.lever.co/koho/a48421c0-f138-4308-b372-ba2b45d0f161</link><description>About KOHO
+You’ll become familiar with all parts of our stack—including our open source web framework, DerbyJS. You will exercise judgment in making tradeoffs between design and feasibility. You’ll engineer extension points to be scalable and resilient in a complex, single-page application.
 
-KOHO’s purpose is to empower Canadians to build a great financial foundation with products that are radically transparent and easy to manage. Our journey began in 2014, and we have since built a community of over 600,000 users. Leading investors around the globe believe in our vision, and we’ve successfully raised over $320M to make our vision a reality.
+We believe that user-centric design ultimately leads to the best products, so we listen closely to our users, both external and internal. As an engineer on our close-knit, cross-functional team, you’ll be an active voice in shaping our product. Lever is constantly rolling out high-demand features and tackling ever greater challenges of scale. 
 
-The KOHO collective has grown to 300+ employees to date. Discover our culture here and get the inside scoop from our team here!
+THE TEAM
+You’ll join a team where everyone—including you—is striving to constantly improve their knowledge of infrastructure, systems, and cares about minimizing downtime. We are an incredibly supportive team–we love to pitch in when problems arise and give great peer feedback to help each other grow. We are passionate about lots of things--automation, friendly chat bots, creating a great hiring experience, and a great user experience--and we love sharing those passions with each other.
 
-About the Role
+Read about what our team values and why here. 
 
-Reporting to the Director, IT and Security,  we are looking for a manager to ensure KOHO products meet security, privacy, and resiliency requirements.  This position will lead product security and collaborates with Tech/Engineering, Product, Risk, and Legal teams. 
+THE TECH STACK
+Lever uses our own open source MVC framework called Derby that syncs all data via Operational Transformation (the algorithm behind Google Docs). OT is the way we handle concurrency conflicts for any piece of data that is edited at the same time. In addition to real-time sync, OT allows us to provide a smoother UI since we can render updates on the client instantly without waiting for our backend to respond, while still guaranteeing consistency.
 
-You will work closely with Product teams to understand KOHO product roadmaps and strategy. Lead and develop KOHO’s product privacy and security strategy across all product lines. Understand product features that impact the privacy and security for our users across all products.  
+Lever makes extensive use of AWS, Docker, Node, TypeScript, Mongo, ElasticSearch, and Redis within our infrastructure. We use tools like Hubot to streamline deployments and Grafana to see what’s going on under the hood. In addition to automating all the things, we love to version them too! Our systems are all created using Terraform and Chef, working together to ensure consistency at all costs.
 
-You’ll be a foundational security team member and have significant responsibilities that make an impact on KOHO’s security posture. 
+Read more about The Lever Tech Stack from our Software Engineer, Eric Hwang.
 
-</description><pubDate>Fri, 22 Jul 2022 21:09:55 +0000</pubDate></item><item><title>Product Manager, Credit - Remote</title><link>https://jobs.lever.co/koho/665cd3a2-31da-4cdf-b3b7-1bf20ee36cb6</link><description>About KOHO
+Learn more about Lever’s interview process and read about what our engineering has been up to on our engineering team blog.
+</description><pubDate>Tue, 08 Feb 2022 23:29:37 +0000</pubDate></item><item><title>Senior Full-Stack Software Engineer</title><link>https://jobs.lever.co/lever/4c7b757f-bccd-422e-a3c3-9d9cf2285ba0</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
 
-KOHO’s purpose is to empower Canadians to build a great financial foundation with products that are radically transparent and easy to manage. Our journey began in 2014, and we have since built a community of over 600,000 users. Leading investors around the globe believe in our vision, and we’ve successfully raised over $320M to make our vision a reality.
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
 
-The KOHO collective has grown to 300+ employees to date. Discover our culture here and get the inside scoop from our team here!
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
 
-About the Role
+THE OPPORTUNITY
+As an Engineer on our Product team, you’ll help us build out our core product by developing high-impact, user-facing features. In our growing engineering organization, you’ll be developing and shipping new features and updates to Lever’s product. You’ll be learning about our real-time web stack UI frameworks that help us deliver a beautiful and high quality solution to our customers. In addition, working on API's and integrations to support our partners. You’ll work collaboratively with product managers and designers to drive the implementation and release of major features, and be a champion of best practices for writing well-tested, well-organized code.
 
-We’re looking for a Product Manager to join our team for a role to work remotely based in Canada or USA. Reporting to the Director of Product Management, you’re going to be part of a team that owns the core product.
-</description><pubDate>Wed, 03 Aug 2022 15:26:30 +0000</pubDate></item><item><title>Legal Counsel - Remote</title><link>https://jobs.lever.co/koho/249642b3-b229-461d-b15e-3847e6dbf9b3</link><description>About KOHO
+You’ll become familiar with all parts of our stack—including our open source web framework, DerbyJS. You will exercise judgment in making tradeoffs between design and feasibility. You’ll engineer extension points to be scalable and resilient in a complex, single-page application.
 
-KOHO’s purpose is to empower Canadians to build a great financial foundation with products that are radically transparent and easy to manage. Our journey began in 2014, and we have since built a community of over 600,000 users. Leading investors around the globe believe in our vision, and we’ve successfully raised over $320M to make our vision a reality.
+We believe that user-centric design ultimately leads to the best products, so we listen closely to our users, both external and internal. As an engineer on our close-knit, cross-functional team, you’ll be an active voice in shaping our product. Lever is constantly rolling out high-demand features and tackling ever greater challenges of scale. 
 
-The KOHO collective has grown to 300+ employees to date. Discover our culture here and get the inside scoop from our team here!
+THE TEAM
+You’ll join a team where everyone—including you—is striving to constantly improve their knowledge of infrastructure, systems, and cares about minimizing downtime. We are an incredibly supportive team–we love to pitch in when problems arise and give great peer feedback to help each other grow. We are passionate about lots of things--automation, friendly chat bots, creating a great hiring experience, and a great user experience--and we love sharing those passions with each other.
 
-About the Role
+Read about what our team values and why here. 
 
-We're a leading Canadian fintech and we're seeking a smart, motivated Legal Counsel to help our company grow and scale as we continue to deliver financial products and services that improve the lives of consumers across Canada. You will provide legal guidance on commercial contracts, product development, and regulatory matters. This role reports to the Chief Legal Officer and can be located anywhere in Canada (as we are a fully remote company!)
-</description><pubDate>Thu, 25 Aug 2022 16:59:15 +0000</pubDate></item><item><title>Join the KOHO Talent Community!</title><link>https://jobs.lever.co/koho/21b6594e-8556-4a55-b0af-28dd2ed9d41b</link><description>We Have Something for Everyone!
+THE TECH STACK
+Lever uses our own open source MVC framework called Derby that syncs all data via Operational Transformation (the algorithm behind Google Docs). OT is the way we handle concurrency conflicts for any piece of data that is edited at the same time. In addition to real-time sync, OT allows us to provide a smoother UI since we can render updates on the client instantly without waiting for our backend to respond, while still guaranteeing consistency.
 
-Didn't find a role matching your profile and experience?
+Lever makes extensive use of AWS, Docker, Node, TypeScript, Mongo, ElasticSearch, and Redis within our infrastructure. We use tools like Hubot to streamline deployments and Grafana to see what’s going on under the hood. In addition to automating all the things, we love to version them too! Our systems are all created using Terraform and Chef, working together to ensure consistency at all costs.
 
-Feel free to submit an application and keep in touch with us for future opportunities! We are always seeking talented individuals who want to make an impact and join us on our mission.
+Read more about The Lever Tech Stack from our Software Engineer, Eric Hwang.
 
-When submitting your application, please identify which department(s) you’d be most interested in joining, and one of our Talent Partners will reach out if a suitable position opens up. We’ll also stay connected with you about potential opportunities and you’ll receive alerts about any new roles that match your experience! We hope to connect with you in the near future!
-</description><pubDate>Thu, 23 Jun 2022 15:13:26 +0000</pubDate></item><item><title>Joignez-vous à la Communauté des Talents de KOHO!</title><link>https://jobs.lever.co/koho/037f3175-ef5f-4eab-b281-0eb20057badf</link><description>Nous Avons Quelque Chose Pour Tout le Monde!
+Learn more about Lever’s interview process and read about what our engineering has been up to on our engineering team blog.
+</description><pubDate>Tue, 08 Feb 2022 23:30:33 +0000</pubDate></item><item><title>Senior Full-Stack Software Engineer</title><link>https://jobs.lever.co/lever/39a2f1b5-1dc5-40b7-9250-0b142534cdec</link><description>A BIT ABOUT US
+Lever was founded ten years ago to tackle the most strategic challenge that companies face: how to recruit and hire top talent. We’re building the next generation of hiring software that companies can rely on to grow their teams. We've rethought the talent acquisition paradigm and are the innovation leaders in our space and looking for the right people to join us as we scale. 
 
-Vous n’avez pas trouvé de poste correspondant à votre profil et à votre expérience de travail?
+We’re extraordinarily proud of the company we’ve built so far and are thrilled for our plans to come after our last round of funding of $50 million in November 2021. Together, our company has been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage and we’ll continue investing in our “Leveroos” and people-first culture.     
 
-N'hésitez pas à soumettre votre candidature et restez en contact avec nous pour connaître les opportunités futures! Nous sommes toujours à la recherche de personnes talentueuses qui souhaitent apporter leur contribution et se joindre à nous dans notre mission.
+THE OPPORTUNITY
+As an Engineer on our Product team, you’ll help us build out our core product by developing high-impact, user-facing features. In our growing engineering organization, you’ll be developing and shipping new features and updates to Lever’s product. You’ll be learning about our real-time web stack UI frameworks that help us deliver a beautiful and high quality solution to our customers. In addition, working on API's and integrations to support our partners. You’ll work collaboratively with product managers and designers to drive the implementation and release of major features, and be a champion of best practices for writing well-tested, well-organized code.
 
-Lors de l'envoi de votre candidature, veuillez indiquer le ou les départements qui vous intéressent le plus et l'un de nos Partenaires en acquisition de talents communiquera avec vous si un poste correspondant à vos qualifications se libère. Nous resterons également en contact avec vous pour vous informer des opportunités potentielles et vous recevrez des alertes au sujet des nouveaux postes correspondant à votre expérience! Nous espérons communiquer avec vous prochainement!
+You’ll become familiar with all parts of our stack—including our open source web framework, DerbyJS. You will exercise judgment in making tradeoffs between design and feasibility. You’ll engineer extension points to be scalable and resilient in a complex, single-page application.
 
-</description><pubDate>Tue, 30 Aug 2022 17:32:23 +0000</pubDate></item><item><title>Ingénieur Principal En Analytique - À Distance</title><link>https://jobs.lever.co/koho/55257b74-7ac7-4296-8475-289102806572</link><description>À propos de KOHO
+We believe that user-centric design ultimately leads to the best products, so we listen closely to our users, both external and internal. As an engineer on our close-knit, cross-functional team, you’ll be an active voice in shaping our product. Lever is constantly rolling out high-demand features and tackling ever greater challenges of scale. 
 
-L'objectif de KOHO est de donner aux Canadiens les moyens d’établir des fondations financières solides grâce à des produits totalement transparents et faciles à gérer. Notre parcours a débuté en 2014 et nous avons depuis créé une communauté de plus de 600 000 utilisateurs. Des investisseurs de premier plan du monde entier croient en notre vision et nous avons réussi à amasser plus de 320 M$ pour la concrétiser. 
-Le collectif KOHO compte plus de 300 employés à ce jour. Pour en savoir plus sur notre culture, cliquez ici et pour connaître les dernières nouvelles de notre équipe, cliquez ici!
+THE TEAM
+You’ll join a team where everyone—including you—is striving to constantly improve their knowledge of infrastructure, systems, and cares about minimizing downtime. We are an incredibly supportive team–we love to pitch in when problems arise and give great peer feedback to help each other grow. We are passionate about lots of things--automation, friendly chat bots, creating a great hiring experience, and a great user experience--and we love sharing those passions with each other.
 
-À Propos De Ce Poste
+Read about what our team values and why here. 
 
-KOHO est à la recherche d'un ingénieur principal en analytique pour travailler avec nos équipes d'analyse des données, d'ingénierie, de science des données et d'apprentissage automatique. Ce poste est pour vous si vous êtes passionné par la modélisation des données d'une manière permettant aux utilisateurs finaux de répondre à leurs propres questions. Les candidats retenus consacreront leur temps à transformer, tester, déployer et documenter les données en utilisant DBT (outil de création de données) tout en appliquant les meilleures pratiques d'ingénierie logicielle à l'ensemble de la base du code analytique. Ce poste prévoit également la prise en charge de DBT dans l'ensemble de l'organisation et la collaboration avec la direction des données pour tous les aspects de l'ingénierie analytique de l'entreprise.
+THE TECH STACK
+Lever uses our own open source MVC framework called Derby that syncs all data via Operational Transformation (the algorithm behind Google Docs). OT is the way we handle concurrency conflicts for any piece of data that is edited at the same time. In addition to real-time sync, OT allows us to provide a smoother UI since we can render updates on the client instantly without waiting for our backend to respond, while still guaranteeing consistency.
 
-Prenez note : Il s’agit d’un poste à distance offert aux personnes légalement autorisées à travailler au Canada.
-</description><pubDate>Tue, 30 Aug 2022 17:31:29 +0000</pubDate></item><item><title>Ingénieur En Analytique - À Distance</title><link>https://jobs.lever.co/koho/9f493ea3-9a88-4eb3-9146-94cef8ba778e</link><description>À Propos De KOHO
+Lever makes extensive use of AWS, Docker, Node, TypeScript, Mongo, ElasticSearch, and Redis within our infrastructure. We use tools like Hubot to streamline deployments and Grafana to see what’s going on under the hood. In addition to automating all the things, we love to version them too! Our systems are all created using Terraform and Chef, working together to ensure consistency at all costs.
 
-L'objectif de KOHO est de donner aux Canadiens les moyens d’établir des fondations financières solides grâce à des produits totalement transparents et faciles à gérer. Notre parcours a débuté en 2014 et nous avons depuis créé une communauté de plus de 600 000 utilisateurs. Des investisseurs de premier plan du monde entier croient en notre vision et nous avons réussi à amasser plus de 320 M$ pour la concrétiser. 
+Read more about The Lever Tech Stack from our Software Engineer, Eric Hwang.
 
-Le collectif KOHO compte plus de 300 employés à ce jour. Pour en savoir plus sur notre culture, cliquez ici et pour connaître les dernières nouvelles de notre équipe, cliquez ici!
+Learn more about Lever’s interview process and read about what our engineering has been up to on our engineering team blog.
+</description><pubDate>Tue, 08 Feb 2022 23:30:15 +0000</pubDate></item><item><title>Senior Full-Stack Software Engineer</title><link>https://jobs.lever.co/lever/0c7cf459-f9a1-4a90-8c86-35513d86d902</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
 
-À Propos De Ce Poste
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
 
-KOHO est à la recherche d'un ingénieur en analytique pour travailler avec nos équipes d'analyse des données, d'ingénierie, de science des données et d'apprentissage automatique. Ce poste est pour vous si vous êtes passionné par la modélisation des données d'une manière permettant aux utilisateurs finaux de répondre à leurs propres questions. Les candidats retenus consacreront leur temps à transformer, tester, déployer et documenter les données en utilisant DBT (outil de création de données) tout en appliquant les meilleures pratiques d'ingénierie logicielle à l'ensemble de la base du code analytique. Ce poste prévoit également la prise en charge de DBT dans l'ensemble de l'organisation et la collaboration avec la direction des données pour tous les aspects de l'ingénierie analytique de l'entreprise.
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
 
-Prenez note : Il s’agit d’un poste à distance offert aux personnes légalement autorisées à travailler au Canada.
-</description><pubDate>Tue, 30 Aug 2022 17:32:41 +0000</pubDate></item><item><title>Enterprise Account Executive - Remote</title><link>https://jobs.lever.co/koho/5b3be4ee-83a7-4406-b867-ad6e92c27c3d</link><description>About KOHO
+THE OPPORTUNITY
+As an Engineer on our Product team, you’ll help us build out our core product by developing high-impact, user-facing features. In our growing engineering organization, you’ll be developing and shipping new features and updates to Lever’s product. You’ll be learning about our real-time web stack UI frameworks that help us deliver a beautiful and high quality solution to our customers. In addition, working on API's and integrations to support our partners. You’ll work collaboratively with product managers and designers to drive the implementation and release of major features, and be a champion of best practices for writing well-tested, well-organized code.
 
-KOHO’s purpose is to empower Canadians to build a great financial foundation with products that are radically transparent and easy to manage. Our journey began in 2014, and we have since built a community of over 600,000 users. Leading investors around the globe believe in our vision, and we’ve successfully raised over $320M to make our vision a reality.
+You’ll become familiar with all parts of our stack—including our open source web framework, DerbyJS. You will exercise judgment in making tradeoffs between design and feasibility. You’ll engineer extension points to be scalable and resilient in a complex, single-page application.
 
-The KOHO collective has grown to 300+ employees to date. Discover our culture here and get the inside scoop from our team here!
+We believe that user-centric design ultimately leads to the best products, so we listen closely to our users, both external and internal. As an engineer on our close-knit, cross-functional team, you’ll be an active voice in shaping our product. Lever is constantly rolling out high-demand features and tackling ever greater challenges of scale. 
 
-About the Role
+THE TEAM
+You’ll join a team where everyone—including you—is striving to constantly improve their knowledge of infrastructure, systems, and cares about minimizing downtime. We are an incredibly supportive team–we love to pitch in when problems arise and give great peer feedback to help each other grow. We are passionate about lots of things--automation, friendly chat bots, creating a great hiring experience, and a great user experience--and we love sharing those passions with each other.
 
-KOHO is looking for an Enterprise Account Executive sales professional to spearhead our Instant Pay sales in the Canadian market. We've been actively selling into this market over the last 12 months and have developed features and the necessary regulatory compliance required to penetrate this market. We've already landed many noteworthy Canadian clients to prove our product-market fit.
-</description><pubDate>Tue, 26 Jul 2022 19:21:04 +0000</pubDate></item><item><title>Director, Product Management (Growth) - Remote</title><link>https://jobs.lever.co/koho/b16f1e9e-6eb4-4d16-9874-28e926828632</link><description>About KOHO
+Read about what our team values and why here. 
 
-KOHO’s purpose is to empower Canadians to build a great financial foundation with products that are radically transparent and easy to manage. Our journey began in 2014, and we have since built a community of over 600,000 users. Leading investors around the globe believe in our vision, and we’ve successfully raised over $320M to make our vision a reality.
+THE TECH STACK
+Lever uses our own open source MVC framework called Derby that syncs all data via Operational Transformation (the algorithm behind Google Docs). OT is the way we handle concurrency conflicts for any piece of data that is edited at the same time. In addition to real-time sync, OT allows us to provide a smoother UI since we can render updates on the client instantly without waiting for our backend to respond, while still guaranteeing consistency.
 
-The KOHO collective has grown to 300+ employees to date. Discover our culture here and get the inside scoop from our team here!
+Lever makes extensive use of AWS, Docker, Node, TypeScript, Mongo, ElasticSearch, and Redis within our infrastructure. We use tools like Hubot to streamline deployments and Grafana to see what’s going on under the hood. In addition to automating all the things, we love to version them too! Our systems are all created using Terraform and Chef, working together to ensure consistency at all costs.
 
-About the Role
+Read more about The Lever Tech Stack from our Software Engineer, Eric Hwang.
 
-At KOHO, we're building the ultimate savings tool for all Canadians. As a Director, Growth, you will be involved in every aspect of the product development process, from defining the product strategy and roadmap to driving release milestones with the engineering team.
+Learn more about Lever’s interview process and read about what our engineering has been up to on our engineering team blog.
+</description><pubDate>Wed, 10 Feb 2021 02:18:20 +0000</pubDate></item><item><title>Senior Full-Stack Software Engineer</title><link>https://jobs.lever.co/lever/00576410-b918-4146-93af-1cfaf7eb2403</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
 
-This role reports into our Chief Product Officer. 
-</description><pubDate>Thu, 14 Jul 2022 14:05:05 +0000</pubDate></item><item><title>Director, Product Management (Growth) - Remote</title><link>https://jobs.lever.co/koho/1506bd0a-c6d4-4ad9-a9c1-7aeef5a9dfeb</link><description>About KOHO
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
 
-KOHO’s purpose is to empower Canadians to build a great financial foundation with products that are radically transparent and easy to manage. Our journey began in 2014, and we have since built a community of over 600,000 users. Leading investors around the globe believe in our vision, and we’ve successfully raised over $320M to make our vision a reality.
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
 
-The KOHO collective has grown to 300+ employees to date. Discover our culture here and get the inside scoop from our team here!
+THE OPPORTUNITY
+As an Engineer on our Product team, you’ll help us build out our core product by developing high-impact, user-facing features. In our growing engineering organization, you’ll be developing and shipping new features and updates to Lever’s product. You’ll be learning about our real-time web stack UI frameworks that help us deliver a beautiful and high quality solution to our customers. In addition, working on API's and integrations to support our partners. You’ll work collaboratively with product managers and designers to drive the implementation and release of major features, and be a champion of best practices for writing well-tested, well-organized code.
 
-About the Role
+You’ll become familiar with all parts of our stack—including our open source web framework, DerbyJS. You will exercise judgment in making tradeoffs between design and feasibility. You’ll engineer extension points to be scalable and resilient in a complex, single-page application.
 
-At KOHO, we're building the ultimate savings tool for all Canadians. As a Director, Growth, you will be involved in every aspect of the product development process, from defining the product strategy and roadmap to driving release milestones with the engineering team.
+We believe that user-centric design ultimately leads to the best products, so we listen closely to our users, both external and internal. As an engineer on our close-knit, cross-functional team, you’ll be an active voice in shaping our product. Lever is constantly rolling out high-demand features and tackling ever greater challenges of scale. 
 
-This role reports into our Chief Product Officer. 
-</description><pubDate>Wed, 13 Apr 2022 14:14:00 +0000</pubDate></item><item><title>Director, Performance Marketing - Remote</title><link>https://jobs.lever.co/koho/aee52756-28a3-40f8-88f7-246ba9f5a2b0</link><description>About KOHO
+THE TEAM
+You’ll join a team where everyone—including you—is striving to constantly improve their knowledge of infrastructure, systems, and cares about minimizing downtime. We are an incredibly supportive team–we love to pitch in when problems arise and give great peer feedback to help each other grow. We are passionate about lots of things--automation, friendly chat bots, creating a great hiring experience, and a great user experience--and we love sharing those passions with each other.
 
-KOHO’s purpose is to empower Canadians to build a great financial foundation with products that are radically transparent and easy to manage. Our journey began in 2014, and we have since built a community of over 600,000 users. Leading investors around the globe believe in our vision, and we’ve successfully raised over $320M to make our vision a reality.
+Read about what our team values and why here. 
 
-The KOHO collective has grown to 300+ employees to date. Discover our culture here and get the inside scoop from our team here!
+THE TECH STACK
+Lever uses our own open source MVC framework called Derby that syncs all data via Operational Transformation (the algorithm behind Google Docs). OT is the way we handle concurrency conflicts for any piece of data that is edited at the same time. In addition to real-time sync, OT allows us to provide a smoother UI since we can render updates on the client instantly without waiting for our backend to respond, while still guaranteeing consistency.
 
-About the Role
+Lever makes extensive use of AWS, Docker, Node, TypeScript, Mongo, ElasticSearch, and Redis within our infrastructure. We use tools like Hubot to streamline deployments and Grafana to see what’s going on under the hood. In addition to automating all the things, we love to version them too! Our systems are all created using Terraform and Chef, working together to ensure consistency at all costs.
 
-KOHO is seeking a passionate, growth-oriented, and analytical Director of Performance Marketing to lead the growth team that manages all paid online and offline advertising. The role will be responsible for the strategy and execution to drive growth at a key inflection point for the company, working closely with other functional leaders to scale our business units in an efficient and ROI-positive way.
+Read more about The Lever Tech Stack from our Software Engineer, Eric Hwang.
 
-This person will lead a team that manages paid digital channels (paid social, SEM, display, etc.), experimentation across new channels, marketing analytics, and testing and optimization. This position reports directly to our CMO.
-</description><pubDate>Mon, 15 Aug 2022 20:01:20 +0000</pubDate></item><item><title>Director, Performance Marketing - Remote</title><link>https://jobs.lever.co/koho/86a48f76-7301-4463-aef3-d45713581bcb</link><description>About KOHO
+Learn more about Lever’s interview process and read about what our engineering has been up to on our engineering team blog.
+</description><pubDate>Tue, 08 Feb 2022 23:30:59 +0000</pubDate></item><item><title>Product Manager</title><link>https://jobs.lever.co/lever/3efe71df-c507-419b-ac4b-02a5531f107b</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
 
-KOHO’s purpose is to empower Canadians to build a great financial foundation with products that are radically transparent and easy to manage. Our journey began in 2014, and we have since built a community of over 600,000 users. Leading investors around the globe believe in our vision, and we’ve successfully raised over $320M to make our vision a reality.
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
 
-The KOHO collective has grown to 300+ employees to date. Discover our culture here and get the inside scoop from our team here!
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
 
-About the Role
+THE CHALLENGE
+We are looking for an experienced Product Manager to join the team and collaborate to innovate around our Talent Acquisition solution.  The successful candidate will help us drive our core roadmap and collaborate with customers to deliver value in areas such as candidate relationship management.  The role will partner with Design and Engineering to continue driving innovation for our customers.
 
-KOHO is seeking a passionate, growth-oriented, and analytical Director of Performance Marketing to lead the growth team that manages all paid online and offline advertising. The role will be responsible for the strategy and execution to drive growth at a key inflection point for the company, working closely with other functional leaders to scale our business units in an efficient and ROI-positive way.
+THE OPPORTUNITY
+As a PM, you will have the ability to deliver meaningful customer value in a SaaS environment, while you hone your continuous discovery skills, and collaborate with a team of committed product experts.  You will contribute to a broader strategy and roadmap discussion based on your unique understanding of our market and customers, and gain experience across the entire product lifecycle, from idea to launch. 
 
-This person will lead a team that manages paid digital channels (paid social, SEM, display, etc.), experimentation across new channels, marketing analytics, and testing and optimization. This position reports directly to our CMO.
-</description><pubDate>Thu, 21 Jul 2022 14:56:37 +0000</pubDate></item><item><title>Développeur Principal de Logiciels, Interface Utilisateur - À Distance</title><link>https://jobs.lever.co/koho/ebf6ae3a-82d9-424f-919e-570cefcad0da</link><description>À Propos de KOHO
+THE TEAM
+In the Product Manager role you will report to the Head of Product, and work collaboratively with a distributed team of product management and design experts who execute on our product strategy through roadmap.  You will also have the opportunity for cross functional collaboration across our entire company - Engineering, Services, Support, Customer Success, Sales and Marketing.
+</description><pubDate>Mon, 20 Jun 2022 18:42:24 +0000</pubDate></item><item><title>Product Designer</title><link>https://jobs.lever.co/lever/89d1c98a-e5dc-40fa-bb8c-ad7f6f7a5d3e</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
 
-L'objectif de KOHO est de donner aux Canadiens les moyens d’établir des fondations financières solides grâce à des produits totalement transparents et faciles à gérer. Notre parcours a débuté en 2014 et nous avons depuis créé une communauté de plus de 600 000 utilisateurs. Des investisseurs de premier plan du monde entier croient en notre vision et nous avons réussi à amasser plus de 320 M$ pour la concrétiser. 
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
 
-Le collectif KOHO compte plus de 300 employés à ce jour. Pour en savoir plus sur notre culture, cliquez ici et pour connaître les dernières nouvelles de notre équipe, cliquez ici!
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
 
-En tant que développeur principal de logiciels, Interface utilisateur, vous serez un leader technique au sein de votre équipe. Vous allez évangéliser notre technologie, prendre en charge notre système, encadrer les membres de l'équipe, remettre en question nos processus et influencer les autres.
- 
-Nos équipes disposent de beaucoup d'autonomie et de responsabilité et nous sommes à la recherche d'un candidat doté d'un haut niveau d'initiative. Il s'agit d'un environnement au rythme rapide et axé sur les résultats! Nous sommes à la recherche de joueurs d'équipe comme vous qui sont animés par la volonté d'apprendre et d'aider les autres développeurs à se perfectionner. Ça vous intéresse?
-</description><pubDate>Tue, 30 Aug 2022 17:26:06 +0000</pubDate></item><item><title>Credit Bureau Reporting Lead (Contract)</title><link>https://jobs.lever.co/koho/19969992-8986-4597-83a6-ea52f1ba6fe1</link><description>About KOHO
+THE CHALLENGE 
+Design is one of Lever’s core competencies. As a Product Designer on the team, you will contribute to an elegant, seamless, and empowering user experience for the hiring teams who rely on Lever every day. We believe well-designed user experiences in the workplace are key to displacing stale and broken status-quo software. Built from the ground up with user-centered design methodology and principles, Lever is the only hiring software that is mobilizing entire companies to effortlessly collaborate on hiring. 
 
-KOHO’s purpose is to empower Canadians to build a great financial foundation with products that are radically transparent and easy to manage. Our journey began in 2014, and we have since built a community of over 600,000 users. Leading investors around the globe believe in our vision, and we’ve successfully raised over $320M to make our vision a reality.
+As a Product Designer, you’ll use your expertise to take on design challenges across multiple stages of our design and delivery process. Understanding our users is core to how we work, through UX research, testing (and re-testing!) design concepts, and ongoing feedback from customers. We’re looking for a designer with a strong track record of designing high-quality digital solutions, with an eye to both the user experience and visual design; someone who takes a collaborative approach to solving problems, partnering with teams across Lever to deliver delightful, easy-to-use experiences to our users.
 
-The KOHO collective has grown to 300+ employees to date. Discover our culture here and get the inside scoop from our team here!
+THE OPPORTUNITY
+We’re building a world-class, product-first organization and assembling the right team to begin scaling aggressively. This is an opportunity for someone who wants to be part of something impactful and transformative, and will play a critical role in driving Lever’s success. This is also the perfect fit for someone who is keen to take on design projects that range from iterative feature improvements, all the way through to exploring new, innovative functionality.
 
-About the Role
+THE TEAM
+Our Design team is a small (but mighty!) group of generalists with a broad set of skills and experiences, who are continuously learning from each other. Our team is exceptionally collaborative, thoughtful, and passionate about user-centered design. We work closely with our partners in Product Management and Engineering. As part of this team, you’ll shape the Lever user experience based on our design principles and research insights, contributing to our mission to help the world hire with conviction and connect talent to meaningful work. 
+</description><pubDate>Mon, 27 Jun 2022 22:14:14 +0000</pubDate></item><item><title>Product Designer</title><link>https://jobs.lever.co/lever/88f0bd43-9414-4f88-8450-d9f42e93db66</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
 
-In this position, you will be the key SME and owner of the credit reporting function to the credit bureaus. You will report to the Director of Credit Risk and work closely with Product, Risk &amp; Compliance, and User Success teams. This is a critical role for KOHO - here’s your chance to make a huge impact!
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
 
-Please note: this is a contract position on a per project basis.
-</description><pubDate>Thu, 01 Sep 2022 14:20:21 +0000</pubDate></item><item><title>Copywriter (Instant Pay) - Remote</title><link>https://jobs.lever.co/koho/bf38d1a2-8db0-4c86-b100-987ce7ade961</link><description>About KOHO
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
 
-KOHO’s purpose is to empower Canadians to build a great financial foundation with products that are radically transparent and easy to manage. Our journey began in 2014, and we have since built a community of over 600,000 users. Leading investors around the globe believe in our vision, and we’ve successfully raised over $320M to make our vision a reality.
+THE CHALLENGE 
+Design is one of Lever’s core competencies. As a Product Designer on the team, you will contribute to an elegant, seamless, and empowering user experience for the hiring teams who rely on Lever every day. We believe well-designed user experiences in the workplace are key to displacing stale and broken status-quo software. Built from the ground up with user-centered design methodology and principles, Lever is the only hiring software that is mobilizing entire companies to effortlessly collaborate on hiring. 
 
-The KOHO collective has grown to 300+ employees to date. Discover our culture here and get the inside scoop from our team here!
+As a Product Designer, you’ll use your expertise to take on design challenges across multiple stages of our design and delivery process. Understanding our users is core to how we work, through UX research, testing (and re-testing!) design concepts, and ongoing feedback from customers. We’re looking for a designer with a strong track record of designing high-quality digital solutions, with an eye to both the user experience and visual design; someone who takes a collaborative approach to solving problems, partnering with teams across Lever to deliver delightful, easy-to-use experiences to our users.
 
-About the Role
+THE OPPORTUNITY
+We’re building a world-class, product-first organization and assembling the right team to begin scaling aggressively. This is an opportunity for someone who wants to be part of something impactful and transformative, and will play a critical role in driving Lever’s success. This is also the perfect fit for someone who is keen to take on design projects that range from iterative feature improvements, all the way through to exploring new, innovative functionality.
 
-KOHO’s Marketing team is looking for a stellar copywriter to join our growing company. This individual — a top-notch writer and clever maker of puns— is ready to roll up their sleeves and support wherever copy is needed, be it in-app, on social, for landing pages, and in emails. 
+THE TEAM
+Our Design team is a small (but mighty!) group of generalists with a broad set of skills and experiences, who are continuously learning from each other. Our team is exceptionally collaborative, thoughtful, and passionate about user-centered design. We work closely with our partners in Product Management and Engineering. As part of this team, you’ll shape the Lever user experience based on our design principles and research insights, contributing to our mission to help the world hire with conviction and connect talent to meaningful work. 
+</description><pubDate>Mon, 27 Jun 2022 22:12:34 +0000</pubDate></item><item><title>Product Designer</title><link>https://jobs.lever.co/lever/348d8575-06e6-4568-b429-4a1723960ef9</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
 
-Do you live for a clever turn of phrase and a well articulated thought? Are you curious about how to make the financial system easier to understand? Do you love all things brand? Perfect. This role is all about walking the tightrope between brand tone, time management, and prioritization.  
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
 
-We need a creative communicator who goes above and beyond to bring energy to every post, thread, and communiqué! Who are we? A loveable team of results-oriented, data-driven creative thinkers on a mission to change financial services in Canada. If the fintech space lights you up, and copywriting is your passion, then please apply for this role. We are an equal opportunity employer and value diversity and uniqueness at our company.
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
 
-</description><pubDate>Thu, 21 Jul 2022 17:54:22 +0000</pubDate></item><item><title>Content Strategist (Instant Pay) - Remote</title><link>https://jobs.lever.co/koho/e79f90d1-a3e5-4dc9-95d2-8a0bb27963aa</link><description>About KOHO
+THE CHALLENGE 
+Design is one of Lever’s core competencies. As a Product Designer on the team, you will contribute to an elegant, seamless, and empowering user experience for the hiring teams who rely on Lever every day. We believe well-designed user experiences in the workplace are key to displacing stale and broken status-quo software. Built from the ground up with user-centered design methodology and principles, Lever is the only hiring software that is mobilizing entire companies to effortlessly collaborate on hiring. 
 
-KOHO’s purpose is to empower Canadians to build a great financial foundation with products that are radically transparent and easy to manage. Our journey began in 2014, and we have since built a community of over 600,000 users. Leading investors around the globe believe in our vision, and we’ve successfully raised over $320M to make our vision a reality.
+As a Product Designer, you’ll use your expertise to take on design challenges across multiple stages of our design and delivery process. Understanding our users is core to how we work, through UX research, testing (and re-testing!) design concepts, and ongoing feedback from customers. We’re looking for a designer with a strong track record of designing high-quality digital solutions, with an eye to both the user experience and visual design; someone who takes a collaborative approach to solving problems, partnering with teams across Lever to deliver delightful, easy-to-use experiences to our users.
 
-The KOHO collective has grown to 300+ employees to date. Discover our culture here and get the inside scoop from our team here!
+THE OPPORTUNITY
+We’re building a world-class, product-first organization and assembling the right team to begin scaling aggressively. This is an opportunity for someone who wants to be part of something impactful and transformative, and will play a critical role in driving Lever’s success. This is also the perfect fit for someone who is keen to take on design projects that range from iterative feature improvements, all the way through to exploring new, innovative functionality.
 
-About the Role
+THE TEAM
+Our Design team is a small (but mighty!) group of generalists with a broad set of skills and experiences, who are continuously learning from each other. Our team is exceptionally collaborative, thoughtful, and passionate about user-centered design. We work closely with our partners in Product Management and Engineering. As part of this team, you’ll shape the Lever user experience based on our design principles and research insights, contributing to our mission to help the world hire with conviction and connect talent to meaningful work. 
+</description><pubDate>Mon, 27 Jun 2022 22:10:12 +0000</pubDate></item><item><title>Product Designer</title><link>https://jobs.lever.co/lever/27a4df4c-44cc-4093-a727-4c2b300f95ff</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
 
-KOHO’s Marketing team is looking for a stellar content strategist to join our growing company. This person —a top-notch writer and strategic thinker— is ready to roll up their sleeves to lead the content strategy for one of our newest products, Instant Pay.
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
 
-As our content strategist, you’re motivated by working in startup cultures where responsibilities entail leading your function both in strategy and execution. You have a strong understanding of the technical aspects of content creation and a passion for crafting campaigns that drive business outcomes forward. A grammar nerd to your core, you’ll ensure all communications are up to our brand standards and tone of voice.
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
 
-Who are we? A loveable team of results-oriented, data-driven creative thinkers on a mission to change financial services in Canada. If the fintech space lights you up, and copywriting is your passion, then please apply for this role. We are an equal opportunity employer and value diversity and uniqueness at our company.
+THE CHALLENGE 
+Design is one of Lever’s core competencies. As a Product Designer on the team, you will contribute to an elegant, seamless, and empowering user experience for the hiring teams who rely on Lever every day. We believe well-designed user experiences in the workplace are key to displacing stale and broken status-quo software. Built from the ground up with user-centered design methodology and principles, Lever is the only hiring software that is mobilizing entire companies to effortlessly collaborate on hiring. 
 
-</description><pubDate>Wed, 03 Aug 2022 21:44:45 +0000</pubDate></item><item><title>Business Development Representative - Remote</title><link>https://jobs.lever.co/koho/4f19ff1a-9593-4c7d-8b88-570faeccfa3c</link><description>About KOHO
+As a Product Designer, you’ll use your expertise to take on design challenges across multiple stages of our design and delivery process. Understanding our users is core to how we work, through UX research, testing (and re-testing!) design concepts, and ongoing feedback from customers. We’re looking for a designer with a strong track record of designing high-quality digital solutions, with an eye to both the user experience and visual design; someone who takes a collaborative approach to solving problems, partnering with teams across Lever to deliver delightful, easy-to-use experiences to our users.
 
-KOHO’s purpose is to empower Canadians to build a great financial foundation with products that are radically transparent and easy to manage. Our journey began in 2014, and we have since built a community of over 600,000 users. Leading investors around the globe believe in our vision, and we’ve successfully raised over $320M to make our vision a reality.
+THE OPPORTUNITY
+We’re building a world-class, product-first organization and assembling the right team to begin scaling aggressively. This is an opportunity for someone who wants to be part of something impactful and transformative, and will play a critical role in driving Lever’s success. This is also the perfect fit for someone who is keen to take on design projects that range from iterative feature improvements, all the way through to exploring new, innovative functionality.
 
-The KOHO collective has grown to 300+ employees to date. Discover our culture here and get the inside scoop from our team here!
+THE TEAM
+Our Design team is a small (but mighty!) group of generalists with a broad set of skills and experiences, who are continuously learning from each other. Our team is exceptionally collaborative, thoughtful, and passionate about user-centered design. We work closely with our partners in Product Management and Engineering. As part of this team, you’ll shape the Lever user experience based on our design principles and research insights, contributing to our mission to help the world hire with conviction and connect talent to meaningful work. 
+</description><pubDate>Mon, 27 Jun 2022 22:13:13 +0000</pubDate></item><item><title>Product Designer</title><link>https://jobs.lever.co/lever/2138e4e4-25ad-4b00-a179-2e7e42e42d40</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
 
-About the Role
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
 
-As our Business Development Representative, you'll be playing a crucial role of breaking into new accounts and fostering relationships with multiple contacts within all levels of our target customer segments. You understand the impact that you'll create to the bottom line, playing one of the most vital roles in the company. The day-to-day role includes collaboration with the wider sales team, market research to identify new potential customers and leads, and qualification of these leads by learning about their approach to onboarding.
-</description><pubDate>Thu, 14 Jul 2022 17:14:14 +0000</pubDate></item><item><title>Architecte de Sécurité Principal - à Distance</title><link>https://jobs.lever.co/koho/0f6df41d-6e85-443d-89bd-4f31633888ad</link><description>À Propos de KOHO
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
 
-L'objectif de KOHO est de donner aux Canadiens les moyens d’établir des fondations financières solides grâce à des produits totalement transparents et faciles à gérer. Notre parcours a débuté en 2014 et nous avons depuis créé une communauté de plus de 600 000 utilisateurs. Des investisseurs de premier plan du monde entier croient en notre vision et nous avons réussi à amasser plus de 320 M$ pour la concrétiser. 
+THE CHALLENGE 
+Design is one of Lever’s core competencies. As a Product Designer on the team, you will contribute to an elegant, seamless, and empowering user experience for the hiring teams who rely on Lever every day. We believe well-designed user experiences in the workplace are key to displacing stale and broken status-quo software. Built from the ground up with user-centered design methodology and principles, Lever is the only hiring software that is mobilizing entire companies to effortlessly collaborate on hiring. 
 
-Le collectif KOHO compte plus de 300 employés à ce jour. Pour en savoir plus sur notre culture, cliquez ici et pour connaître les dernières nouvelles de notre équipe, cliquez ici!
+As a Product Designer, you’ll use your expertise to take on design challenges across multiple stages of our design and delivery process. Understanding our users is core to how we work, through UX research, testing (and re-testing!) design concepts, and ongoing feedback from customers. We’re looking for a designer with a strong track record of designing high-quality digital solutions, with an eye to both the user experience and visual design; someone who takes a collaborative approach to solving problems, partnering with teams across Lever to deliver delightful, easy-to-use experiences to our users.
 
-À Propos du Poste
+THE OPPORTUNITY
+We’re building a world-class, product-first organization and assembling the right team to begin scaling aggressively. This is an opportunity for someone who wants to be part of something impactful and transformative, and will play a critical role in driving Lever’s success. This is also the perfect fit for someone who is keen to take on design projects that range from iterative feature improvements, all the way through to exploring new, innovative functionality.
 
-Relevant du directeur, TI et sécurité, vous serez responsable de nos projets de sécurité infonuagique en veillant à ce que nous sécurisions nos hôtes d’infrastructure et de conteneurs. Vous travaillerez en étroite collaboration avec les équipes DevOps et Tech/Ingénierie pour identifier, corriger et sécuriser les vulnérabilités afin de réduire les risques pour notre infrastructure dorsale (back-end).  
+THE TEAM
+Our Design team is a small (but mighty!) group of generalists with a broad set of skills and experiences, who are continuously learning from each other. Our team is exceptionally collaborative, thoughtful, and passionate about user-centered design. We work closely with our partners in Product Management and Engineering. As part of this team, you’ll shape the Lever user experience based on our design principles and research insights, contributing to our mission to help the world hire with conviction and connect talent to meaningful work. 
+</description><pubDate>Mon, 27 Jun 2022 22:11:03 +0000</pubDate></item><item><title>Product Designer</title><link>https://jobs.lever.co/lever/068a71ac-01a3-422b-9d9b-991bef03e1e8</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
 
-Vous serez un membre essentiel de l’équipe de sécurité et aurez des responsabilités importantes qui auront une incidence sur la stratégie de sécurité de KOHO.  
-</description><pubDate>Tue, 30 Aug 2022 17:38:29 +0000</pubDate></item><item><title>Analytics Engineer - Remote</title><link>https://jobs.lever.co/koho/21fecebb-e583-414e-b9b6-136800ac0984</link><description>About KOHO
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
 
-KOHO’s purpose is to empower Canadians to build a great financial foundation with products that are radically transparent and easy to manage. Our journey began in 2014, and we have since built a community of over 600,000 users. Leading investors around the globe believe in our vision, and we’ve successfully raised over $320M to make our vision a reality.
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
 
-The KOHO collective has grown to 300+ employees to date. Discover our culture here and get the inside scoop from our team here!
+THE CHALLENGE 
+Design is one of Lever’s core competencies. As a Product Designer on the team, you will contribute to an elegant, seamless, and empowering user experience for the hiring teams who rely on Lever every day. We believe well-designed user experiences in the workplace are key to displacing stale and broken status-quo software. Built from the ground up with user-centered design methodology and principles, Lever is the only hiring software that is mobilizing entire companies to effortlessly collaborate on hiring. 
 
-About the Role
+As a Product Designer, you’ll use your expertise to take on design challenges across multiple stages of our design and delivery process. Understanding our users is core to how we work, through UX research, testing (and re-testing!) design concepts, and ongoing feedback from customers. We’re looking for a designer with a strong track record of designing high-quality digital solutions, with an eye to both the user experience and visual design; someone who takes a collaborative approach to solving problems, partnering with teams across Lever to deliver delightful, easy-to-use experiences to our users.
 
-KOHO is looking for an Intermediate-level Analytics Engineer to work with our data analytics, engineering, data science, and machine learning teams. This role is for you if you are passionate about modeling data in a way that empowers end users to answer their own questions. Successful applicants will spend their time transforming, testing, deploying, and documenting data leveraging dbt while applying software engineering best practices across the analytics code base. This role will also include the ownership of dbt across the organization and collaboration with data leadership related to all aspects of analytics engineering for the firm.
+THE OPPORTUNITY
+We’re building a world-class, product-first organization and assembling the right team to begin scaling aggressively. This is an opportunity for someone who wants to be part of something impactful and transformative, and will play a critical role in driving Lever’s success. This is also the perfect fit for someone who is keen to take on design projects that range from iterative feature improvements, all the way through to exploring new, innovative functionality.
 
-Please Note: This is a remote position and is available to those who are legally entitled to work in Canada.
+THE TEAM
+Our Design team is a small (but mighty!) group of generalists with a broad set of skills and experiences, who are continuously learning from each other. Our team is exceptionally collaborative, thoughtful, and passionate about user-centered design. We work closely with our partners in Product Management and Engineering. As part of this team, you’ll shape the Lever user experience based on our design principles and research insights, contributing to our mission to help the world hire with conviction and connect talent to meaningful work. 
+</description><pubDate>Mon, 27 Jun 2022 22:12:53 +0000</pubDate></item><item><title>Engineering Manager</title><link>https://jobs.lever.co/lever/f992b8ce-961b-4112-9e62-c90a32e20e2e</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
 
-</description><pubDate>Thu, 18 Aug 2022 08:20:10 +0000</pubDate></item></channel></rss>
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever's engineering team is growing rapidly and we're looking for another Engineering Manager to help scale the org. Our team is a thoughtful bunch that cares about delighting our customers by excelling at both code quality and design thinking. We value transparency and believe in fostering an inclusive, collaborative, helpful team environment. We're always looking for ways to do better for our customers, the product, and for the team: #continuous-improvement.
+
+THE OPPORTUNITY
+We’re looking for an engineering manager who is inspired to mentor, grow, and help teams succeed, especially when the team is still small and nimble. You’re an experienced people manager and adept project manager who can guide developers to perform at their best (without sacrificing sleep) and also remove any blockers that may appear.
+
+As an engineering manager, you’ll lead a team of product developers as they evolve and enhance our core web app.  You will build an energized and capable team by hiring top-notch talent and by engaging and mentoring current employees. You’ll make sure that projects are running without a hitch; and bridge the gap with Product &amp; Design to make sure that what we are building is on target and prioritizing customer value. As we onboard bigger customers and continue to evolve our hiring product, you’ll guide your team to execute with efficiency, consistency, and, above all, empathy. That’s the Lever way.
+
+THE TEAM
+Working as part of Engineering's leadership team, you will be one of Lever's key technical leaders. You will be joined by several other leaders within product engineering, infrastructure, IT, and architecture. You will also engage with product managers and business leaders to build alignment on technical direction and will provide thought leadership across the company.
+</description><pubDate>Tue, 28 Dec 2021 18:09:45 +0000</pubDate></item><item><title>Engineering Manager</title><link>https://jobs.lever.co/lever/ef0a1660-1242-4802-a77a-7310ff078ddc</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever's engineering team is growing rapidly and we're looking for another Engineering Manager to help scale the org. Our team is a thoughtful bunch that cares about delighting our customers by excelling at both code quality and design thinking. We value transparency and believe in fostering an inclusive, collaborative, helpful team environment. We're always looking for ways to do better for our customers, the product, and for the team: #continuous-improvement.
+
+THE OPPORTUNITY
+We’re looking for an engineering manager who is inspired to mentor, grow, and help teams succeed, especially when the team is still small and nimble. You’re an experienced people manager and adept project manager who can guide developers to perform at their best (without sacrificing sleep) and also remove any blockers that may appear.
+
+As an engineering manager, you’ll lead a team of product developers as they evolve and enhance our core web app.  You will build an energized and capable team by hiring top-notch talent and by engaging and mentoring current employees. You’ll make sure that projects are running without a hitch; and bridge the gap with Product &amp; Design to make sure that what we are building is on target and prioritizing customer value. As we onboard bigger customers and continue to evolve our hiring product, you’ll guide your team to execute with efficiency, consistency, and, above all, empathy. That’s the Lever way.
+
+THE TEAM
+Working as part of Engineering's leadership team, you will be one of Lever's key technical leaders. You will be joined by several other leaders within product engineering, infrastructure, IT, and architecture. You will also engage with product managers and business leaders to build alignment on technical direction and will provide thought leadership across the company.
+</description><pubDate>Mon, 27 Jun 2022 19:28:38 +0000</pubDate></item><item><title>Engineering Manager</title><link>https://jobs.lever.co/lever/ce76138a-1178-41a8-bb9c-19c2041d6e43</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever's engineering team is growing rapidly and we're looking for another Engineering Manager to help scale the org. Our team is a thoughtful bunch that cares about delighting our customers by excelling at both code quality and design thinking. We value transparency and believe in fostering an inclusive, collaborative, helpful team environment. We're always looking for ways to do better for our customers, the product, and for the team: #continuous-improvement.
+
+THE OPPORTUNITY
+We’re looking for an engineering manager who is inspired to mentor, grow, and help teams succeed, especially when the team is still small and nimble. You’re an experienced people manager and adept project manager who can guide developers to perform at their best (without sacrificing sleep) and also remove any blockers that may appear.
+
+As an engineering manager, you’ll lead a team of product developers as they evolve and enhance our core web app.  You will build an energized and capable team by hiring top-notch talent and by engaging and mentoring current employees. You’ll make sure that projects are running without a hitch; and bridge the gap with Product &amp; Design to make sure that what we are building is on target and prioritizing customer value. As we onboard bigger customers and continue to evolve our hiring product, you’ll guide your team to execute with efficiency, consistency, and, above all, empathy. That’s the Lever way.
+
+THE TEAM
+Working as part of Engineering's leadership team, you will be one of Lever's key technical leaders. You will be joined by several other leaders within product engineering, infrastructure, IT, and architecture. You will also engage with product managers and business leaders to build alignment on technical direction and will provide thought leadership across the company.
+</description><pubDate>Mon, 27 Jun 2022 19:27:37 +0000</pubDate></item><item><title>Engineering Manager</title><link>https://jobs.lever.co/lever/c1f738a0-684c-4b83-9e1a-7ba9d9e4323e</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever's engineering team is growing rapidly and we're looking for another Engineering Manager to help scale the org. Our team is a thoughtful bunch that cares about delighting our customers by excelling at both code quality and design thinking. We value transparency and believe in fostering an inclusive, collaborative, helpful team environment. We're always looking for ways to do better for our customers, the product, and for the team: #continuous-improvement.
+
+THE OPPORTUNITY
+We’re looking for an engineering manager who is inspired to mentor, grow, and help teams succeed, especially when the team is still small and nimble. You’re an experienced people manager and adept project manager who can guide developers to perform at their best (without sacrificing sleep) and also remove any blockers that may appear.
+
+As an engineering manager, you’ll lead a team of product developers as they evolve and enhance our core web app.  You will build an energized and capable team by hiring top-notch talent and by engaging and mentoring current employees. You’ll make sure that projects are running without a hitch; and bridge the gap with Product &amp; Design to make sure that what we are building is on target and prioritizing customer value. As we onboard bigger customers and continue to evolve our hiring product, you’ll guide your team to execute with efficiency, consistency, and, above all, empathy. That’s the Lever way.
+
+THE TEAM
+Working as part of Engineering's leadership team, you will be one of Lever's key technical leaders. You will be joined by several other leaders within product engineering, infrastructure, IT, and architecture. You will also engage with product managers and business leaders to build alignment on technical direction and will provide thought leadership across the company.
+</description><pubDate>Tue, 28 Dec 2021 18:11:22 +0000</pubDate></item><item><title>Engineering Manager</title><link>https://jobs.lever.co/lever/a361decd-6ed8-471a-be3a-c37e935c1fc9</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever's engineering team is growing rapidly and we're looking for another Engineering Manager to help scale the org. Our team is a thoughtful bunch that cares about delighting our customers by excelling at both code quality and design thinking. We value transparency and believe in fostering an inclusive, collaborative, helpful team environment. We're always looking for ways to do better for our customers, the product, and for the team: #continuous-improvement.
+
+THE OPPORTUNITY
+We’re looking for an engineering manager who is inspired to mentor, grow, and help teams succeed, especially when the team is still small and nimble. You’re an experienced people manager and adept project manager who can guide developers to perform at their best (without sacrificing sleep) and also remove any blockers that may appear.
+
+As an engineering manager, you’ll lead a team of product developers as they evolve and enhance our core web app.  You will build an energized and capable team by hiring top-notch talent and by engaging and mentoring current employees. You’ll make sure that projects are running without a hitch; and bridge the gap with Product &amp; Design to make sure that what we are building is on target and prioritizing customer value. As we onboard bigger customers and continue to evolve our hiring product, you’ll guide your team to execute with efficiency, consistency, and, above all, empathy. That’s the Lever way.
+
+THE TEAM
+Working as part of Engineering's leadership team, you will be one of Lever's key technical leaders. You will be joined by several other leaders within product engineering, infrastructure, IT, and architecture. You will also engage with product managers and business leaders to build alignment on technical direction and will provide thought leadership across the company.
+</description><pubDate>Tue, 10 May 2022 18:47:28 +0000</pubDate></item><item><title>Engineering Manager</title><link>https://jobs.lever.co/lever/7676ea83-f746-4c74-abbd-1dcf6cd2e9a6</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever's engineering team is growing rapidly and we're looking for another Engineering Manager to help scale the org. Our team is a thoughtful bunch that cares about delighting our customers by excelling at both code quality and design thinking. We value transparency and believe in fostering an inclusive, collaborative, helpful team environment. We're always looking for ways to do better for our customers, the product, and for the team: #continuous-improvement.
+
+THE OPPORTUNITY
+We’re looking for an engineering manager who is inspired to mentor, grow, and help teams succeed, especially when the team is still small and nimble. You’re an experienced people manager and adept project manager who can guide developers to perform at their best (without sacrificing sleep) and also remove any blockers that may appear.
+
+As an engineering manager, you’ll lead a team of product developers as they evolve and enhance our core web app.  You will build an energized and capable team by hiring top-notch talent and by engaging and mentoring current employees. You’ll make sure that projects are running without a hitch; and bridge the gap with Product &amp; Design to make sure that what we are building is on target and prioritizing customer value. As we onboard bigger customers and continue to evolve our hiring product, you’ll guide your team to execute with efficiency, consistency, and, above all, empathy. That’s the Lever way.
+
+THE TEAM
+Working as part of Engineering's leadership team, you will be one of Lever's key technical leaders. You will be joined by several other leaders within product engineering, infrastructure, IT, and architecture. You will also engage with product managers and business leaders to build alignment on technical direction and will provide thought leadership across the company.
+</description><pubDate>Mon, 27 Jun 2022 19:28:56 +0000</pubDate></item><item><title>Engineering Manager</title><link>https://jobs.lever.co/lever/6d8f6890-bcf8-4c8c-baa3-59fb7fd7c482</link><description>A BIT ABOUT US
+Lever was founded ten years ago to tackle the most strategic challenge that companies face: how to recruit and hire top talent. We’re building the next generation of hiring software that companies can rely on to grow their teams. We've rethought the talent acquisition paradigm and are the innovation leaders in our space and looking for the right people to join us as we scale. 
+
+We’re extraordinarily proud of the company we’ve built so far and are thrilled for our plans to come after our last round of funding of $50 million in November 2021. Together, our company has been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage and we’ll continue investing in our “Leveroos” and people-first culture.    
+
+THE CHALLENGE
+Lever's engineering team is growing rapidly and we're looking for another Engineering Manager to help scale the org. Our team is a thoughtful bunch that cares about delighting our customers by excelling at both code quality and design thinking. We value transparency and believe in fostering an inclusive, collaborative, helpful team environment. We're always looking for ways to do better for our customers, the product, and for the team: #continuous-improvement.
+
+THE OPPORTUNITY
+We’re looking for an engineering manager who is inspired to mentor, grow, and help teams succeed, especially when the team is still small and nimble. You’re an experienced people manager and adept project manager who can guide developers to perform at their best (without sacrificing sleep) and also remove any blockers that may appear.
+
+As an engineering manager, you’ll lead a team of product developers as they evolve and enhance our core web app.  You will build an energized and capable team by hiring top-notch talent and by engaging and mentoring current employees. You’ll make sure that projects are running without a hitch; and bridge the gap with Product &amp; Design to make sure that what we are building is on target and prioritizing customer value. As we onboard bigger customers and continue to evolve our hiring product, you’ll guide your team to execute with efficiency, consistency, and, above all, empathy. That’s the Lever way.
+
+THE TEAM
+Working as part of Engineering's leadership team, you will be one of Lever's key technical leaders. You will be joined by several other leaders within product engineering, infrastructure, IT, and architecture. You will also engage with product managers and business leaders to build alignment on technical direction and will provide thought leadership across the company.
+</description><pubDate>Tue, 28 Dec 2021 18:10:37 +0000</pubDate></item><item><title>Engineering Manager</title><link>https://jobs.lever.co/lever/5a360f24-53df-4715-8e43-24706e132c6f</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever's engineering team is growing rapidly and we're looking for another Engineering Manager to help scale the org. Our team is a thoughtful bunch that cares about delighting our customers by excelling at both code quality and design thinking. We value transparency and believe in fostering an inclusive, collaborative, helpful team environment. We're always looking for ways to do better for our customers, the product, and for the team: #continuous-improvement.
+
+THE OPPORTUNITY
+We’re looking for an engineering manager who is inspired to mentor, grow, and help teams succeed, especially when the team is still small and nimble. You’re an experienced people manager and adept project manager who can guide developers to perform at their best (without sacrificing sleep) and also remove any blockers that may appear.
+
+As an engineering manager, you’ll lead a team of product developers as they evolve and enhance our core web app.  You will build an energized and capable team by hiring top-notch talent and by engaging and mentoring current employees. You’ll make sure that projects are running without a hitch; and bridge the gap with Product &amp; Design to make sure that what we are building is on target and prioritizing customer value. As we onboard bigger customers and continue to evolve our hiring product, you’ll guide your team to execute with efficiency, consistency, and, above all, empathy. That’s the Lever way.
+
+THE TEAM
+Working as part of Engineering's leadership team, you will be one of Lever's key technical leaders. You will be joined by several other leaders within product engineering, infrastructure, IT, and architecture. You will also engage with product managers and business leaders to build alignment on technical direction and will provide thought leadership across the company.
+</description><pubDate>Tue, 28 Dec 2021 18:11:45 +0000</pubDate></item><item><title>Engineering Manager</title><link>https://jobs.lever.co/lever/14726216-4351-4eeb-a348-02e31863b783</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever's engineering team is growing rapidly and we're looking for another Engineering Manager to help scale the org. Our team is a thoughtful bunch that cares about delighting our customers by excelling at both code quality and design thinking. We value transparency and believe in fostering an inclusive, collaborative, helpful team environment. We're always looking for ways to do better for our customers, the product, and for the team: #continuous-improvement.
+
+THE OPPORTUNITY
+We’re looking for an engineering manager who is inspired to mentor, grow, and help teams succeed, especially when the team is still small and nimble. You’re an experienced people manager and adept project manager who can guide developers to perform at their best (without sacrificing sleep) and also remove any blockers that may appear.
+
+As an engineering manager, you’ll lead a team of product developers as they evolve and enhance our core web app.  You will build an energized and capable team by hiring top-notch talent and by engaging and mentoring current employees. You’ll make sure that projects are running without a hitch; and bridge the gap with Product &amp; Design to make sure that what we are building is on target and prioritizing customer value. As we onboard bigger customers and continue to evolve our hiring product, you’ll guide your team to execute with efficiency, consistency, and, above all, empathy. That’s the Lever way.
+
+THE TEAM
+Working as part of Engineering's leadership team, you will be one of Lever's key technical leaders. You will be joined by several other leaders within product engineering, infrastructure, IT, and architecture. You will also engage with product managers and business leaders to build alignment on technical direction and will provide thought leadership across the company.
+</description><pubDate>Mon, 27 Jun 2022 19:26:14 +0000</pubDate></item><item><title>Director, Product Management</title><link>https://jobs.lever.co/lever/26982f51-a531-4753-b8e2-08369b40ac28</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+We are looking for an experienced Product Management  leader to lead key areas of the Product team and collaborate to innovate around our Talent Acquisition solution.  The successful candidate will help us drive our core roadmap and collaborate with customers to deliver value across all aspects of talent acquisition.  The role will partner with Product, Design and Engineering leaders to deliver customer value through innovation and increased velocity. A key responsibility for this role will also be attraction and retention of key Product Managers.
+
+THE OPPORTUNITY
+As a Product leader you will drive our roadmap to ensure we are the leading talent acquisition solution in our target markets.  You will lead the team to define and deliver meaningful customer value in a SaaS environment, while you build their continuous discovery skills, and collaborate with a team of committed product experts.  You will contribute to a broader strategy and roadmap discussion based on your unique understanding of our market and customers, and help drive best practices across the entire product lifecycle, from idea to launch.
+
+THE TEAM
+In the Director, Product Management role you will report to the SVP of Product, and work collaboratively with a distributed team of product management and design experts who execute on our product strategy.  You will also have the opportunity for cross functional collaboration across our entire company - Engineering, Services, Support, Customer Success, Sales and Marketing.
+</description><pubDate>Wed, 24 Aug 2022 21:32:29 +0000</pubDate></item><item><title>Director, Financial Planning &amp; Analysis</title><link>https://jobs.lever.co/lever/f01c89d3-d885-478a-b99d-38eab1e0fb18</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever’s Director of Planning and Analysis will play a key role in building the company’s long- and short-term operating and financial plans. This leader will report to the Lever’s COO, matrix reporting to the head of FP&amp;A for Employ, have direct working relationships with the Lever’s President and CEO, CRO, and all of Lever’s executive staff, in addition to building strong business partnerships with leaders all across Lever and Employ. 
+
+In addition to planning, this person will drive improvements and efficiencies in how business decisions are made, and expected returns. This person will have the opportunity to build out a team over time, composed of FP&amp;A partners that support functional leaders company wide. Business processes such as budgeting, forecasting, management reporting, financial analyses, and ad hoc business case production will all fall under this leader’s remit, as well. This is an opportunity for a leader to build something truly special—a role that will have a massive strategic impact for a company poised to capture and dominate the Talent Acquisition market.
+
+THE OPPORTUNITY
+This is an opportunity to make an immediate impact as a member of the Lever team, at the start of a new chapter in Lever’s exceptional growth story, while also partnering across all business units under the Employ umbrella. You will have the opportunity to grow your team as Lever and Employ continue to scale. In this role, you are positioned perfectly to influence every leader across a growing, dynamic company—up through the President and CEO of Lever to the President and CEO of Employ. Your work will directly impact Lever’s business strategy, operating model, financial plans, and value creation. As we plan our next phases of growth, including continuing our global expansion, you will play a central role in building the necessary plans and forward-looking models to guide the company to reach these milestones and well beyond.
+
+THE TEAM
+The Finance and Business Operations team under Lever’s COO is made up of outstanding and diverse talent. It possesses values of trust, customer success, and shareholder value. This group is widely respected across the company and perfectly positioned to create high leverage value. It is a high achieving, high performing, and strong culture team—that loves to serve, have fun, and add business value each and every day.
+</description><pubDate>Tue, 23 Aug 2022 18:14:40 +0000</pubDate></item><item><title>Director, Financial Planning &amp; Analysis</title><link>https://jobs.lever.co/lever/a9fba8a7-44d7-49e5-8056-440ec19f3ccc</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever’s Director of Planning and Analysis will play a key role in building the company’s long- and short-term operating and financial plans. This leader will report to the Lever’s COO, matrix reporting to the head of FP&amp;A for Employ, have direct working relationships with the Lever’s President and CEO, CRO, and all of Lever’s executive staff, in addition to building strong business partnerships with leaders all across Lever and Employ. 
+
+In addition to planning, this person will drive improvements and efficiencies in how business decisions are made, and expected returns. This person will have the opportunity to build out a team over time, composed of FP&amp;A partners that support functional leaders company wide. Business processes such as budgeting, forecasting, management reporting, financial analyses, and ad hoc business case production will all fall under this leader’s remit, as well. This is an opportunity for a leader to build something truly special—a role that will have a massive strategic impact for a company poised to capture and dominate the Talent Acquisition market.
+
+THE OPPORTUNITY
+This is an opportunity to make an immediate impact as a member of the Lever team, at the start of a new chapter in Lever’s exceptional growth story, while also partnering across all business units under the Employ umbrella. You will have the opportunity to grow your team as Lever and Employ continue to scale. In this role, you are positioned perfectly to influence every leader across a growing, dynamic company—up through the President and CEO of Lever to the President and CEO of Employ. Your work will directly impact Lever’s business strategy, operating model, financial plans, and value creation. As we plan our next phases of growth, including continuing our global expansion, you will play a central role in building the necessary plans and forward-looking models to guide the company to reach these milestones and well beyond.
+
+THE TEAM
+The Finance and Business Operations team under Lever’s COO is made up of outstanding and diverse talent. It possesses values of trust, customer success, and shareholder value. This group is widely respected across the company and perfectly positioned to create high leverage value. It is a high achieving, high performing, and strong culture team—that loves to serve, have fun, and add business value each and every day.
+</description><pubDate>Tue, 23 Aug 2022 18:16:14 +0000</pubDate></item><item><title>Director, Financial Planning &amp; Analysis</title><link>https://jobs.lever.co/lever/552287ce-83d5-4e7b-bbf9-4d9f2b440a91</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever’s Director of Planning and Analysis will play a key role in building the company’s long- and short-term operating and financial plans. This leader will report to the Lever’s COO, matrix reporting to the head of FP&amp;A for Employ, have direct working relationships with the Lever’s President and CEO, CRO, and all of Lever’s executive staff, in addition to building strong business partnerships with leaders all across Lever and Employ. 
+
+In addition to planning, this person will drive improvements and efficiencies in how business decisions are made, and expected returns. This person will have the opportunity to build out a team over time, composed of FP&amp;A partners that support functional leaders company wide. Business processes such as budgeting, forecasting, management reporting, financial analyses, and ad hoc business case production will all fall under this leader’s remit, as well. This is an opportunity for a leader to build something truly special—a role that will have a massive strategic impact for a company poised to capture and dominate the Talent Acquisition market.
+
+THE OPPORTUNITY
+This is an opportunity to make an immediate impact as a member of the Lever team, at the start of a new chapter in Lever’s exceptional growth story, while also partnering across all business units under the Employ umbrella. You will have the opportunity to grow your team as Lever and Employ continue to scale. In this role, you are positioned perfectly to influence every leader across a growing, dynamic company—up through the President and CEO of Lever to the President and CEO of Employ. Your work will directly impact Lever’s business strategy, operating model, financial plans, and value creation. As we plan our next phases of growth, including continuing our global expansion, you will play a central role in building the necessary plans and forward-looking models to guide the company to reach these milestones and well beyond.
+
+THE TEAM
+The Finance and Business Operations team under Lever’s COO is made up of outstanding and diverse talent. It possesses values of trust, customer success, and shareholder value. This group is widely respected across the company and perfectly positioned to create high leverage value. It is a high achieving, high performing, and strong culture team—that loves to serve, have fun, and add business value each and every day.
+</description><pubDate>Tue, 23 Aug 2022 18:15:08 +0000</pubDate></item><item><title>Director, Financial Planning &amp; Analysis</title><link>https://jobs.lever.co/lever/110dccd0-85f4-4427-9a40-b5a38561dcab</link><description>A BIT ABOUT US
+Lever's vision is connecting human potential to meaningful work. Hiring is the most strategic challenge that every company faces, and Lever is one of the most recognized brands in talent acquisition software. As the innovation leader in our space, we are searching for great people to join us and push further.
+
+We are proud of the company we’ve built so far, but we are even more excited for what is yet to come. Our 5000+ customers include global leaders, startups that are disrupting industries, and businesses around the world. Lever has raised $123 million in funding, most recently a $50M Series D in November 2021.
+
+With an overall gender ratio of 50:50 women and men, Lever is also fiercely committed to building a team culture that celebrates diversity and inclusion. We have been certified as a “Great Place to Work”, along with “Best Company Outlook 2022,” and “Forbes Best Startup Employers 2022,” and the list keeps growing! Our people are Lever’s biggest competitive advantage. For more information on our team culture, visit https://inside.lever.co/.
+
+THE CHALLENGE
+Lever’s Director of Planning and Analysis will play a key role in building the company’s long- and short-term operating and financial plans. This leader will report to the Lever’s COO, matrix reporting to the head of FP&amp;A for Employ, have direct working relationships with the Lever’s President and CEO, CRO, and all of Lever’s executive staff, in addition to building strong business partnerships with leaders all across Lever and Employ. 
+
+In addition to planning, this person will drive improvements and efficiencies in how business decisions are made, and expected returns. This person will have the opportunity to build out a team over time, composed of FP&amp;A partners that support functional leaders company wide. Business processes such as budgeting, forecasting, management reporting, financial analyses, and ad hoc business case production will all fall under this leader’s remit, as well. This is an opportunity for a leader to build something truly special—a role that will have a massive strategic impact for a company poised to capture and dominate the Talent Acquisition market.
+
+THE OPPORTUNITY
+This is an opportunity to make an immediate impact as a member of the Lever team, at the start of a new chapter in Lever’s exceptional growth story, while also partnering across all business units under the Employ umbrella. You will have the opportunity to grow your team as Lever and Employ continue to scale. In this role, you are positioned perfectly to influence every leader across a growing, dynamic company—up through the President and CEO of Lever to the President and CEO of Employ. Your work will directly impact Lever’s business strategy, operating model, financial plans, and value creation. As we plan our next phases of growth, including continuing our global expansion, you will play a central role in building the necessary plans and forward-looking models to guide the company to reach these milestones and well beyond.
+
+THE TEAM
+The Finance and Business Operations team under Lever’s COO is made up of outstanding and diverse talent. It possesses values of trust, customer success, and shareholder value. This group is widely respected across the company and perfectly positioned to create high leverage value. It is a high achieving, high performing, and strong culture team—that loves to serve, have fun, and add business value each and every day.
+</description><pubDate>Tue, 23 Aug 2022 18:15:38 +0000</pubDate></item></channel></rss>

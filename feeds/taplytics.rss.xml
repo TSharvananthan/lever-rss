@@ -1,153 +1,106 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Taplytics Job Postings</title><link>https://api.lever.co/v0/postings/taplytics?mode=json</link><description>Job postings for Taplytics from lever.co</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 10 Sep 2022 18:13:32 +0000</lastBuildDate><item><title>Senior Software Engineer</title><link>https://jobs.lever.co/taplytics/6401097d-e7d5-496c-9ebf-baccce90de4f</link><description>We’re currently seeking a Senior Software Engineer to help us tackle unique technical challenges! Our clients' user bases require petabyte-scale backends and well-built SDKs. Our platform processes millions of transactions per minute, delivering experiences to 100s of millions of devices globally. Chances are, you probably already have our technology in your phone right now. You will be part of an amazing team that uses the latest technologies to tackle unique challenges that face a rich customer experience and feature management platform.
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Taplytics Job Postings</title><link>https://api.lever.co/v0/postings/taplytics?mode=json</link><description>Job postings for Taplytics from lever.co</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 10 Sep 2022 18:29:57 +0000</lastBuildDate><item><title>VP of Sales</title><link>https://jobs.lever.co/homestars/85ae24b9-f241-4ab5-be30-bc32ccea4d35</link><description>Location: Remote in Toronto
 
-Born at Y Combinator alongside Airbnb, Dropbox, and DoorDash, Taplytics helps power the experiences within today's leading brands like RBC Royal Bank, Lookout, Grubhub, and Crate&amp;Barrel to drive more revenue through their apps and websites.
+Job Type: Full Time - Permanent
 
-A brainchild of Taplytics, DevCycle was created as a result of overwhelming feedback from our clients. DevCycle helps modern dev teams release code faster and safer. It's a new vision of feature management that goes beyond risk reduction and enables dev teams to maximize feature impact. It’s built for dev teams who are tired of the stress, complexity, and risk of releasing new code.
+Hours: Mon-Fri, 40 hours/week
 
-Come join the team responsible for the platform chosen by high-growth start-ups to Fortune 500 companies around the world. We're designing the future of software development. Learn more about DevCycle here. Come hang out with us here.
+</description><pubDate>Mon, 15 Aug 2022 18:39:28 +0000</pubDate></item><item><title>Sr. Analyst</title><link>https://jobs.lever.co/homestars/bf7c4002-b745-4f0a-befb-7842efc3a393</link><description>Location: Remote in Toronto
 
-Got some time? Check our Taplytics podcast here!
+Job Type: Full Time - Permanent
 
-About the Role: Senior Software Engineer
+Hours: Mon-Fri, 40 hours/week
 
-Taplytics is growing and is looking to increase the team’s experience base by adding a Senior Software Engineer with a backend focus. This is a chance to both be a leader on our small team as well as tackle the huge challenge of managing our scale. We operate using a microservice architecture with many services built using Node.js and Python. Our microservices are powered by various backend systems, including: MongoDB, Snowflake, Redis, Kafka, PostgreSQL, and ElasticSearch. 
-</description><pubDate>Wed, 13 Jan 2021 18:30:46 +0000</pubDate></item><item><title>Senior Growth Marketing Manager (US/Canada)</title><link>https://jobs.lever.co/taplytics/be42e7d2-9dd7-4775-a45f-6f54a771a335</link><description>Born at Y Combinator alongside Airbnb, Dropbox, and DoorDash, Taplytics helps power the experiences within today's leading brands like RBC Royal Bank, Lookout, Grubhub, and Crate&amp;Barrel to drive more revenue through their apps and websites.
+</description><pubDate>Wed, 03 Aug 2022 15:10:42 +0000</pubDate></item><item><title>Software Engineer - Backend</title><link>https://jobs.lever.co/homestars/bef1a102-2995-4ca8-965b-a5491456a261</link><description>Location: Remote in Toronto
 
-A brainchild of Taplytics, DevCycle was created as a result of overwhelming feedback from our clients. DevCycle helps modern dev teams release code faster and safer. It's a new vision of feature management that goes beyond risk reduction and enables dev teams to maximize feature impact. It’s built for dev teams who are tired of the stress, complexity, and risk of releasing new code.
+Job Type: Full Time - Permanent
 
-Come join the team responsible for the platform chosen by high-growth start-ups to Fortune 500 companies around the world. We're designing the future of software development. Learn more about DevCycle here. Come hang out with us here.
+Hours: Mon-Fri, 40 hours/week
 
-Got some time? Check our Taplytics podcast here!
+</description><pubDate>Thu, 08 Sep 2022 20:39:10 +0000</pubDate></item><item><title>Software Engineer - Back End/DevOps</title><link>https://jobs.lever.co/homestars/d8056acc-a27a-499f-b03b-526afbf76665</link><description>Location: Remote in Toronto
 
-About the Role: Senior Growth Marketing Manager 
+Job Type: Full Time - Permanent
 
-As the Senior Growth Marketing Manager, your core mission will be to shape and execute on the vision for growth marketing to drive member acquisition and new product adoption at Taplytics and DevCycle. You will be coming onboard during an extremely exciting time and will be able to have a massive impact.
+Hours: Mon-Fri, 40 hours/week
 
-We’re looking for an experienced marketer who is excited to build an elite growth engine. One of the most exciting parts of this position is that you’ll be on the front lines of the company’s most critical projects and you’ll have the opportunity to evolve your role and grow along with us.
-</description><pubDate>Fri, 10 Dec 2021 14:46:08 +0000</pubDate></item><item><title>Senior Growth Marketing Manager</title><link>https://jobs.lever.co/taplytics/37fb477a-3cfd-412f-8770-1db9f6290261</link><description>Born at Y Combinator alongside Airbnb, Dropbox, and DoorDash, Taplytics helps power the experiences within today's leading brands like RBC Royal Bank, Lookout, Grubhub, and Crate&amp;Barrel to drive more revenue through their apps and websites.
+</description><pubDate>Fri, 26 Aug 2022 19:57:03 +0000</pubDate></item><item><title>Senior Director, Product and Design</title><link>https://jobs.lever.co/homestars/998152fa-92f8-4eff-aa0c-b1e530dfac10</link><description>Location: Remote in Toronto
 
-A brainchild of Taplytics, DevCycle was created as a result of overwhelming feedback from our clients. DevCycle helps modern dev teams release code faster and safer. It's a new vision of feature management that goes beyond risk reduction and enables dev teams to maximize feature impact. It’s built for dev teams who are tired of the stress, complexity, and risk of releasing new code.
+Job Type: Full Time - 12-Month Contract
 
-Come join the team responsible for the platform chosen by high-growth start-ups to Fortune 500 companies around the world. We're designing the future of software development. Learn more about DevCycle here. Come hang out with us here.
+Hours: Mon-Fri, 40 hours/week
 
-Got some time? Check our Taplytics podcast here!
 
-About the Role: Senior Growth Marketing Manager 
+</description><pubDate>Wed, 10 Aug 2022 16:05:16 +0000</pubDate></item><item><title>Salesforce Engineer</title><link>https://jobs.lever.co/homestars/f4f02784-a317-44d9-b347-b60306cfe17d</link><description>Location: Remote in Toronto
 
-As the Senior Growth Marketing Manager, your core mission will be to shape and execute the vision for growth marketing to drive member acquisition and new product adoption at Taplytics. You will be coming onboard during an extremely exciting time and will be able to have a massive impact.
+Job Type: Full Time - Permanent
 
-We’re looking for an experienced marketer who is excited to build an elite growth engine. One of the most exciting parts of this position is that you’ll be on the front lines of the company’s most critical projects and you’ll have the opportunity to evolve your role and grow along with us.
-</description><pubDate>Tue, 21 Dec 2021 17:46:12 +0000</pubDate></item><item><title>Senior Full Stack Engineer</title><link>https://jobs.lever.co/taplytics/fdde3847-8c0d-4ace-9889-08363be74926</link><description>We’re currently seeking a Senior Full Stack Engineer to help us tackle unique technical challenges! Our clients' user bases require petabyte-scale backends and well-built SDKs. Our platform processes millions of transactions per minute, delivering experiences to 100s of millions of devices globally. Chances are, you probably already have our technology in your phone right now. You will be part of an amazing team that uses the latest technologies to tackle unique challenges that face a rich customer experience and feature management platform.
+Hours: Mon-Fri, 40 hours/week
+</description><pubDate>Fri, 09 Sep 2022 19:29:53 +0000</pubDate></item><item><title>Product Manager</title><link>https://jobs.lever.co/homestars/f6a251dc-6f43-4bcd-baaf-308e4ab816cb</link><description>
+Location: Remote in Toronto
 
-Born at Y Combinator alongside Airbnb, Dropbox, and DoorDash, Taplytics helps power the experiences within today's leading brands like RBC Royal Bank, Lookout, Grubhub, and Crate&amp;Barrel to drive more revenue through their apps and websites.
+Job Type: Full Time - Permanent 
 
-A brainchild of Taplytics, DevCycle was created as a result of overwhelming feedback from our clients. DevCycle helps modern dev teams release code faster and safer. It's a new vision of feature management that goes beyond risk reduction and enables dev teams to maximize feature impact. It’s built for dev teams who are tired of the stress, complexity, and risk of releasing new code.
+Hours: Mon-Fri, 40 hours/week
+</description><pubDate>Tue, 12 Jul 2022 19:46:19 +0000</pubDate></item><item><title>Inside Sales Representative</title><link>https://jobs.lever.co/homestars/f8426fca-71d5-4707-8691-3be82a9b2603</link><description>Location: Remote In Canada
 
-Come join the team responsible for the platform chosen by high-growth start-ups to Fortune 500 companies around the world. We're designing the future of software development. Learn more about DevCycle here. Come hang out with us here.
+Job Type: Full Time - Permanent 
 
-Got some time? Check our Taplytics podcast here!
+Working Hours: Mon-Fri, 40 hours/week
+</description><pubDate>Thu, 01 Sep 2022 15:25:46 +0000</pubDate></item><item><title>Inside Sales Representative</title><link>https://jobs.lever.co/homestars/f681349b-5577-4a0c-8700-1284de756d23</link><description>
+Location: Remote In Ottawa
 
-About the Role: Senior Full Stack Engineer 
+Job Type: Full Time - Permanent 
 
-Taplytics is growing and is looking to increase the team’s experience base by adding a Senior Full Stack Engineer with a backend focus. This is a chance to both be a leader on our small team as well as tackle the huge challenge of managing our scale. We operate using a microservice architecture with many services built using Node.js, React.js, and Python. Our microservices are powered by various backend systems, including: MongoDB, Snowflake, Redis, Kafka, PostgreSQL, and ElasticSearch. We run at petabyte scale on AWS delivering experiences to billions of devices, requiring unique scaling solutions. We are consistently iterating and improving our systems and workflows to improve how we develop code with a focus on producing the best product possible.
-</description><pubDate>Fri, 11 Jun 2021 18:54:26 +0000</pubDate></item><item><title>Senior Full Stack Engineer</title><link>https://jobs.lever.co/taplytics/94004983-ffde-435b-a671-5cfe8e315810</link><description>We’re currently seeking a Senior Full Stack Engineer to help us tackle unique technical challenges! Our clients' user bases require petabyte-scale backends and well-built SDKs. Our platform processes millions of transactions per minute, delivering experiences to 100s of millions of devices globally. Chances are, you probably already have our technology in your phone right now. You will be part of an amazing team that uses the latest technologies to tackle unique challenges that face a rich customer experience and feature management platform.
+Working Hours: Mon-Fri, 40 hours/week
+</description><pubDate>Thu, 01 Sep 2022 15:25:35 +0000</pubDate></item><item><title>Inside Sales Representative</title><link>https://jobs.lever.co/homestars/a198b71e-1542-44ae-a71d-ff758f5aaf05</link><description>
+Location: Remote In London 
 
-Born at Y Combinator alongside Airbnb, Dropbox, and DoorDash, Taplytics helps power the experiences within today's leading brands like RBC Royal Bank, Lookout, Grubhub, and Crate&amp;Barrel to drive more revenue through their apps and websites.
+Job Type: Full Time - Permanent 
 
-A brainchild of Taplytics, DevCycle was created as a result of overwhelming feedback from our clients. DevCycle helps modern dev teams release code faster and safer. It's a new vision of feature management that goes beyond risk reduction and enables dev teams to maximize feature impact. It’s built for dev teams who are tired of the stress, complexity, and risk of releasing new code.
+Working Hours: Mon-Fri, 40 hours/week
+</description><pubDate>Thu, 01 Sep 2022 15:23:31 +0000</pubDate></item><item><title>Inside Sales Representative</title><link>https://jobs.lever.co/homestars/74d01a2d-477e-43d5-8bab-2ea5a02ca391</link><description>
+Location: Remote In Ottawa
 
-Come join the team responsible for the platform chosen by high-growth start-ups to Fortune 500 companies around the world. We're designing the future of software development. Learn more about DevCycle here. Come hang out with us here.
+Job Type: Full Time - Permanent 
 
-Got some time? Check our Taplytics podcast here!
+Working Hours: Mon-Fri, 40 hours/week
+</description><pubDate>Thu, 01 Sep 2022 15:24:30 +0000</pubDate></item><item><title>Inside Sales Representative</title><link>https://jobs.lever.co/homestars/6513e118-cd9a-438d-9913-9d8cf401d310</link><description>
+Location: Remote In Toronto
 
-About the Role: Senior Full Stack Engineer 
+Job Type: Full Time - Permanent 
 
-Taplytics is growing and is looking to increase the team’s experience base by adding a Senior Full Stack Engineer with a backend focus. This is a chance to both be a leader on our small team as well as tackle the huge challenge of managing our scale. We operate using a microservice architecture with many services built using Node.js, React.js, and Python. Our microservices are powered by various backend systems, including: MongoDB, Snowflake, Redis, Kafka, PostgreSQL, and ElasticSearch. We run at petabyte scale on AWS delivering experiences to billions of devices, requiring unique scaling solutions. We are consistently iterating and improving our systems and workflows to improve how we develop code with a focus on producing the best product possible.
-</description><pubDate>Fri, 11 Jun 2021 18:52:45 +0000</pubDate></item><item><title>Senior Front End Engineer (React)</title><link>https://jobs.lever.co/taplytics/106e5a3e-bcb9-479c-a7d2-6371a6979610</link><description>We’re currently seeking a Senior Front End Engineer (React) to help us tackle unique technical challenges! Our clients' user bases require petabyte-scale backends and well-built SDKs. Our platform processes millions of transactions per minute, delivering experiences to 100s of millions of devices globally. Chances are, you probably already have our technology in your phone right now. You will be part of an amazing team that uses the latest technologies to tackle unique challenges that face a rich customer experience and feature management platform.
+Working Hours: Mon-Fri, 40 hours/week
+</description><pubDate>Tue, 31 May 2022 14:34:42 +0000</pubDate></item><item><title>Inside Sales Representative</title><link>https://jobs.lever.co/homestars/2c417f38-56e4-4110-b208-792568eb9740</link><description>
+Location: Remote In Toronto
 
-Born at Y Combinator alongside Airbnb, Dropbox, and DoorDash, Taplytics helps power the experiences within today's leading brands like RBC Royal Bank, Lookout, Grubhub, and Crate&amp;Barrel to drive more revenue through their apps and websites.
+Job Type: Full Time - Permanent 
 
-A brainchild of Taplytics, DevCycle was created as a result of overwhelming feedback from our clients. DevCycle helps modern dev teams release code faster and safer. It's a new vision of feature management that goes beyond risk reduction and enables dev teams to maximize feature impact. It’s built for dev teams who are tired of the stress, complexity, and risk of releasing new code.
+Working Hours: Mon-Fri, 40 hours/week
+</description><pubDate>Tue, 31 May 2022 14:34:07 +0000</pubDate></item><item><title>Inside Sales Representative</title><link>https://jobs.lever.co/homestars/22bc9d5c-52d2-415c-b056-ef1e1c74ce3f</link><description>Location: Remote In Toronto
 
-Come join the team responsible for the platform chosen by high-growth start-ups to Fortune 500 companies around the world. We're designing the future of software development. Learn more about DevCycle here. Come hang out with us here.
+Job Type: Full Time - Permanent 
 
-Got some time? Check our Taplytics podcast here!
+Working Hours: Mon-Fri, 40 hours/week
+</description><pubDate>Thu, 01 Sep 2022 15:28:57 +0000</pubDate></item><item><title>Inside Sales Representative</title><link>https://jobs.lever.co/homestars/1dc4be37-2b82-4b10-a9b9-a3b6a38a35d1</link><description>Location: Remote In Calgary
 
-About the Role: Senior Front End Engineer (React)
+Job Type: Full Time - Permanent
 
-Taplytics is growing and is looking to increase the team’s experience base by adding a Senior React Engineer that can work with product and design to build great experiences for our users. You’ll get the chance to make key judgement calls that will impact the future of our company and our clients’ applications.
+Working Hours: Mon-Fri, 40 hours/week
+</description><pubDate>Thu, 01 Sep 2022 15:31:14 +0000</pubDate></item><item><title>Finance Specialist</title><link>https://jobs.lever.co/homestars/a3650fa8-6589-4428-afb6-f3d3e2e8fee5</link><description>Location: Remote in Toronto
 
-We operate using a microservice architecture with many services built using Node.js and Python. Our microservices are powered by various backend systems, including MongoDB, Snowflake, Redis, Kafka, PostgreSQL, and ElasticSearch. We run at petabyte scale delivering experiences to billions of devices, requiring unique scaling solutions. Our systems are hosted across AWS using Docker Containers, Kubernetes, and Terraform. 
+Job Type: Full Time - Permanent
 
-Our modern web front-end is built using NextJS, against a NestJS backend. We are continuously building on a very advanced web dashboard with interactive interfaces to modify the layout of mobile applications in visual A/B Test Experiments, develop rich messaging campaigns across many platforms, and new interfaces for seamlessly connecting together all functionality in our platform. We are consistently iterating and improving our systems and workflows to improve how we develop code with a focus on producing the best product possible.
-</description><pubDate>Tue, 26 Oct 2021 19:01:49 +0000</pubDate></item><item><title>Senior Backend Software Engineer</title><link>https://jobs.lever.co/taplytics/8070a674-3b04-4e5c-a8d2-5a54898a2a9c</link><description>We’re currently seeking a Senior Backend Software Engineer to help us tackle unique technical challenges! Our clients' user bases require petabyte-scale backends and well-built SDKs. Our platform processes millions of transactions per minute, delivering experiences to 100s of millions of devices globally. Chances are, you probably already have our technology in your phone right now. You will be part of an amazing team that uses the latest technologies to tackle unique challenges that face a rich customer experience and feature management platform.
+Hours: Mon-Fri, 40 hours/week
+</description><pubDate>Thu, 08 Sep 2022 20:05:12 +0000</pubDate></item><item><title>Director of Revenue Enablement</title><link>https://jobs.lever.co/homestars/e4327865-13eb-431d-bf4b-faceff818786</link><description>Location: Remote in Toronto
 
-Born at Y Combinator alongside Airbnb, Dropbox, and DoorDash, Taplytics helps power the experiences within today's leading brands like RBC Royal Bank, Lookout, Grubhub, and Crate&amp;Barrel to drive more revenue through their apps and websites.
+Job Type: Full Time - Permanent
 
-A brainchild of Taplytics, DevCycle was created as a result of overwhelming feedback from our clients. DevCycle helps modern dev teams release code faster and safer. It's a new vision of feature management that goes beyond risk reduction and enables dev teams to maximize feature impact. It’s built for dev teams who are tired of the stress, complexity, and risk of releasing new code.
+Hours: Mon-Fri, 40 hours/week
+</description><pubDate>Mon, 15 Aug 2022 18:54:50 +0000</pubDate></item><item><title>Customer Success Manager</title><link>https://jobs.lever.co/homestars/0797795b-7dc2-4c0a-85dd-0ba832a32a99</link><description>Location: Remote in Toronto
 
-Come join the team responsible for the platform chosen by high-growth start-ups to Fortune 500 companies around the world. We're designing the future of software development. Learn more about DevCycle here. Come hang out with us here.
+Job Type: Full Time - Permanent
 
-Got some time? Check our Taplytics podcast here!
+Hours: Mon-Fri, 40 hours/week
 
-About the Role: Senior Backend Software Engineer
 
-Taplytics is growing and is looking to increase the team’s experience base by adding a Senior Software Engineer with a backend focus. This is a chance to both be a leader on our small team as well as tackle the huge challenge of managing our scale. We operate using a microservice architecture with many services built using Node.js and Python. Our microservices are powered by various backend systems, including: MongoDB, Snowflake, Redis, Kafka, PostgreSQL, and ElasticSearch. 
-</description><pubDate>Wed, 13 Jan 2021 18:27:56 +0000</pubDate></item><item><title>Full Stack Engineer</title><link>https://jobs.lever.co/taplytics/e6dea8a0-6721-4fca-adf6-294abed41053</link><description>We’re currently seeking a Full Stack Engineer to help us tackle unique technical challenges! Our clients' user bases require petabyte-scale backends and well-built SDKs. Our platform processes millions of transactions per minute, delivering experiences to 100s of millions of devices globally. Chances are, you probably already have our technology in your phone right now. You will be part of an amazing team that uses the latest technologies to tackle unique challenges that face a rich customer experience and feature management platform.
-
-Born at Y Combinator alongside Airbnb, Dropbox, and DoorDash, Taplytics helps power the experiences within today's leading brands like RBC Royal Bank, Lookout, Grubhub, and Crate&amp;Barrel to drive more revenue through their apps and websites.
-
-A brainchild of Taplytics, DevCycle was created as a result of overwhelming feedback from our clients. DevCycle helps modern dev teams release code faster and safer. It's a new vision of feature management that goes beyond risk reduction and enables dev teams to maximize feature impact. It’s built for dev teams who are tired of the stress, complexity, and risk of releasing new code.
-
-Come join the team responsible for the platform chosen by high-growth start-ups to Fortune 500 companies around the world. We're designing the future of software development. Learn more about DevCycle here. Come hang out with us here.
-
-Got some time? Check our Taplytics podcast here!
-
-About the Role: Full Stack Engineer 
-
-Taplytics is growing and is looking to expand the team by adding a Full Stack Engineer with either a back end or front end focus. This is a chance to level up your skills as an Engineer by tackling the huge challenge of managing our scale. We operate using a microservice architecture with many services built using Node.js, React.js, and Python. Our microservices are powered by various backend systems, including: MongoDB, Snowflake, Redis, Kafka, PostgreSQL, and ElasticSearch. We run at a large scale on AWS delivering experiences to billions of devices, requiring unique scaling solutions. We are consistently iterating and improving our systems and workflows to improve how we develop code with a focus on producing the best product possible.
-</description><pubDate>Wed, 16 Jun 2021 14:59:10 +0000</pubDate></item><item><title>Full Stack Engineer</title><link>https://jobs.lever.co/taplytics/898dedd8-459c-488a-ada8-ed993d56574a</link><description>We’re currently seeking a Full Stack Engineer to help us tackle unique technical challenges! Our clients' user bases require petabyte-scale backends and well-built SDKs. Our platform processes millions of transactions per minute, delivering experiences to 100s of millions of devices globally. Chances are, you probably already have our technology in your phone right now. You will be part of an amazing team that uses the latest technologies to tackle unique challenges that face a rich customer experience and feature management platform.
-
-Born at Y Combinator alongside Airbnb, Dropbox, and DoorDash, Taplytics helps power the experiences within today's leading brands like RBC Royal Bank, Lookout, Grubhub, and Crate&amp;Barrel to drive more revenue through their apps and websites.
-
-A brainchild of Taplytics, DevCycle was created as a result of overwhelming feedback from our clients. DevCycle helps modern dev teams release code faster and safer. It's a new vision of feature management that goes beyond risk reduction and enables dev teams to maximize feature impact. It’s built for dev teams who are tired of the stress, complexity, and risk of releasing new code.
-
-Come join the team responsible for the platform chosen by high-growth start-ups to Fortune 500 companies around the world. We're designing the future of software development. Learn more about DevCycle here. Come hang out with us here.
-
-Got some time? Check our Taplytics podcast here!
-
-
-About the Role: Full Stack Engineer 
-
-Taplytics is growing and is looking to expand the team by adding a Full Stack Engineer with either a back end or front end focus. This is a chance to level up your skills as an Engineer by tackling the huge challenge of managing our scale. We operate using a microservice architecture with many services built using Node.js, React.js, and Python. 
-
-Our microservices are powered by various backend systems, including: MongoDB, Snowflake, Redis, Kafka, PostgreSQL, and ElasticSearch. We run at a large scale on AWS delivering experiences to billions of devices, requiring unique scaling solutions. We are consistently iterating and improving our systems and workflows to improve how we develop code with a focus on producing the best product possible.
-</description><pubDate>Wed, 16 Jun 2021 14:58:28 +0000</pubDate></item><item><title>Director of Product</title><link>https://jobs.lever.co/taplytics/75413156-1a79-49a1-a477-e5f52154a2c8</link><description>Born at Y Combinator in Silicon Valley - the incubator that helped develop Airbnb, Dropbox, and DoorDash. Taplytics is the Digital Optimization Suite for modern enterprises. We help power the experiences within today's leading brands like RBC, Lookout, Grubhub, and Crate &amp; Barrel to drive more revenue through their apps and websites.
-
-A brainchild of Taplytics, DevCycle was created as a result of overwhelming feedback from the software development teams we work with. DevCycle helps modern dev teams release code faster and safer. It's a new vision of feature management that goes beyond risk reduction and enables dev teams to maximize feature impact. 
-
-Our simple and powerful feature management platform is made for dev teams who are tired of the stress, complexity, and risk of releasing new code. With experience supporting everything from Fortune 10 to start-ups, you’d be joining a team primed to make a big impact on this greenfield feature management industry!
-
-We're designing the future of software development. Learn more about DevCycle here. Come hang out with us here.
-
-About the Role: Director of Product  
-
-Creating a successful product in the software business is a huge challenge, and for us, it’s been such a rewarding experience. Over the past few years, our powerful feature management and experimentation technologies have been applied to a much broader scope, allowing large enterprise businesses to test and deploy all sorts of digital experiences. But wait until we show you what we’re working on next!
-
-Today we have a software development team of 20 engineers developing at full-speed. With such a large, successful and senior team working away, it’s time for us to invest in our product management function to match it. That’s where you come in to help grow and nurture the team so they can continue to ship products that users love. 
- 
-We are off to a great start with a strong product/market fit, strong revenue/financials, a great culture and mentors who you’ll love to work with. Come join our team and help us build the next generation of Taplytics. 
-
-</description><pubDate>Wed, 29 Sep 2021 16:38:58 +0000</pubDate></item><item><title>Account Executive - SaaS</title><link>https://jobs.lever.co/taplytics/9071a0d7-07fe-45e7-bce5-aa230d62f687</link><description>Born at Y Combinator alongside Airbnb, Dropbox, and DoorDash, Taplytics helps power the experiences within today's leading brands like RBC Royal Bank, Lookout, Grubhub, and Crate&amp;Barrel to drive more revenue through their apps and websites.
-
-A brainchild of Taplytics, DevCycle was created as a result of overwhelming feedback from our clients. DevCycle helps modern dev teams release code faster and safer. It's a new vision of feature management that goes beyond risk reduction and enables dev teams to maximize feature impact. It’s built for dev teams who are tired of the stress, complexity, and risk of releasing new code.
-
-Come join the team responsible for the platform chosen by high-growth start-ups to Fortune 500 companies around the world. We're designing the future of software development. Learn more about DevCycle here. Come hang out with us here.
-
-Got some time? Check our Taplytics podcast here!
-
-About the Role: Senior Account Executive
-
-In this role, you will close a variety of deal sizes and build win-win relationships with our clients across North America. You will have the support of our team through Marketing and Demand-Generation efforts, however, this is a full-cycle position and you will discover, qualify, build relationships, negotiate, and help onboard new clients.
-</description><pubDate>Thu, 02 Dec 2021 17:32:41 +0000</pubDate></item></channel></rss>
+</description><pubDate>Thu, 19 May 2022 17:56:49 +0000</pubDate></item></channel></rss>

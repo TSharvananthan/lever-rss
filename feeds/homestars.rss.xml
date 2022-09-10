@@ -1,106 +1,609 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Homestars Job Postings</title><link>https://api.lever.co/v0/postings/homestars?mode=json</link><description>Job postings for Homestars from lever.co</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 10 Sep 2022 18:13:33 +0000</lastBuildDate><item><title>VP of Sales</title><link>https://jobs.lever.co/homestars/85ae24b9-f241-4ab5-be30-bc32ccea4d35</link><description>Location: Remote in Toronto
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Homestars Job Postings</title><link>https://api.lever.co/v0/postings/homestars?mode=json</link><description>Job postings for Homestars from lever.co</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 10 Sep 2022 18:29:57 +0000</lastBuildDate><item><title>Vice President, Business Consulting</title><link>https://jobs.lever.co/stackadapt/f8891df0-1897-4d92-af29-1cf83cf145ce</link><description>StackAdapt is one of the world’s leading advertising technology platforms built for modern marketers to execute results-driven programmatic media campaigns with ease. With the platform consistently ranked top of its class (#1 Demand-Side Platform on G2), the company is working with the most recognizable brands and advertising agencies across the globe. 
 
-Job Type: Full Time - Permanent
+We are building a Business Consulting Group to help our clients succeed in the increasingly competitive global economy, and we are looking for an entrepreneurial, ambitious person who is infinitely curious and loves taking the initiative to kick start and build the team.
 
-Hours: Mon-Fri, 40 hours/week
+StackAdapt is a Remote First company, we are open to candidates located anywhere in Canada or the US for this position. 
+</description><pubDate>Mon, 02 May 2022 17:07:23 +0000</pubDate></item><item><title>UI/UX Engineer, Frontend Infrastructure</title><link>https://jobs.lever.co/stackadapt/e4404164-f12a-496e-b9af-d2a00d9f7ce7</link><description>StackAdapt is the #1 performing native advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience. 
 
-</description><pubDate>Mon, 15 Aug 2022 18:39:28 +0000</pubDate></item><item><title>Sr. Analyst</title><link>https://jobs.lever.co/homestars/bf7c4002-b745-4f0a-befb-7842efc3a393</link><description>Location: Remote in Toronto
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America. 
 
-Job Type: Full Time - Permanent
+We're seeking an UI/UX engineer to help enhance our existing component library. The digital advertising industry is riddled with interesting challenges as we continue to scale out our platform with a fast growing list of customers. 
 
-Hours: Mon-Fri, 40 hours/week
+Our technologies include Ruby on Rails, Go, React, GraphQL, Redis, Elasticsearch, Amazon Redshift, and others. Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
 
-</description><pubDate>Wed, 03 Aug 2022 15:10:42 +0000</pubDate></item><item><title>Software Engineer - Backend</title><link>https://jobs.lever.co/homestars/bef1a102-2995-4ca8-965b-a5491456a261</link><description>Location: Remote in Toronto
+StackAdapt is a Remote First company, we are open to candidates located anywhere in North America for this position.
+</description><pubDate>Thu, 18 Aug 2022 17:57:53 +0000</pubDate></item><item><title>Strategic Account Manager, Channel Partnerships</title><link>https://jobs.lever.co/stackadapt/5a141f01-79b8-4b14-993c-27bdae8e395a</link><description>Are you a proactive problem solver with a passion for programmatic advertising? Are you a relationship builder with strong interpersonal communication skills? If so, then we want to hear from you! We’re looking for a Strategic Account Manager (AM) to join our expanding Channel Partnerships team. 
 
-Job Type: Full Time - Permanent
+Reporting to the Manager of Client Services, you will play an integral role in both the pre- and post-sales client relations and lifecycle as it relates to user adoption of the StackAdapt platform, regular client communications and campaign management. In addition, you will work closely with your Channel Partnerships Account Executives as the technical voice when selling the value of the StackAdapt Platform as well as advise, design and help execute on simple to complex campaign setup strategies to meet a variety of KPI’s and universal business goals. 
 
-Hours: Mon-Fri, 40 hours/week
+A successful AM at StackAdapt must have a strong understanding of our clients’ business objectives, and the ability to proactively communicate how new StackAdapt features and solutions can maximize the customer’s campaign ROI. 
 
-</description><pubDate>Thu, 08 Sep 2022 20:39:10 +0000</pubDate></item><item><title>Software Engineer - Back End/DevOps</title><link>https://jobs.lever.co/homestars/d8056acc-a27a-499f-b03b-526afbf76665</link><description>Location: Remote in Toronto
+Curious to learn more? You can read about 'a day in the life of an Account Manager' on our blog. 
 
-Job Type: Full Time - Permanent
+StackAdapt is a Remote First company, we are open to candidates located anywhere in the US for this position.
+</description><pubDate>Thu, 08 Sep 2022 19:15:24 +0000</pubDate></item><item><title>Sr. Technical Business Analyst (North America)</title><link>https://jobs.lever.co/stackadapt/3618c50b-ccf7-4ee1-a16f-180088dd6704</link><description>We are looking for an exceptional candidate who is interested in driving internal process innovation within one of the fastest-growing technology companies in Canada. In this role, you will be responsible for increasing organizational efficiency through business process optimization and automation. We are looking for a candidate who is looking for a fast-paced job where they can work independently in an environment that supports entrepreneurship and initiative.
+ 
+As part of StackAdapt's Business Optimization team, you will be building process and technology solutions that help our employees thrive. You'll work collaboratively across our teams to design, build, and launch solutions that delight our employees. You'll make processes efficient, ship successful digital products before, and drive informed, data-driven action that ensures we design the right thing for our company.
+ 
+Your responsibilities will be dynamic – you may be facilitating employee interviews to discover pain points, helping to improve our APIs with our engineers, or documenting processes. Ultimately, you should be able to create clarity out of ambiguity and guide teams to create high-quality experiences.
 
-Hours: Mon-Fri, 40 hours/week
+StackAdapt is a Remote First company, we are open to candidates located anywhere in North America for this position.
 
-</description><pubDate>Fri, 26 Aug 2022 19:57:03 +0000</pubDate></item><item><title>Senior Director, Product and Design</title><link>https://jobs.lever.co/homestars/998152fa-92f8-4eff-aa0c-b1e530dfac10</link><description>Location: Remote in Toronto
+</description><pubDate>Fri, 04 Mar 2022 19:59:16 +0000</pubDate></item><item><title>Software Engineer, Frontend</title><link>https://jobs.lever.co/stackadapt/7bb0374d-b65c-471d-9cd5-950d6e2a4f96</link><description>StackAdapt is the no. 1 performing programmatic advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience.
 
-Job Type: Full Time - 12-Month Contract
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America.
 
-Hours: Mon-Fri, 40 hours/week
+StackAdapt is looking for a Front-End Engineer to tackle the challenging technical milestones that come up as we continue to scale our platform. You’ll have the opportunity to develop our cutting-edge platform from the ground up and contribute to our existing projects. Your role will require a high level of precision and a strong focus on detail. Our front-end stack consists primarily of React, Redux Toolkit, Typescript, GraphQL and Ruby on Rails. We are currently looking to hire people across North America
 
+Learn more about our engineering culture here: https://www.youtube.com/watch?v=LXM2NrkhKZc
 
-</description><pubDate>Wed, 10 Aug 2022 16:05:16 +0000</pubDate></item><item><title>Salesforce Engineer</title><link>https://jobs.lever.co/homestars/f4f02784-a317-44d9-b347-b60306cfe17d</link><description>Location: Remote in Toronto
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
 
-Job Type: Full Time - Permanent
+StackAdapt is a Remote First company, we are open to candidates located anywhere in the GTA for this position.
+</description><pubDate>Wed, 22 Sep 2021 23:18:37 +0000</pubDate></item><item><title>Software Engineer, Backend</title><link>https://jobs.lever.co/stackadapt/dfef0a7d-d9a1-468e-8a73-5a6e74284092</link><description>StackAdapt is the no. 1 performing programmatic advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience.
 
-Hours: Mon-Fri, 40 hours/week
-</description><pubDate>Fri, 09 Sep 2022 19:29:53 +0000</pubDate></item><item><title>Product Manager</title><link>https://jobs.lever.co/homestars/f6a251dc-6f43-4bcd-baaf-308e4ab816cb</link><description>
-Location: Remote in Toronto
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America.
 
-Job Type: Full Time - Permanent 
+Our real-time advertising bidding system handles over 3,000,000 requests per second and stores several terabytes of data every day. Our technologies include Go, Ruby on Rails, Aerospike, Redis, Elasticsearch, Kafka, RocksDB, Redshift, ScyllaDB, GraphQL and others. We're not afraid to test and try new technologies.
 
-Hours: Mon-Fri, 40 hours/week
-</description><pubDate>Tue, 12 Jul 2022 19:46:19 +0000</pubDate></item><item><title>Inside Sales Representative</title><link>https://jobs.lever.co/homestars/f8426fca-71d5-4707-8691-3be82a9b2603</link><description>Location: Remote In Canada
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
 
-Job Type: Full Time - Permanent 
+StackAdapt is a Remote First company, we are open to candidates located anywhere in North America for this position.
+</description><pubDate>Tue, 15 Feb 2022 22:28:45 +0000</pubDate></item><item><title>Software Engineer, Backend</title><link>https://jobs.lever.co/stackadapt/46296bcb-48d9-4fc4-95af-1d8c8f3df679</link><description>StackAdapt is the no. 1 performing programmatic advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience.
 
-Working Hours: Mon-Fri, 40 hours/week
-</description><pubDate>Thu, 01 Sep 2022 15:25:46 +0000</pubDate></item><item><title>Inside Sales Representative</title><link>https://jobs.lever.co/homestars/f681349b-5577-4a0c-8700-1284de756d23</link><description>
-Location: Remote In Ottawa
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America.
 
-Job Type: Full Time - Permanent 
+Our real-time advertising bidding system handles over 3,000,000 requests per second and stores several terabytes of data every day. Our technologies include Go, Ruby on Rails, Aerospike, Redis, Elasticsearch, Kafka, RocksDB, Redshift, ScyllaDB, GraphQL and others. We're not afraid to test and try new technologies.
 
-Working Hours: Mon-Fri, 40 hours/week
-</description><pubDate>Thu, 01 Sep 2022 15:25:35 +0000</pubDate></item><item><title>Inside Sales Representative</title><link>https://jobs.lever.co/homestars/a198b71e-1542-44ae-a71d-ff758f5aaf05</link><description>
-Location: Remote In London 
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
 
-Job Type: Full Time - Permanent 
-
-Working Hours: Mon-Fri, 40 hours/week
-</description><pubDate>Thu, 01 Sep 2022 15:23:31 +0000</pubDate></item><item><title>Inside Sales Representative</title><link>https://jobs.lever.co/homestars/74d01a2d-477e-43d5-8bab-2ea5a02ca391</link><description>
-Location: Remote In Ottawa
-
-Job Type: Full Time - Permanent 
-
-Working Hours: Mon-Fri, 40 hours/week
-</description><pubDate>Thu, 01 Sep 2022 15:24:30 +0000</pubDate></item><item><title>Inside Sales Representative</title><link>https://jobs.lever.co/homestars/6513e118-cd9a-438d-9913-9d8cf401d310</link><description>
-Location: Remote In Toronto
-
-Job Type: Full Time - Permanent 
-
-Working Hours: Mon-Fri, 40 hours/week
-</description><pubDate>Tue, 31 May 2022 14:34:42 +0000</pubDate></item><item><title>Inside Sales Representative</title><link>https://jobs.lever.co/homestars/2c417f38-56e4-4110-b208-792568eb9740</link><description>
-Location: Remote In Toronto
-
-Job Type: Full Time - Permanent 
-
-Working Hours: Mon-Fri, 40 hours/week
-</description><pubDate>Tue, 31 May 2022 14:34:07 +0000</pubDate></item><item><title>Inside Sales Representative</title><link>https://jobs.lever.co/homestars/22bc9d5c-52d2-415c-b056-ef1e1c74ce3f</link><description>Location: Remote In Toronto
-
-Job Type: Full Time - Permanent 
-
-Working Hours: Mon-Fri, 40 hours/week
-</description><pubDate>Thu, 01 Sep 2022 15:28:57 +0000</pubDate></item><item><title>Inside Sales Representative</title><link>https://jobs.lever.co/homestars/1dc4be37-2b82-4b10-a9b9-a3b6a38a35d1</link><description>Location: Remote In Calgary
-
-Job Type: Full Time - Permanent
-
-Working Hours: Mon-Fri, 40 hours/week
-</description><pubDate>Thu, 01 Sep 2022 15:31:14 +0000</pubDate></item><item><title>Finance Specialist</title><link>https://jobs.lever.co/homestars/a3650fa8-6589-4428-afb6-f3d3e2e8fee5</link><description>Location: Remote in Toronto
-
-Job Type: Full Time - Permanent
-
-Hours: Mon-Fri, 40 hours/week
-</description><pubDate>Thu, 08 Sep 2022 20:05:12 +0000</pubDate></item><item><title>Director of Revenue Enablement</title><link>https://jobs.lever.co/homestars/e4327865-13eb-431d-bf4b-faceff818786</link><description>Location: Remote in Toronto
-
-Job Type: Full Time - Permanent
-
-Hours: Mon-Fri, 40 hours/week
-</description><pubDate>Mon, 15 Aug 2022 18:54:50 +0000</pubDate></item><item><title>Customer Success Manager</title><link>https://jobs.lever.co/homestars/0797795b-7dc2-4c0a-85dd-0ba832a32a99</link><description>Location: Remote in Toronto
-
-Job Type: Full Time - Permanent
-
-Hours: Mon-Fri, 40 hours/week
+StackAdapt is a Remote First company, we are open to candidates located anywhere in North America for this position.
+</description><pubDate>Fri, 02 Apr 2021 20:42:24 +0000</pubDate></item><item><title>Software Engineer - Creatives Library</title><link>https://jobs.lever.co/stackadapt/d2d0b5a0-afc5-4683-ac21-86f8f012b3fa</link><description>StackAdapt is the #1 performing native advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience. Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America. 
 
 
-</description><pubDate>Thu, 19 May 2022 17:56:49 +0000</pubDate></item></channel></rss>
+Our technologies include Ruby on Rails, Go, React, GraphQL, Redis, Elasticsearch, Amazon Redshift, and others. 
+
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
+
+About the team:
+- We are building a full fledged creatives library that allows clients to store, host and manage bulk creative assets for ad campaigns on the platform.
+-We offer creatives templates for clients to build quick off-the-shelf display creatives on the platform
+-We aim to reduce the need to integrate with expensive third party creative providers that charge on a CPM basis, and provide in-house solutions. 
+</description><pubDate>Wed, 03 Aug 2022 23:27:51 +0000</pubDate></item><item><title>Software Engineer - Analytics + Partner Integrations</title><link>https://jobs.lever.co/stackadapt/9029e6bd-01df-4b6e-82ff-62e7740ceaa4</link><description>StackAdapt is the no. 1 performing programmatic advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience.
+
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America.
+
+We're always keeping an eye out for talented developers as we build cutting edge software. The digital advertising industry is riddled with interesting challenges as we continue to scale out our platform with a fast growing list of customers. Our technologies include Ruby on Rails, Go, React, Typescript, GraphQL, Aerospike, Redis, Elasticsearch, Amazon Redshift, and others. This position is open to remote candidates in North America.
+
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in North America for this position.
+
+About the team:
+- We create insights and visualizations to help advertisers better understand campaign performance at a glance.
+- We work closely with our strategic partnerships team to create high quality integrations that work seamlessly on external platforms such as Shopify, Hubspot &amp; Segment.
+</description><pubDate>Mon, 18 Jul 2022 21:18:29 +0000</pubDate></item><item><title>Software Engineer - Admin Tools + Audience Targeting</title><link>https://jobs.lever.co/stackadapt/14b6e734-b0c4-4377-826f-9c05bdc1385b</link><description>About the company: StackAdapt is the no. 1 performing programmatic advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience. 
+
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America.
+
+We're always keeping an eye out for talented developers as we build cutting edge software. The digital advertising industry is riddled with interesting challenges as we continue to scale out our platform with a fast growing list of customers. Our technologies include Ruby on Rails, Go, React, Typescript, GraphQL, Aerospike, Redis, Elasticsearch, Amazon Redshift, and others. 
+
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in North America for this position.
+
+About the team:
+- We build systems and tools that are used by our internal admins, as well as targeting functionalities that help clients to maximize the performance of their ad campaigns
+-We have a diverse portfolio of projects through the collaboration with various internal teams (Finance, Ad Audit, Sales, Partnership)
+</description><pubDate>Tue, 19 Jul 2022 19:41:36 +0000</pubDate></item><item><title>Software Engineer</title><link>https://jobs.lever.co/stackadapt/ee1f5ce0-5a68-4caf-aa8f-8aaf13f32049</link><description>StackAdapt is the no. 1 performing programmatic advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience.
+
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America.
+
+At StackAdapt, we’re helping clients deliver exceptional advertising outcomes by building the best omni-channel demand-side platform. The web team owns the full experience of StackAdapt’s sophisticated client-facing platform. We work closely with designers and product managers to build powerful end-to-end features which enable clients to better plan, execute, and analyze their ad campaigns.
+
+Learn more about our engineering culture here: https://www.stackadapt.com/artificial-intelligence-in-advertising
+
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in the GTA for this position.
+</description><pubDate>Thu, 02 Feb 2017 21:58:48 +0000</pubDate></item><item><title>Senior Technical QA Specialist</title><link>https://jobs.lever.co/stackadapt/dc607ced-1922-49cf-9579-c3632a1719fc</link><description>StackAdapt is the no. 1 performing programmatic advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience. 
+
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest-growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America. 
+
+We're seeking a talented QA Engineer to join our team. Our product is dynamic with an evolving UI, complex front and backend systems, and lots of data to investigate. The individual will ensure technical support, product questions, and client inquiries are investigated, addressed, and routed to the appropriate teams if necessary. You'll be working closely with the technical leadership team, product managers, software engineers, and client-facing team members.
+
+Learn more about our engineering culture here: https://www.youtube.com/watch?v=LXM2NrkhKZc
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in the GTA for this position.
+</description><pubDate>Fri, 22 Jul 2022 16:51:10 +0000</pubDate></item><item><title>Senior Technical QA Specialist</title><link>https://jobs.lever.co/stackadapt/a43b8d46-d6a3-44ee-82eb-c77666d3bc54</link><description>StackAdapt is the no. 1 performing programmatic advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience. 
+
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest-growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America. 
+
+We're seeking a talented QA Engineer to join our team. Our product is dynamic with an evolving UI, complex front and backend systems, and lots of data to investigate. The individual will ensure technical support, product questions, and client inquiries are investigated, addressed, and routed to the appropriate teams if necessary. You'll be working closely with the technical leadership team, product managers, software engineers, and client-facing team members.
+
+Learn more about our engineering culture here: https://www.youtube.com/watch?v=LXM2NrkhKZc
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in the GTA for this position.
+</description><pubDate>Mon, 25 Jul 2022 17:02:18 +0000</pubDate></item><item><title>Senior Software Engineer, Web Infrastructure (Backend)</title><link>https://jobs.lever.co/stackadapt/7fb94ebb-da33-4ebe-ab2e-401a1ede69c9</link><description>StackAdapt is the no. 1 performing programmatic advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience.
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America.
+
+We're always keeping an eye out for talented developers as we build cutting edge software. The digital advertising industry is riddled with interesting challenges as we continue to scale out our platform with a fast growing list of customers. Our technologies include Ruby on Rails, React, Typescript, GraphQL, Aerospike, Redis, Elasticsearch, Amazon Redshift, and others. This position is open to remote candidates in North America.
+
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in North America for this position.
+</description><pubDate>Tue, 05 Jul 2022 16:28:56 +0000</pubDate></item><item><title>Senior Software Engineer, GraphQL</title><link>https://jobs.lever.co/stackadapt/79da1fce-4b64-4089-bffa-3473d36cf04e</link><description>StackAdapt is the no. 1 performing programmatic advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience. 
+
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America.
+
+We're always keeping an eye out for talented developers as we build cutting edge software. The digital advertising industry is riddled with interesting challenges as we continue to scale out our platform with a fast growing list of customers. Our technologies include Ruby on Rails, React, Typescript, GraphQL, Aerospike, Redis, Elasticsearch, Amazon Redshift, and others. This position is open to remote candidates in North America. 
+
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in North America for this position.
+</description><pubDate>Wed, 06 Jul 2022 22:08:54 +0000</pubDate></item><item><title>Senior Software Engineer, Frontend</title><link>https://jobs.lever.co/stackadapt/c9bf0e7d-092a-41df-a4f0-f62a80d1a607</link><description>StackAdapt is the no. 1 performing programmatic advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience.
+
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America.
+
+StackAdapt is looking for a Senior or Lead Front-End Engineer to tackle the challenging technical milestones that come up as we continue to scale our platform. You’ll have the opportunity to develop our cutting-edge platform from the ground up and contribute to our existing projects. Your role will require a high level of precision and a strong focus on detail. Our front-end stack consists primarily of React, Redux Toolkit, Typescript, GraphQL and Ruby on Rails. This position is open to remote candidates in North America.
+
+Learn more about our engineering culture here: https://www.youtube.com/watch?v=LXM2NrkhKZc
+
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in North America for this position.
+</description><pubDate>Mon, 17 Dec 2018 17:51:48 +0000</pubDate></item><item><title>Senior Software Engineer, Frontend</title><link>https://jobs.lever.co/stackadapt/19b31b6e-1cf0-4907-874e-997fecfebfb7</link><description>StackAdapt is the no. 1 performing programmatic advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience.
+
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America.
+
+StackAdapt is looking for a Senior or Lead Front-End Engineer to tackle the challenging technical milestones that come up as we continue to scale our platform. You’ll have the opportunity to develop our cutting-edge platform from the ground up and contribute to our existing projects. Your role will require a high level of precision and a strong focus on detail. Our front-end stack consists primarily of React, Redux Toolkit, Typescript, GraphQL and Ruby on Rails. This position is open to remote candidates in North America.
+
+Learn more about our engineering culture here: https://www.youtube.com/watch?v=LXM2NrkhKZc
+
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in North America for this position.
+</description><pubDate>Tue, 15 Feb 2022 22:26:29 +0000</pubDate></item><item><title>Senior Software Engineer, Backend</title><link>https://jobs.lever.co/stackadapt/da2f02bc-8543-4a8c-bca8-6ac967716740</link><description>StackAdapt is the no. 1 performing programmatic advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience.
+
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America.
+
+Our real-time advertising bidding system handles over 3,000,000 requests per second and stores several terabytes of data every day. Our technologies include Go, Ruby on Rails, Aerospike, Redis, Elasticsearch, Kafka, RocksDB, Redshift, ScyllaDB, GraphQL and others. We're not afraid to test and try new technologies.
+
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in North America for this position.
+</description><pubDate>Thu, 14 Jul 2022 22:10:21 +0000</pubDate></item><item><title>Senior Software Engineer, Backend</title><link>https://jobs.lever.co/stackadapt/5ec14516-8527-427f-95ff-aa850a2c1e11</link><description>StackAdapt is the no. 1 performing programmatic advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience.
+
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America.
+
+Our real-time advertising bidding system handles over 3,000,000 requests per second and stores several terabytes of data every day. Our technologies include Go, Ruby on Rails, Aerospike, Redis, Elasticsearch, Kafka, RocksDB, Redshift, ScyllaDB, GraphQL and others. We're not afraid to test and try new technologies.
+
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in North America for this position.
+</description><pubDate>Thu, 14 Jul 2022 22:12:03 +0000</pubDate></item><item><title>Senior Software Engineer - Forecasting &amp; Reporting</title><link>https://jobs.lever.co/stackadapt/c8590d7f-b9f0-4f71-b305-8cfaffa38e71</link><description>StackAdapt is the no. 1 performing programmatic advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience. 
+
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America.
+
+We're always keeping an eye out for talented developers as we build cutting edge software. The digital advertising industry is riddled with interesting challenges as we continue to scale out our platform with a fast growing list of customers. Our technologies include Ruby on Rails, Go, React, Typescript, GraphQL, Aerospike, Redis, Elasticsearch, Amazon Redshift, and others. This position is open to remote candidates in North America. 
+
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in North America for this position.
+
+About the team:
+- We help marketers forecast advertising campaign performance without spending a dollar
+- We offer marketers insights and visualizations to help them measure campaign performance
+- We build measurement solutions to provide greater transparency into advertising strategies
+</description><pubDate>Tue, 12 Jul 2022 20:45:50 +0000</pubDate></item><item><title>Senior Software Engineer - Creatives Library</title><link>https://jobs.lever.co/stackadapt/3672f920-ecb4-44a5-82d6-d943aa4882ab</link><description>StackAdapt is the #1 performing native advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience. Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America. 
+
+Our technologies include Ruby on Rails, Go, React, GraphQL, Redis, Elasticsearch, Amazon Redshift, and others. 
+
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
+
+About the team:
+- We are building a full fledged creatives library that allows clients to store, host and manage bulk creative assets for ad campaigns on the platform.
+-We offer creatives templates for clients to build quick off-the-shelf display creatives on the platform
+-We aim to reduce the need to integrate with expensive third party creative providers that charge on a CPM basis, and provide in-house solutions. 
+</description><pubDate>Wed, 03 Aug 2022 23:33:11 +0000</pubDate></item><item><title>Senior Software Engineer - Admin Tools + Audience Targeting</title><link>https://jobs.lever.co/stackadapt/7f3dd1dd-b925-4a82-9c33-996a0fd76e9d</link><description>StackAdapt is the no. 1 performing programmatic advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience. 
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America.
+
+We're always keeping an eye out for talented developers as we build cutting edge software. The digital advertising industry is riddled with interesting challenges as we continue to scale out our platform with a fast growing list of customers. Our technologies include Ruby on Rails, Go, React, Typescript, GraphQL, Aerospike, Redis, Elasticsearch, Amazon Redshift, and others. 
+
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in North America for this position.
+
+About the team:
+-We build systems and tools that are used by our internal admins, as well as targeting functionalities that help clients to maximize the performance of their ad campaigns
+-We have a diverse portfolio of projects through the collaboration with various internal teams (Finance, Ad Audit, Sales, Partnership)
+</description><pubDate>Tue, 19 Jul 2022 19:36:38 +0000</pubDate></item><item><title>Senior Software Engineer</title><link>https://jobs.lever.co/stackadapt/7e62c6d2-2e75-43ad-8772-ae92482a625f</link><description>StackAdapt is the no. 1 performing programmatic advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience.
+
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America.
+
+We're always keeping an eye out for talented developers as we build cutting edge software. The digital advertising industry is riddled with interesting challenges as we continue to scale out our platform with a fast growing list of customers. Our technologies include Ruby on Rails, React, Typescript, GraphQL, Aerospike, Redis, Elasticsearch, Amazon Redshift, and others. This position is open to remote candidates in North America.
+
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in North America for this position.
+</description><pubDate>Tue, 15 Feb 2022 22:22:56 +0000</pubDate></item><item><title>Senior Software Engineer</title><link>https://jobs.lever.co/stackadapt/21b2b08f-0dad-46f3-9acd-524c45df1672</link><description>StackAdapt is the no. 1 performing programmatic advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience.
+
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America.
+
+We're always keeping an eye out for talented developers as we build cutting edge software. The digital advertising industry is riddled with interesting challenges as we continue to scale out our platform with a fast growing list of customers. Our technologies include Ruby on Rails, React, Typescript, GraphQL, Aerospike, Redis, Elasticsearch, Amazon Redshift, and others. This position is open to remote candidates in North America.
+
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in North America for this position.
+</description><pubDate>Mon, 08 Feb 2021 16:25:32 +0000</pubDate></item><item><title>Senior FP&amp;A Analyst</title><link>https://jobs.lever.co/stackadapt/a8d33244-68e7-4493-a539-76d77e485507</link><description>We are immediately hiring an experienced Senior Financial Analyst, FP&amp;A, to join our Financial Planning &amp; Analysis team in London, UK.
+
+The Senior Finance Analyst, FP&amp;A, is responsible for partnering with functional leaders across the organisation and supporting our rapidly growing organisation. This key contributor will perform crucial budgeting, forecasting, and analysis to help the company’s financial health and business strategy.
+Reporting to the Director of FP&amp;A, this role supports StackAdapt’s financial forecasting, planning, reporting and analysis efforts for the organisations. 
+
+The ideal candidate will have a strong analytical mindset and experience driving business process improvement. In addition, they will have the ability and confidence to work cross-functionally, understand and communicate complex concepts, bring business insights, drive change, and produce tangible results. We are looking for an individual who is passionate about their work, a fast learner, hardworking, organised, detail-oriented, and ready to make a significant impact.
+</description><pubDate>Tue, 09 Aug 2022 14:24:15 +0000</pubDate></item><item><title>Senior Analyst, US Taxation</title><link>https://jobs.lever.co/stackadapt/54cf70f4-d65c-4bd5-9b11-3d4ec773311c</link><description>StackAdapt is in an incredibly exciting phase of growth having recently doubled in employee size over the last year and having expanded its footprint outside of North America to establish a strong presence in the EMEA (Europe, Middle East and Africa) and APAC (Asia-Pacific) regions.
+
+We are looking for a Senior Analyst, US Taxation to support StackAdapt’s US tax expansion plans. Reporting to the Manager, Taxation &amp; Treasury, and partnering with stakeholders across legal, finance and the business, the Senior Analyst, US Taxation will help solve various tax and business problems - in both a strategic and hands-on role. Rather than look for a candidate who knows it all, we are looking for a candidate that is interested in learning and excited to be part of a high growth technology company.
+
+We are looking for a candidate who embodies the StackAdapt Values - bring positive energy, growth mindset, be adaptable, get sh*t done, be proud of your work!
+
+StackAdapt is a Remote First company. This role is open to candidates located anywhere in Canada. Occasional travel may be required.
+</description><pubDate>Thu, 11 Aug 2022 12:29:43 +0000</pubDate></item><item><title>Senior Analyst, Treasury</title><link>https://jobs.lever.co/stackadapt/d659f140-5dcd-4cac-b883-e66ebc65f270</link><description>StackAdapt is in an incredibly exciting phase of growth having recently doubled in employee size over the last year and having expanded its footprint outside of North America to establish a strong presence in the EMEA (Europe, Middle East and Africa) and APAC (Asia-Pacific) regions.
+
+We are looking for a Senior Analyst, Treasury to support StackAdapt’s Treasury function. Reporting to the Manager, Taxation &amp; Treasury, and partnering with stakeholders across legal, finance and the business, the Senior Analyst, Treasury will help solve various business problems, in both a strategic and hands-on role. Rather than look for a candidate who knows it all, we are looking for a candidate that is interested in learning and excited to be part of a high growth technology company.
+
+We are looking for a candidate who embodies the StackAdapt Values - bring positive energy, growth mindset, be adaptable, get sh*t done, be proud of your work!
+
+StackAdapt is a Remote First company. This role is open to candidates located anywhere in Canada. Occasional travel may be required.
+</description><pubDate>Thu, 11 Aug 2022 12:35:49 +0000</pubDate></item><item><title>Senior Analyst, Taxation</title><link>https://jobs.lever.co/stackadapt/7eb4da35-14cd-432f-a823-f36d23f450b1</link><description>StackAdapt is in an incredibly exciting phase of growth, having recently doubled in employee size over the last year and having expanded its footprint outside of North America to establish a strong presence in the EMEA (Europe, Middle East and Africa) and APAC (Asia-Pacific) regions.
+
+We are looking for a Senior Analyst, Taxation to support StackAdapt’s Canadian and international tax expansion plans. Reporting to the Manager, Taxation &amp; Treasury, and partnering with stakeholders across legal, finance and the business, the Senior Analyst, Taxation will help solve various tax and business problems - in both a strategic and hands-on role. Rather than look for a candidate who knows it all, we are looking for a candidate that is interested in learning and excited to be part of a high growth technology company.
+
+We are looking for a candidate who embodies the StackAdapt Values - bring positive energy, growth mindset, be adaptable, get sh*t done, be proud of your work!
+
+StackAdapt is a Remote First company. This role is open to candidates located anywhere in Canada. Occasional travel may be required.
+</description><pubDate>Thu, 11 Aug 2022 12:41:13 +0000</pubDate></item><item><title>Programmatic Sales Manager (UAE)</title><link>https://jobs.lever.co/stackadapt/2193c097-d548-4815-ae04-69df7da0b4b0</link><description>Are you passionate about digital advertising? Are you interested in building strong, meaningful client relations? Do you thrive under pressure and hustle to get things done? If so, we want to hear from you! We’re looking for a Senior Sales Manager to join our growing Revenue team.
+ 
+The Sales Manager role is a combination of sales activities and customer relationship management. Reporting to the Sales Director, you’ll be responsible for both growing existing business and closing new programmatic advertising revenue from agencies and brands. A successful Sales Manager must have a clear understanding of the client’s long-term business objectives and seek partnership opportunities to further grow the client’s business with StackAdapt. You’ll work closely with StackAdapt Account Managers to grow and retain existing accounts by presenting new campaign strategies and solutions to clients and building strong relationships. 
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in UAE for this position.
+</description><pubDate>Mon, 22 Aug 2022 15:56:00 +0000</pubDate></item><item><title>Programmatic Sales Manager (Japanese Speaking)</title><link>https://jobs.lever.co/stackadapt/2bb08376-5d70-4016-9934-4fa8e295c27c</link><description>Are you fluent in both Japanese and English? Are you passionate about digital advertising? Are you interested in building strong, meaningful client relations? Do you thrive under pressure and hustle to get things done? If so, we want to hear from you! We’re looking for a Sales Manager (SM) to join our growing Revenue team.
+ 
+The SM role is a combination of sales activities and customer relationship management. Reporting to the Sales Director, you’ll be responsible for both growing existing business and closing new programmatic advertising revenue from agencies and brands. A successful SM must have a clear understanding of the client’s long-term business objectives and seek partnership opportunities to further grow the client’s business with StackAdapt. You’ll work closely with StackAdapt Account Managers to grow and retain existing accounts by presenting new campaign strategies and solutions to clients and building strong relationships.
+
+StackAdapt is a Remote First company, we are open to candidates located in Singapore or within the APAC Region for this role.
+</description><pubDate>Wed, 20 Apr 2022 09:49:29 +0000</pubDate></item><item><title>Programmatic Sales Manager (Italy)</title><link>https://jobs.lever.co/stackadapt/fbf814e3-4b02-48f3-b78a-5ddbdeaf3e94</link><description>Are you passionate about digital advertising? Are you interested in building strong, meaningful client relations? Do you thrive under pressure and hustle to get things done? If so, we want to hear from you! We’re looking for a Senior Sales Manager to join our growing Revenue team.
+ 
+The Sales Manager role is a combination of sales activities and customer relationship management. Reporting to the Sales Director, you’ll be responsible for both growing existing business and closing new programmatic advertising revenue from agencies and brands. A successful Sales Manager must have a clear understanding of the client’s long-term business objectives and seek partnership opportunities to further grow the client’s business with StackAdapt. You’ll work closely with StackAdapt Account Managers to grow and retain existing accounts by presenting new campaign strategies and solutions to clients and building strong relationships. 
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in Italy for this position.
+</description><pubDate>Mon, 22 Aug 2022 15:24:22 +0000</pubDate></item><item><title>Programmatic Sales Manager (France)</title><link>https://jobs.lever.co/stackadapt/a1fc0ae9-4c75-4098-bbb9-e8167d1d3c95</link><description>Are you passionate about digital advertising? Are you interested in building strong, meaningful client relations? Do you thrive under pressure and hustle to get things done? If so, we want to hear from you! We’re looking for a Senior Sales Manager to join our growing Revenue team.
+ 
+The Sales Manager role is a combination of sales activities and customer relationship management. Reporting to the Sales Director, you’ll be responsible for both growing existing business and closing new programmatic advertising revenue from agencies and brands. A successful Sales Manager must have a clear understanding of the client’s long-term business objectives and seek partnership opportunities to further grow the client’s business with StackAdapt. You’ll work closely with StackAdapt Account Managers to grow and retain existing accounts by presenting new campaign strategies and solutions to clients and building strong relationships. 
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in France for this position.
+</description><pubDate>Mon, 22 Aug 2022 16:08:12 +0000</pubDate></item><item><title>Programmatic Sales Manager - ANZ</title><link>https://jobs.lever.co/stackadapt/c309a876-391f-4628-a546-32236a91d66b</link><description>Are you passionate about Programmatic Advertising? Are you interested in building strong, meaningful client relations? Do you thrive under pressure and hustle to get things done? If so, we want to hear from you!  
+
+We’re looking for a Sales Manager (SM) to join our growing ANZ Revenue team. 
+
+The SM role is a combination of sales activities and customer relationship management. Reporting to the Sales Director, you’ll be responsible for both growing existing business and closing net new programmatic advertising revenue from agencies and brands. You’ll work closely with StackAdapt Account Managers to grow and retain existing accounts by presenting new campaign strategies and solutions to clients and building strong relationships. The role will have a split responsibility of bringing in new business ~70% and farming existing accounts ~30%. 
+
+Naturally, you will have experience bringing in new business and understand the client’s long-term business objectives, seeking partnership opportunities to further grow the client’s business with StackAdapt. The ideal candidate has extensive industry knowledge and provides a consultative sales approach for clients.  
+
+StackAdapt is a Remote First company, this role is only open to candidates who are based in Melbourne.
+</description><pubDate>Thu, 18 Aug 2022 05:45:00 +0000</pubDate></item><item><title>Programmatic Account Manager (West)</title><link>https://jobs.lever.co/stackadapt/cc93bbb0-c996-4146-896c-59d6db751a4c</link><description>Are you a proactive problem solver with a passion for programmatic advertising? Are you a relationship builder with strong interpersonal communication skills? If so, then we want to hear from you! We’re looking for an Account Manager (AM) to join our expanding Revenue team.
+ 
+Reporting to the Manager of Client Services, you’ll play an integral role in the post-sales client relations and lifecycle as it relates to user adoption of the StackAdapt platform, regular client communications and campaign management. In addition you’ll work closely with your Account Executives to ensure your clients are achieving their campaigns performance and identify account expansion opportunities.
+ 
+A successful AM at StackAdapt must have a strong understanding of our clients’ business objectives, and the ability to proactively communicate how new StackAdapt features and solutions can maximize the customer’s campaign ROI.
+
+Curious to learn more? You can read about 'a day in the life of an Account Manager' on our blog.
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in West Region of the US for this position.
+</description><pubDate>Fri, 15 Jan 2021 17:02:34 +0000</pubDate></item><item><title>Programmatic Account Manager (Toronto)</title><link>https://jobs.lever.co/stackadapt/85335baf-1672-4929-aa2a-9851515d34c1</link><description>Are you a proactive problem solver with a passion for programmatic advertising? Are you a relationship builder with strong interpersonal communication skills? If so, then we want to hear from you! We’re looking for an Account Manager (AM) to join our expanding Revenue team.
+ 
+Reporting to the Manager of Client Services, you’ll play an integral role in the post-sales client relations and lifecycle as it relates to user adoption of the StackAdapt platform, regular client communications, and campaign management. In addition, you’ll work closely with your Account Executives to ensure your clients are achieving their campaign performance and identify account expansion opportunities.
+ 
+A successful AM at StackAdapt must have a strong understanding of our client's business objectives, and the ability to proactively communicate how new StackAdapt features and solutions can maximize the customer’s campaign ROI.
+
+Curious to learn more? You can read about 'a day in the life of an Account Manager' on our blog.
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in the Greater Toronto Area for this position.
+
+</description><pubDate>Wed, 08 Aug 2018 13:08:27 +0000</pubDate></item><item><title>Programmatic Account Manager (South)</title><link>https://jobs.lever.co/stackadapt/768ebc41-0285-40bd-9d71-d474bd282abb</link><description>Are you a proactive problem solver with a passion for programmatic advertising? Are you a relationship builder with strong interpersonal communication skills? If so, then we want to hear from you! We’re looking for an Account Manager (AM) to join our expanding Revenue team.
+ 
+Reporting to the Manager of Client Services, you’ll play an integral role in the post-sales client relations and lifecycle as it relates to user adoption of the StackAdapt platform, regular client communications and campaign management. In addition you’ll work closely with your Account Executives to ensure your clients are achieving their campaigns performance and identify account expansion opportunities.
+ 
+A successful AM at StackAdapt must have a strong understanding of our clients’ business objectives, and the ability to proactively communicate how new StackAdapt features and solutions can maximize the customer’s campaign ROI.
+
+Curious to learn more? You can read about 'a day in the life of an Account Manager' on our blog.
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in Southern Region of the US for this position.
+</description><pubDate>Wed, 16 Sep 2020 21:35:53 +0000</pubDate></item><item><title>Programmatic Account Manager (Northeast)</title><link>https://jobs.lever.co/stackadapt/3eaed4a8-e09f-4518-ba4a-4d2d0e5ca126</link><description>Are you a proactive problem solver with a passion for programmatic advertising? Are you a relationship builder with strong interpersonal communication skills? If so, then we want to hear from you! We’re looking for an Account Manager (AM) to join our expanding Revenue team.
+ 
+Reporting to the Manager of Client Services, you’ll play an integral role in the post-sales client relations and lifecycle as it relates to user adoption of the StackAdapt platform, regular client communications and campaign management. In addition you’ll work closely with your Account Executives to ensure your clients are achieving their campaigns performance and identify account expansion opportunities.
+ 
+A successful AM at StackAdapt must have a strong understanding of our clients’ business objectives, and the ability to proactively communicate how new StackAdapt features and solutions can maximize the customer’s campaign ROI.
+
+Curious to learn more? You can read about 'a day in the life of an Account Manager' on our blog.
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in Northeast Region of the US for this position.
+</description><pubDate>Fri, 15 Jan 2021 16:45:57 +0000</pubDate></item><item><title>Programmatic Account Manager (Midwest)</title><link>https://jobs.lever.co/stackadapt/3170c3e9-2647-4fb5-abdf-5deed207d8f5</link><description>Are you a proactive problem solver with a passion for programmatic advertising? Are you a relationship builder with strong interpersonal communication skills? If so, then we want to hear from you! We’re looking for an Account Manager (AM) to join our expanding Revenue team.
+ 
+Reporting to the Manager of Client Services, you’ll play an integral role in the post-sales client relations and lifecycle as it relates to user adoption of the StackAdapt platform, regular client communications and campaign management. In addition you’ll work closely with your Account Executives to ensure your clients are achieving their campaigns performance and identify account expansion opportunities.
+ 
+A successful AM at StackAdapt must have a strong understanding of our clients’ business objectives, and the ability to proactively communicate how new StackAdapt features and solutions can maximize the customer’s campaign ROI.
+
+Curious to learn more? You can read about 'a day in the life of an Account Manager' on our blog.
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in the Midwest Region of the US for this position.
+</description><pubDate>Fri, 15 Jan 2021 17:07:15 +0000</pubDate></item><item><title>Programmatic Account Executive (Toronto)</title><link>https://jobs.lever.co/stackadapt/605d4627-7120-4da0-b928-99a2b7e9a0c1</link><description>Are you passionate about digital advertising? Are you interested in building strong, meaningful client relations? Do you thrive under pressure and hustle to get things done? If so, we want to hear from you! We’re looking for an Account Executive (AE) to join our growing Revenue team.
+ 
+The AE role is a combination of sales activities and customer relationship management. Reporting to the Sales Director, you’ll be responsible for both growing existing business and closing new programmatic advertising revenue from agencies and brands. A successful AE must have a clear understanding of the client’s long-term business objectives and seek partnership opportunities to further grow the client’s business with StackAdapt. You’ll work closely with StackAdapt Account Managers to grow and retain existing accounts by presenting new campaign strategies and solutions to clients, and building strong relationships. 
+
+StackAdapt Headquarters is located in Toronto, Canada but we primarily operate within the US market. We are looking for US based Account Executives that will help us continue to penetrate key markets. 
+</description><pubDate>Fri, 12 Nov 2021 20:35:04 +0000</pubDate></item><item><title>Program Manager</title><link>https://jobs.lever.co/stackadapt/aca74dac-fd42-40ff-a088-c5f8eedf5e37</link><description>On StackAdapt's Product team, you will be building products that help our customers thrive. There is no "standard" day on the Product team at StackAdapt – every day will have its own set of interesting challenges.
+ 
+As a Program Manager, you'll work collaboratively across our teams to establish requirements, write product specs, identify risks, and align stakeholders. You’ll lead the delivery of complex and multi-faceted projects that have a direct impact in delighting our customers. 
+ 
+Your responsibilities will be dynamic and evolving – you could be negotiating detailed trade-offs with product and tech teams, expertly crafting a release plan, or coordinating stakeholders across different time zones. Ultimately, your work is meticulous and your results are impactful.
+</description><pubDate>Mon, 25 Apr 2022 22:31:43 +0000</pubDate></item><item><title>Product Analytics Engineer</title><link>https://jobs.lever.co/stackadapt/effbeba1-be7b-4301-96be-abc4a9f04509</link><description>On StackAdapt's Product team, you will be building products that help our customers thrive. 
+
+As a Product Analytics Engineer, you hold a high-leverage position that influences every product team's decisions with data. Every day will have its own interesting set of challenges as you work to empower your team with actionable insights and recommendations.  You'll collaborate with Product Managers, Designers, Engineers, and other stakeholders to help ensure that we're building the right thing for the right reasons. 
+
+You've worked in Product Analytics before, and can speak to times when your insights have led to informed product decisions and successes. 
+</description><pubDate>Mon, 07 Jun 2021 20:48:52 +0000</pubDate></item><item><title>Motion Design Specialist</title><link>https://jobs.lever.co/stackadapt/bfbf4e2d-1218-4986-aeb2-bb0a7d1c42f7</link><description>We are looking for a digital graphic designer who specializes in motion design to join our Creative Studio team and help our clients deliver world-class advertising executions. 
+
+As a Motion Specialist, you will work closely with Creative Strategists to produce compelling digital and video ads that inspire viewers to take action.
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in Canada for this position.
+</description><pubDate>Wed, 03 Mar 2021 13:56:02 +0000</pubDate></item><item><title>Marketing Manager, APAC</title><link>https://jobs.lever.co/stackadapt/51f388ff-6607-45e2-8c08-d1e0b53687a4</link><description>We are looking for an entrepreneurial Marketing Manager to join our team in the APAC region.  If you can plan, execute, analyze, and optimize marketing activities across the region while effectively leveraging the advanced knowledge from our internal teams—then keep reading! 
+
+The primary goals of this position are to increase awareness, expand/convert interest, and build a pipeline. 
+
+The role will work closely with the regional sales team and go-to-market partners to create content, execute events and co-develop and support demand generation programs. You will create strategies that leverage the right marketing mix of activities and best routes to market for the region. Simultaneously, you will be hands-on to execute those plans working with the Product Marketing, Digital Marketing and Design teams. You will use your comprehensive experience in marketing to both author content and design programs as well as adapting content and programs designed by the global teams.
+
+StackAdapt has experienced explosive growth since its founding in 2014 and the best is yet to come. We are the state-of-the-art, no minimums programmatic advertising platform where some of the most progressive work in machine learning meets cutting-edge user experience. Ad buyers can plan, execute, and analyze data-driven digital advertising campaigns across all devices, inventory sources and publishing partners. Our obsessive focus on stellar results has earned StackAdapt the highest customer satisfaction scores in the DSP (demand side platform) industry as demonstrated by our clear leadership position on G2. 
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in Singapore or Sydney for this position.
+
+</description><pubDate>Fri, 08 Apr 2022 21:49:02 +0000</pubDate></item><item><title>Manager, Strategic Partnerships</title><link>https://jobs.lever.co/stackadapt/35b3ee63-196e-4a13-b436-82977774bfd5</link><description>The Partnerships and Business Solutions team brings together the best of StackAdapt analytical capabilities - drawing from our Sales and Client Services team, Engineering team, Data Science team, and Product team and combining them in one cohesive organization. Our team advises and also builds, operates, and transfers capabilities to help our clients transform their programmatic execution strategies.
+
+As the Manager, Strategic Partnerships, you will work within the Inventory team to develop and grow relationships with top-tier publishers, and media owners in North America to maximize StackAdapt’s inventory footprint. Our goal is to provide our clients with premium, high-performance programmatic inventory across all channels.
+
+You will work with internal and external stakeholders to identify supply opportunities that best suit our clients’ needs. 
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in the US for this position.
+
+</description><pubDate>Wed, 27 Apr 2022 20:27:44 +0000</pubDate></item><item><title>Manager, Solutions Consulting (UK)</title><link>https://jobs.lever.co/stackadapt/8404dfae-41fb-4425-83e8-36fe1dcb26e8</link><description>StackAdapt’s Solutions Consulting team focuses on developing and leading strategic growth initiatives across our suite of programmatic advertising products within key industry verticals. 
+
+As a Manager, Solutions Consulting (UK), you will be leading projects that include identifying and spearheading revenue-driving initiatives, commercializing existing solutions for local markets and developing go-to-market strategies. You have a passion for synthesizing complex solutions into sales narratives that clearly communicate StackAdapt’s value to advertisers. You embrace ambiguity and thrive in a dynamic, challenging, ever-changing environment and will be a key consultant to sales leadership and front-line sellers. You love marketing, you have an affinity for AdTech and Big Data, and you want to play an instrumental role in the future of advertising. 
+
+This is an opportunity to impact a fast-growing, high-potential startup, with high visibility into StackAdapt’s Product, Operations, Customer, Engineering, Sales and Analytics teams.
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in the UK for this position.
+</description><pubDate>Tue, 29 Mar 2022 14:37:00 +0000</pubDate></item><item><title>Manager, Solutions Consulting (Singapore)</title><link>https://jobs.lever.co/stackadapt/29c46dec-210b-486b-a7ec-d767b52d78ca</link><description>StackAdapt’s Solutions Consulting team focuses on developing and leading strategic growth initiatives across our suite of programmatic advertising products within key industry verticals.
+
+As a Manager, Solutions Consulting (Singapore), you will be leading projects that include identifying and spearheading revenue-driving initiatives, commercializing existing solutions for local markets and developing go-to-market strategies. You have a passion for synthesizing complex solutions into sales narratives that clearly communicate StackAdapt’s value to advertisers. You embrace ambiguity and thrive in a dynamic, challenging, ever-changing environment and will be a key consultant to sales leadership and front-line sellers. You love marketing, you have an affinity for AdTech and Big Data, and you want to play an instrumental role in the future of advertising. 
+
+This is an opportunity to impact a fast-growing, high-potential startup, with high visibility into StackAdapt’s Product, Operations, Customer, Engineering, Sales and Analytics teams.
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in Singapore for this position.
+</description><pubDate>Wed, 06 Apr 2022 14:37:19 +0000</pubDate></item><item><title>Manager, IT Service Desk</title><link>https://jobs.lever.co/stackadapt/b4f05031-178e-4a37-a6ec-5ce332463dcc</link><description>The Service Desk Manager will oversee day-to-day operations for the Service Desk team. In this role, the successful candidate will be a champion of end-user services leading practices across a dynamic enterprise based on ITIL foundations. Reporting to the Director of Business Operations, the Manager of IT Service Desk will lead our support team to provide exceptional experiences to a rapidly growing company.  
+
+The ideal candidate for this role will be highly data-driven, passionate about customer experience, and contribute to the development and execution of a transformation roadmap. The candidate will continue creating and leading a modern Service Desk function that delivers top-quality front-line IT support services to employees.
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in Canada or the US for this position. 
+</description><pubDate>Mon, 15 Aug 2022 19:55:15 +0000</pubDate></item><item><title>Manager, Global Mobility</title><link>https://jobs.lever.co/stackadapt/7ff38b2e-e5c3-45b8-8ee8-406196ebbb9b</link><description>StackAdapt is looking for our first Manager, Global Mobility to join the team, contributing to the design, build, and implementation of our global mobility program, including the creation and continued enhancement of policies and processes. Reporting to the Director, Taxation &amp; Treasury, and partnering with stakeholders across legal, finance, people &amp; culture, and the business, the Manager, Global Mobility will be comfortable in both a strategic and hands on role, with a passion for innovative solutions and engaging and retaining strong talent. StackAdapt’s global expansions are very ambitious over the next few years, so if you are passionate about working on a global scale-- this role is for you!
+
+We are looking for a candidate who embodies the StackAdapt Values - bring positive energy, growth mindset, be adaptable, get sh*t done, be proud of your work! This is a rare and exciting opportunity that allows you to play a key role on an expanding team at a high growth Canadian tech company, and to apply your leadership skills and vision to the role.
+
+ StackAdapt is a Remote First company. This role is open to candidates located anywhere in Canada. Occasional travel may be required. 
+</description><pubDate>Thu, 11 Aug 2022 12:19:56 +0000</pubDate></item><item><title>Manager, Business Analysis</title><link>https://jobs.lever.co/stackadapt/cb5e2eec-95a3-48d0-a137-e7d5e122c773</link><description>We are looking for an exceptional candidate interested in driving internal efficiencies within one of the fastest-growing technology companies in Canada. In this role, you will be responsible for increasing organizational productivity through business process optimization and automation. We are looking for a candidate experienced in leading BA and PM teams who is well adjusted to a fast-paced startup environment, works independently, and orients employees to achieve the best results.
+
+As part of StackAdapt's Business Operations team, you will be leading process optimization efforts and implementing technology solutions that help our employees thrive. You'll work collaboratively across our teams to design, build, and launch solutions that delight our employees. You've made processes efficient, shipped successful digital products before, and have a bias for informed, data-driven action that ensures we design the right thing for our company.
+
+Your responsibilities will be dynamic – you may be developing a delivery approach, prioritizing new projects, managing a roadmap, facilitating interviews to discover pain points, and have hands dirty in helping improve our processes. Ultimately, you should be able to create clarity out of ambiguity and guide teams to create high-quality experiences.
+
+</description><pubDate>Fri, 26 Aug 2022 20:16:01 +0000</pubDate></item><item><title>Lead Engineer, Frontend Infrastructure</title><link>https://jobs.lever.co/stackadapt/b4f3a18d-894f-48ea-8bc4-6ff5405430c7</link><description>StackAdapt is the #1 performing native advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience. 
+
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America. 
+
+We're seeking an Engineering Manager to help lead our growing full-stack engineering team. The digital advertising industry is riddled with interesting challenges as we continue to scale out our platform with a fast growing list of customers. Our technologies include Ruby on Rails, Go, React, GraphQL, Redis, Elasticsearch, Amazon Redshift, and others. 
+
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
+</description><pubDate>Thu, 28 Jul 2022 19:11:43 +0000</pubDate></item><item><title>Lead Engineer, Creatives Library</title><link>https://jobs.lever.co/stackadapt/5862e0af-06db-4bcb-bcae-07725903ffe4</link><description>StackAdapt is the #1 performing native advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience. Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America. 
+
+We're seeking a Lead Engineer to help lead our growing full-stack engineering team. The digital advertising industry is riddled with interesting challenges as we continue to scale out our platform with a fast growing list of customers. 
+
+Our technologies include Ruby on Rails, Go, React, GraphQL, Redis, Elasticsearch, Amazon Redshift, and others. 
+
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
+
+About the team:
+- We are building a full fledged creatives library that allows clients to store, host and manage bulk creative assets for ad campaigns on the platform.
+-We offer creatives templates for clients to build quick off-the-shelf display creatives on the platform
+-We aim to reduce the need to integrate with expensive third party creative providers that charge on a CPM basis, and provide in-house solutions. 
+</description><pubDate>Wed, 03 Aug 2022 23:20:01 +0000</pubDate></item><item><title>Lead Backend Engineer</title><link>https://jobs.lever.co/stackadapt/31384b3a-43df-4575-8247-4323a9bfcb83</link><description>StackAdapt is the #1 performing native advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience.
+
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America.
+
+We're seeking an Engineering Manager to help lead our growing full-stack engineering team. The digital advertising industry is riddled with interesting challenges as we continue to scale out our platform with a fast growing list of customers. Our technologies include Go, Redis, Elasticsearch, Amazon Redshift, ScyllaDB, TiDB, and others.
+
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
+</description><pubDate>Thu, 21 Apr 2022 21:15:16 +0000</pubDate></item><item><title>Information Security Manager</title><link>https://jobs.lever.co/stackadapt/d83c7070-38ca-4645-82da-5b638d21b37f</link><description>As an Information Security Manager, you will play a vital role in keeping StackAdapt’s systems and information secure by detailing and implementing enterprise security processes and procedures with an approach of continual process improvement and scalability. You will be responsible for identifying and remediating gaps in StackAdapt’s security systems, solutions and programs, as well as recommending specific measures that can improve StackAdapt’s overall security posture. 
+
+You will undertake cyber security activities and contribute to the management of risks posed to StackAdapt’s systems and information, from both internal and external security threats. In addition, you will proactively engage with the Information Security community to identify and mitigate relevant cyber threats, investigate incidents and work with stakeholders to raise awareness of the importance of Information Security and ensure continued legal, contractual and regulatory compliance.
+
+You will use your extensive knowledge of industry-standard frameworks, methodologies and good judgment to craft, implement, and coordinate systems that facilitate analysis of large sets of security data. In addition, you will collaborate across the Information Security department to identify, communicate, and remediate threats or vulnerabilities that may impact StackAdapt, our Team Members or our users and the community at large.  
+
+StackAdapt is a ‘Remote First’ company, therefore we are open to candidates located anywhere in the UK for this position. Please be aware we cannot proceed with your application if you are not UK-based.
+</description><pubDate>Mon, 15 Aug 2022 09:24:32 +0000</pubDate></item><item><title>Growth Marketing Specialist</title><link>https://jobs.lever.co/stackadapt/69e0b66c-aa88-4f98-9535-3ddb0aed6403</link><description>StackAdapt is hiring a Growth Marketing Specialist to join our growing Marketing team. If you have a passion for both the adtech industry and for Business-to-Business (B2B) software solutions, along with the ability to manage inbound and outbound lead initiatives with the prowess of an air traffic controller, then keep on reading! 
+
+Reporting to the Growth Marketing Manager, you will be responsible for helping develop and execute our growth marketing strategy, manage our regular webinars, and manage inbound and outbound leads to help drive the continued growth of StackAdapt.
+
+ StackAdapt is a Remote First company. This role is open to candidates located anywhere in the Greater Toronto Area. 
+</description><pubDate>Wed, 07 Sep 2022 21:21:06 +0000</pubDate></item><item><title>Graphic Designer (Digital Ads)</title><link>https://jobs.lever.co/stackadapt/16999786-b0d8-4fb8-83ef-2b8a5c1849b3</link><description>We are looking for a digital graphic designer to join our Creative Studio team and help our clients deliver world-class advertising executions. 
+
+As a Production Designer, you will work closely with Creative Strategists to drive the efficiency of the team, producing pixel-perfect client deliverables with speed and accuracy. 
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in Canada for this position.
+</description><pubDate>Wed, 03 Mar 2021 13:53:23 +0000</pubDate></item><item><title>Global Privacy Counsel</title><link>https://jobs.lever.co/stackadapt/2275efaf-97d3-4da3-bbb1-dc3a816b0091</link><description>StackAdapt is in an incredibly exciting phase of growth having recently doubled in employee size over the last year and having expanded its footprint outside of North America to establish a strong presence in EMEA (Europe, Middle East and Africa) and APAC (Asia-Pacific) regions.
+
+As StackAdapt’s first dedicated privacy counsel, and to support StackAdapt’s commitment to privacy, you will lead all privacy matters for the Company globally. This is a rare and exciting opportunity that allows you to play a key role on an expanding Legal team at a high growth Canadian tech company, and to apply your leadership skills and vision to the role. You will report to the General Counsel, liaise with the COO, CTO, and senior leadership team, and work closely and collaboratively with teams across all levels in revenue, information technology and HR.
+
+ StackAdapt is a Remote First company. This role is open to candidates located anywhere in Canada.
+</description><pubDate>Mon, 18 Jul 2022 13:41:10 +0000</pubDate></item><item><title>German Bilingual Business Development Representative</title><link>https://jobs.lever.co/stackadapt/5373d567-ff8d-491c-b76f-4bdf128b50ac</link><description>Do you speak fluent German? Do you have strong business acumen and are you interested in the growing digital advertising industry? Do you have a work-hard, play-hard mentality? If so, we want to hear from you! We’re looking for a Bilingual Sales Development Representative (SDR) to join our growing international Revenue team.
+
+The StackAdapt SDR role is a collaborative position, focused on the strategy and execution of unlocking new agency &amp; brand partnership opportunities. You’ll play an integral role in the Revenue Team assisting other team members in identifying new areas to drive revenue and accelerate company growth. A successful candidate will spearhead the opportunity with hard work, team spirit and a desire to succeed in sales. 
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in the UK for this position.
+</description><pubDate>Wed, 29 Jun 2022 12:54:50 +0000</pubDate></item><item><title>Enterprise Account Executive, Partnerships</title><link>https://jobs.lever.co/stackadapt/4f609e19-01e1-4089-8605-120e6e514b84</link><description>StackAdapt is one of the world’s leading advertising technology platforms built for modern marketers to execute results driven programmatic media campaigns with ease. With the platform consistently ranked top of its class (#1 DSP on G2 Ratings), the company is on a rocketship growth trajectory working with the most recognizable brands and advertising agencies across the globe. 
+
+As the company grows, we are looking for Digital Media and SaaS Sales professionals to help expand StackAdapt’s reach and penetration within the marketing technology environment. In this role you’ll be responsible for generating and closing a pipeline of net new media integration partnership deals and leading strategic sales efforts in conjunction with our direct sales teams.
+ 
+Your support circle will be vast with multiple departments coming together to help identify, source and grow opportunities. If you are looking for an exciting environment with a high level of career potential at a growing company - this is the job for you. 
+
+This is a quota carrying position in a remote first workplace. 
+</description><pubDate>Wed, 23 Mar 2022 16:52:01 +0000</pubDate></item><item><title>Digital Graphic Designer (HTML5 Adverts)</title><link>https://jobs.lever.co/stackadapt/b1909e98-adcc-420f-ae09-176b9b23b80c</link><description>We are looking for a digital graphic designer to join our Creative Studio team in the UK and help our clients deliver world-class advertising executions. 
+
+As a Production Designer, you will work closely with Creative Strategists to produce engaging, pixel-perfect creative assets with speed and accuracy. 
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in the UK for this position.
+</description><pubDate>Thu, 18 Aug 2022 14:37:38 +0000</pubDate></item><item><title>Data Scientist / Senior Data Scientist</title><link>https://jobs.lever.co/stackadapt/eb407a66-5e2d-402a-a136-df58b05fcb83</link><description>StackAdapt is the no. 1 performing programmatic advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience.
+
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America.
+
+We are searching for a talented Data Scientist to join our engineering team as we continue to expand our data science efforts. Our platform is connected to thousands of publishers and advertisers worldwide and as a result, we're dealing with millions of requests each second, making billions of decisions. We utilize the latest technologies to solve challenges in traffic, data storage, machine learning, and scalability. 
+
+Want to learn more about our Data Science Team: https://alldus.com/ie/blog/podcasts/aiinaction-ned-dimitrov-stackadapt/
+
+Learn more about our engineering culture here: https://www.youtube.com/watch?v=LXM2NrkhKZc
+
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
+
+StackAdapt is a Remote First company, and we are open to candidates in various of our operating locations throughout the globe!
+</description><pubDate>Thu, 02 Feb 2017 22:12:43 +0000</pubDate></item><item><title>Data Scientist / Senior Data Scientist</title><link>https://jobs.lever.co/stackadapt/b1894caf-b93c-41cd-969a-db74facef400</link><description>StackAdapt is the no. 1 performing programmatic advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience.
+
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America.
+
+We are searching for a talented Data Scientist to join our engineering team as we continue to expand our data science efforts. Our platform is connected to thousands of publishers and advertisers worldwide and as a result, we're dealing with millions of requests each second, making billions of decisions. We utilize the latest technologies to solve challenges in traffic, data storage, machine learning, and scalability. 
+
+Want to learn more about our Data Science Team: https://alldus.com/ie/blog/podcasts/aiinaction-ned-dimitrov-stackadapt/
+
+Learn more about our engineering culture here: https://www.youtube.com/watch?v=LXM2NrkhKZc
+
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
+
+StackAdapt is a Remote First company, and we are open to candidates in various of our operating locations throughout the globe!
+</description><pubDate>Tue, 08 Mar 2022 19:34:42 +0000</pubDate></item><item><title>Data Scientist / Senior Data Scientist</title><link>https://jobs.lever.co/stackadapt/71af416f-a7a0-49b9-bb36-79f1092d5eb2</link><description>StackAdapt is the no. 1 performing programmatic advertising platform helping brands accelerate customer engagement and acquisition. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience.
+
+Ranking the highest in performance by G2 Crowd for the fourth time, we're one of the fastest growing companies in Canada and ranks 6th in Deloitte's Technology Fast 50 ranking and 23rd in Fast 500 in North America.
+
+We are searching for a talented Data Scientist to join our engineering team as we continue to expand our data science efforts. Our platform is connected to thousands of publishers and advertisers worldwide and as a result, we're dealing with millions of requests each second, making billions of decisions. We utilize the latest technologies to solve challenges in traffic, data storage, machine learning, and scalability. 
+
+Want to learn more about our Data Science Team: https://alldus.com/ie/blog/podcasts/aiinaction-ned-dimitrov-stackadapt/
+
+Learn more about our engineering culture here: https://www.youtube.com/watch?v=LXM2NrkhKZc
+
+Watch our talk at Amazon Tech Talks: https://www.youtube.com/watch?v=lRqu-a4gPuU
+
+StackAdapt is a Remote First company, and we are open to candidates in various of our operating locations throughout the globe!
+</description><pubDate>Fri, 22 Jul 2022 15:38:11 +0000</pubDate></item><item><title>Creative Strategist &amp; Designer (Spanish Speaking)</title><link>https://jobs.lever.co/stackadapt/06d5b531-e145-40a9-9caf-7b8488eaa61b</link><description>We are looking for a digital graphic designer and strategist, fluent in Spanish, to join our Creative Studio team and help our clients deliver world-class advertising executions in the UK, Spain, and broader Europe! 
+
+As part of the dynamic revenue team, you will work to help close new and grow existing business by creating compelling ads and strategies that perform. You will also manage creative requests from intake to delivery by collaborating with our account and production teams.
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in the UK for this position.
+</description><pubDate>Wed, 20 Jul 2022 12:58:57 +0000</pubDate></item><item><title>Creative Strategist &amp; Designer</title><link>https://jobs.lever.co/stackadapt/80e01ea6-a287-40af-b316-a10c579cf381</link><description>We are looking for a digital graphic designer and strategist to join our Creative Studio team and help our clients deliver world-class advertising executions. 
+
+As part of the dynamic revenue team, you will work to help close new and grow existing business by creating compelling ads and strategies that perform. You will also manage creative requests from intake to delivery by collaborating with our account and production teams.
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in Canada for this position.
+</description><pubDate>Fri, 07 Sep 2018 13:06:25 +0000</pubDate></item><item><title>Commercial Counsel</title><link>https://jobs.lever.co/stackadapt/e04f9f88-2af3-4b19-8f41-9e569428faee</link><description>StackAdapt is in an incredibly exciting phase of growth having recently doubled in employee size over the last year and having expanded its footprint outside of North America to establish a strong presence in EMEA (Europe, Middle East and Africa) and APAC (Asia-Pacific) regions.
+
+As Commercial Counsel, you will be a key legal advisor and support to the revenue team to help drive results. This is a rare and exciting opportunity that allows you to play a fundamental role on an expanding Legal team at a high growth Canadian tech company. On an interim basis you will report directly to the General Counsel, and work closely and collaboratively with team members across all levels in revenue and other internal teams as needed.
+
+ StackAdapt is a Remote First company. This role is open to candidates located anywhere in Canada.
+
+</description><pubDate>Mon, 18 Jul 2022 13:50:28 +0000</pubDate></item><item><title>Campaign Manager (West)</title><link>https://jobs.lever.co/stackadapt/f48e527c-e460-4fb2-9482-66652d0e2bdc</link><description>Are you a data-driven person with stellar analytical skills? Have you always been fascinated by digital advertising? Are you always looking for different ways to achieve better results? If so, we want to hear from you! We’re looking for a Campaign Manager to join our growing Revenue team. 
+
+Reporting to the Manager, Campaign Management, you’ll use your RTB/Programmatic media buying experience to optimize campaigns and come up with unique solutions that maximize our clients campaign ROI. Additionally, you’ll work closely with other revenue team members to recommend campaign strategies, ensure our clients are satisfied with their campaign performance, and identify portfolio growth opportunities.
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in the West Region of the US for this position.
+</description><pubDate>Wed, 16 Jun 2021 21:38:19 +0000</pubDate></item><item><title>Business Development Representative (Singapore)</title><link>https://jobs.lever.co/stackadapt/f4400056-863d-444c-80ff-de0cabd77e2e</link><description>Do you have strong business acumen? Are you interested in the growing digital advertising industry? Do you have a work-hard, play-hard mentality? If so, we want to hear from you! We’re looking for a Business Development Representative (BDR) to join our growing international Revenue team.
+
+The StackAdapt BDR role is a collaborative position, focused on the strategy and execution of unlocking new agency &amp; brand partnership opportunities. You’ll play an integral role in the Revenue Team assisting other team members in identifying new areas to drive revenue and accelerate company growth. A successful candidate will spearhead the opportunity with hard work, team spirit and a desire to succeed in sales. 
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in the Singapore for this position.
+</description><pubDate>Thu, 24 Mar 2022 14:55:28 +0000</pubDate></item><item><title>Business Development Representative (Northeast)</title><link>https://jobs.lever.co/stackadapt/e88e7889-e0b3-4a30-a980-26fb73236f67</link><description>Do you have strong business acumen? Are you interested in the growing digital advertising industry? Do you have a work-hard, play-hard mentality? If so, we want to hear from you! We’re looking for a Business Development Representative (BDR) to join our growing international Revenue team.
+
+The StackAdapt BDR role is a collaborative position, focused on the strategy and execution of unlocking new agency &amp; brand partnership opportunities. You’ll play an integral role in the Revenue Team assisting other team members in identifying new areas to drive revenue and accelerate company growth. A successful candidate will spearhead the opportunity with hard work, team spirit and a desire to succeed in sales. 
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in the Northeast for this position.
+
+</description><pubDate>Wed, 24 Feb 2021 20:25:58 +0000</pubDate></item><item><title>Business Development Representative (Midwest)</title><link>https://jobs.lever.co/stackadapt/54650911-4fa1-43d2-bf39-7d71b8000112</link><description>Do you have strong business acumen? Are you interested in the growing digital advertising industry? Do you have a work-hard, play-hard mentality? If so, we want to hear from you! We’re looking for a Business Development Representative (BDR) to join our growing international Revenue team.
+
+The StackAdapt BDR role is a collaborative position, focused on the strategy and execution of unlocking new agency &amp; brand partnership opportunities. You’ll play an integral role in the Revenue Team assisting other team members in identifying new areas to drive revenue and accelerate company growth. A successful candidate will spearhead the opportunity with hard work, team spirit and a desire to succeed in sales. 
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in the Midwest for this position.
+</description><pubDate>Wed, 24 Feb 2021 20:39:42 +0000</pubDate></item><item><title>Business Development Representative - ANZ</title><link>https://jobs.lever.co/stackadapt/3a82d8fa-4631-44c1-9fa3-6eaff1c26fbf</link><description>Do you have strong business acumen? Are you interested in the growing digital advertising industry? Do you have a work-hard, play-hard mentality? If so, we want to hear from you! 
+
+We’re looking for a Business Development Representative (BDR) to join our growing  ANZ Revenue team. 
+
+The StackAdapt BDR role is a collaborative position, focused on the strategy and execution of unlocking new agency &amp; brand partnership opportunities. You’ll play an integral role in the Revenue Team assisting other team members in identifying new areas to drive revenue and accelerate company growth. A successful candidate will spearhead the opportunity with hard work, team spirit and a desire to succeed in sales.  
+
+StackAdapt is a remote first company, we are open to candidates located anywhere in Australia or New Zealand for this position.
+</description><pubDate>Thu, 18 Aug 2022 06:50:21 +0000</pubDate></item><item><title>Bilingual Business Development Representative (Japanese)</title><link>https://jobs.lever.co/stackadapt/ccf573ee-1fcd-4091-b4e9-141cfdc2642a</link><description>Are you a bilingual English-Japanese speaker? Do you have strong business acumen? Are you interested in the growing digital advertising industry? Do you have a work-hard, play-hard mentality? If so, we want to hear from you! We’re looking for a Bilingual Sales Development Representative (SDR) to join our growing international Revenue team.
+
+The StackAdapt SDR role is a collaborative position, focused on the strategy and execution of unlocking new agency &amp; brand partnership opportunities. You’ll play an integral role in the Revenue Team assisting other team members in identifying new areas to drive revenue and accelerate company growth. A successful candidate will spearhead the opportunity with hard work, team spirit and a desire to succeed in sales. 
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in the APAC for this position.
+</description><pubDate>Thu, 14 Apr 2022 11:25:19 +0000</pubDate></item><item><title>Bilingual Business Development Representative (German-English)</title><link>https://jobs.lever.co/stackadapt/4539ae5e-c965-4c10-9739-aa8b9d865cef</link><description>Are you fluent speaking in both German and English? Do you have strong business acumen, and are you interested in the growing digital advertising industry? Do you have a work-hard, play-hard mentality? If so, we want to hear from you! We’re looking for a Bilingual Sales Development Representative (SDR) to join our growing international Revenue team.
+
+The StackAdapt SDR role is a collaborative position focused on the strategy and execution of unlocking new agency &amp; brand partnership opportunities. You’ll play an integral role in the Revenue Team, assisting other team members in identifying new areas to drive revenue and accelerate company growth. A successful candidate will spearhead the opportunity with hard work, team spirit and a desire to succeed in sales. 
+
+StackAdapt is a Remote First company; we are open to candidates located anywhere in the UK for this position.
+</description><pubDate>Wed, 29 Jun 2022 15:32:58 +0000</pubDate></item><item><title>Analyst, Solutions Consulting (UK)</title><link>https://jobs.lever.co/stackadapt/521f8bda-e040-40a4-aef4-bbd973b93f0f</link><description>StackAdapt’s Solutions Consulting team focuses on developing and leading strategic growth initiatives across our suite of programmatic advertising products within key industry verticals. 
+
+As an Analyst for the Solutions Consulting team, you will be responsible for conducting pre-sales analysis and gathering insightful market research that will drive new products and solutions across the business. You will build successful partnerships with clients in an effort to build customized solutions that meet their needs and deliver value. 
+
+This is a rare opportunity to impact a fast-growing, high-potential startup, with high visibility into StackAdapt’s Product, Operations, Customer, Engineering, Sales and Analytics teams.
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in the UK for this position.
+</description><pubDate>Tue, 29 Mar 2022 14:42:59 +0000</pubDate></item><item><title>Analyst, Solutions Consulting (Toronto)</title><link>https://jobs.lever.co/stackadapt/f912349a-c5d3-45b1-ad27-affbc3af1403</link><description>StackAdapt’s Solutions Consulting team focuses on developing and leading strategic growth initiatives across our suite of programmatic advertising products within key industry verticals. 
+
+As an Analyst for the Solutions Consulting Team, you will be responsible for supporting a team that drives a number of strategic projects and partnerships within the organization. You will have the opportunity to work on projects such as building customized solutions for high-value clients that help them achieve their business objectives.
+
+This is a rare opportunity to impact a fast-growing, high-potential startup, with high visibility into StackAdapt’s Product, Operations, Customer, Engineering, Sales and Analytics teams.
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in the GTA for this position.
+</description><pubDate>Thu, 02 Jun 2022 18:22:08 +0000</pubDate></item><item><title>Analyst, Solutions Consulting (Singapore)</title><link>https://jobs.lever.co/stackadapt/4e84c584-3ede-4495-b89d-a0b7f9390e81</link><description>StackAdapt’s Solutions Consulting team focuses on developing and leading strategic growth initiatives across our suite of programmatic advertising products within key industry verticals. 
+
+As an Analyst for the Solutions Consulting team, you will be responsible for conducting pre-sales analysis and gathering insightful market research that will drive new products and solutions across the business. You will build successful partnerships with clients in an effort to build customized solutions that meet their needs and deliver value. 
+
+This is a rare opportunity to impact a fast-growing, high-potential startup, with high visibility into StackAdapt’s Product, Operations, Customer, Engineering, Sales and Analytics teams.
+
+StackAdapt is a Remote First company, we are open to candidates located anywhere in Singapore for this position.
+</description><pubDate>Wed, 06 Apr 2022 14:26:06 +0000</pubDate></item><item><title>Accounts Receivable Analyst, EMEA</title><link>https://jobs.lever.co/stackadapt/dce6dcb4-e6ea-4101-8452-902c55f243ef</link><description>We are looking for a talented AR Analyst to join our growing collections team and help meet the demands for our industry-leading programmatic advertising platform. The AR Analyst will work closely with our revenue team and help improve the integrity and strength of our billing and collections processes and balances. Our team consists of talented professionals who are passionate and can adapt to the fast-growing programmatic advertising industry.  At StackAdapt, we instil a growth mindset and embrace your strengths and ambitions so you feel empowered. If you exude positive energy, are immensely driven, and can’t wait to join a growing team, apply below!
+</description><pubDate>Mon, 25 Jul 2022 16:12:06 +0000</pubDate></item><item><title>Account Executive (West)</title><link>https://jobs.lever.co/stackadapt/89a41493-6b4e-43d9-868d-37d74796525f</link><description>Are you passionate about digital advertising? Are you interested in building strong, meaningful client relations? Do you thrive under pressure and hustle to get things done? If so, we want to hear from you! We’re looking for an Account Executive (AE) to join our growing Revenue team.
+ 
+The AE role is a combination of sales activities and customer relationship management. Reporting to the Sales Director, you’ll be responsible for both growing existing business and closing new programmatic advertising revenue from agencies and brands. A successful AE must have a clear understanding of the client’s long-term business objectives and seek partnership opportunities to further grow the client’s business with StackAdapt. You’ll work closely with StackAdapt Account Managers to grow and retain existing accounts by presenting new campaign strategies and solutions to clients, and building strong relationships. 
+
+StackAdapt Headquarters is located in Toronto, Canada but we primarily operate within the US market. We are looking for candidates based in the West to help us continue to penetrate key markets.
+</description><pubDate>Wed, 16 Sep 2020 23:16:15 +0000</pubDate></item><item><title>Account Executive (South)</title><link>https://jobs.lever.co/stackadapt/d4077369-9c2a-492e-9853-74dce11b872d</link><description>Are you passionate about digital advertising? Are you interested in building strong, meaningful client relations? Do you thrive under pressure and hustle to get things done? If so, we want to hear from you! We’re looking for an Account Executive (AE) to join our growing Revenue team.
+ 
+The AE role is a combination of sales activities and customer relationship management. Reporting to the Sales Director, you’ll be responsible for both growing existing business and closing new programmatic advertising revenue from agencies and brands. A successful AE must have a clear understanding of the client’s long-term business objectives and seek partnership opportunities to further grow the client’s business with StackAdapt. You’ll work closely with StackAdapt Account Managers to grow and retain existing accounts by presenting new campaign strategies and solutions to clients, and building strong relationships. 
+
+StackAdapt Headquarters is located in Toronto, Canada but we primarily operate within the US market. We are looking for candidates based in the Southern region to help us continue to penetrate key markets. 
+</description><pubDate>Thu, 17 Sep 2020 15:57:52 +0000</pubDate></item><item><title>Account Executive (Northeast)</title><link>https://jobs.lever.co/stackadapt/b0bab611-40cc-4934-aad7-badea7b62099</link><description>Are you passionate about digital advertising? Are you interested in building strong, meaningful client relations? Do you thrive under pressure and hustle to get things done? If so, we want to hear from you! We’re looking for an Account Executive (AE) to join our growing Revenue team.
+ 
+The AE role is a combination of sales activities and customer relationship management. Reporting to the Sales Director, you’ll be responsible for both growing existing business and closing new programmatic advertising revenue from agencies and brands. A successful AE must have a clear understanding of the client’s long-term business objectives and seek partnership opportunities to further grow the client’s business with StackAdapt. You’ll work closely with StackAdapt Account Managers to grow and retain existing accounts by presenting new campaign strategies and solutions to clients, and building strong relationships. 
+
+StackAdapt Headquarters is located in Toronto, Canada but we primarily operate within the US market. We are looking for candidates based in the Northeast to help us continue to penetrate key markets. 
+</description><pubDate>Wed, 16 Sep 2020 22:08:34 +0000</pubDate></item><item><title>Account Executive (Midwest)</title><link>https://jobs.lever.co/stackadapt/0d918102-e8d0-44d9-9188-f428a7db7249</link><description>Are you passionate about digital advertising? Are you interested in building strong, meaningful client relations? Do you thrive under pressure and hustle to get things done? If so, we want to hear from you! We’re looking for an Account Executive (AE) to join our growing Revenue team.
+ 
+The AE role is a combination of sales activities and customer relationship management. Reporting to the Sales Director, you’ll be responsible for both growing existing business and closing new programmatic advertising revenue from agencies and brands. A successful AE must have a clear understanding of the client’s long-term business objectives and seek partnership opportunities to further grow the client’s business with StackAdapt. You’ll work closely with StackAdapt Account Managers to grow and retain existing accounts by presenting new campaign strategies and solutions to clients, and building strong relationships. 
+
+StackAdapt Headquarters is located in Toronto, Canada but we primarily operate within the US market. We are looking for candidates based in the Midwest to help us continue to penetrate key markets. 
+</description><pubDate>Wed, 26 Aug 2020 20:30:13 +0000</pubDate></item></channel></rss>

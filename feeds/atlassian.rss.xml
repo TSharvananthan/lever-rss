@@ -1,1013 +1,381 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Atlassian Job Postings</title><link>https://api.lever.co/v0/postings/atlassian?mode=json</link><description>Job postings for Atlassian from lever.co</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 10 Sep 2022 18:13:34 +0000</lastBuildDate><item><title>Web &amp; Visual Designer</title><link>https://jobs.lever.co/invisible/693dd97a-8cfc-4613-8f4a-be12a5fdefa7</link><description>In a nutshell 
-Invisible Technologies is searching for a brand and marketing designer, aka communication artist, to join our team. Candidates for this role must be driven to express what our company can do and why it matters in a wide-variety of mediums for an even wider variety of audiences, while enforcing brand consistency or stepwise evolution at every turn.
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Atlassian Job Postings</title><link>https://api.lever.co/v0/postings/atlassian?mode=json</link><description>Job postings for Atlassian from lever.co</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 10 Sep 2022 18:29:58 +0000</lastBuildDate><item><title>Strategy and Sales Operations Manager</title><link>https://jobs.lever.co/cohere/725ebd5c-a1f0-4da8-9470-0f3571453cce</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-This role will not be right for many designers, but its sheer diversity will make this a dream opportunity for a curious, conceptual communication artist who would love to challenge their range without having to start their own business. 
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-Why is this role important for Invisible Technologies? 
-Invisible Technologies offers a novel combination of outsourcing and automation to leaders at fast-growing companies and storied enterprises in more than 20 industries. You’re helping us introduce Invisible, explain a novel offering, and inspire a wide variety of leaders in a way that words alone never could. 
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-The Role: 
-You’ll work closely with the marketing, sales, product, and talent teams to create visual assets that sell our services and inspire people to join our company. 
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-</description><pubDate>Mon, 08 Aug 2022 20:46:35 +0000</pubDate></item><item><title>Technical Lead (Application Engineering)</title><link>https://jobs.lever.co/invisible/efbaff13-ceab-4401-be48-9081b7e597ae</link><description>Invisible Technologies is on a mission to industrialize work by fine-tuning automation and human interaction, powered by our team of Partners and Agents around the world.  We’ve been a globalized, distributed team, since before the pandemic, and we pride ourselves on transparent, effective communication to collaborate and take ownership as needed. 
+Please Note: We have offices in Toronto, Palo Alto and London but embrace being remote-first! We are looking for candidates based in Canada or United States for this role.
+</description><pubDate>Mon, 18 Jul 2022 20:26:12 +0000</pubDate></item><item><title>Sr. Engineering Program Manager</title><link>https://jobs.lever.co/cohere/d4e6f734-0925-4e8f-8d22-bb299f333b84</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-What is Invisible?
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-Website : http://www.inv.tech/
-Blog: https://inv.tech/blog
-Overview / Sales Deck - https://invtech.docsend.com/view/6kp3ixp
-Recorded Demo - https://www.youtube.com/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI
-Core Values - https://www.notion.so/invisibletech/d8add47d17584715a62aa4d46f0270b8?v=187ce27ec02f4bfaa2aed9f3f2c6ad6d
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-As a Technical Lead, your job is to write quality code, act with strong ownership, execute on and add to the vision of the engineering team, working with product and wider stakeholders. You will be working on developing Process Builder — our proprietary platform that orchestrates work across an automation engine and a labor marketplace.
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-Culture
+Why this role? 
+We’re looking for an Engineering Program Manager to join Cohere’s Tech organization. As the first candidate hired into the EPM organization, we need someone who will bring curiosity, drive, independence, and leadership to the company. You should have hands-on experience managing projects for consumer software development and machine learning solutions, and building large-scale foundational processes and programs to improve engineering operations. 
 
-Every engineer should be constantly learning and growing. As an experienced engineer, you should be eager to learn and grow every day. We expect you to raise the bar for performance on the engineering team. 
+In return, you will have the unique opportunity and responsibility to design the way that Cohere will operate for years. You’ll get to build relationships with some of the leading AI and NLP minds in the world, collaborate with other Cohere teams like Product, Business, and Marketing, have significant visibility and impact on a fast-growing product, and contribute to the company culture.
 
-Our team currently consists of 7 partner engineers and a dozen more agents and interns. The team will double in the coming year — you have an opportunity to mentor and lead.
+This role will start as an individual contributor, but with a rapidly growing product and staff, there will be ample opportunities for both leadership and career growth.
 
-Execution
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role.
+</description><pubDate>Thu, 30 Jun 2022 21:55:05 +0000</pubDate></item><item><title>Solutions Architect (NLP)</title><link>https://jobs.lever.co/cohere/fdded9a9-4481-4bc0-96fb-74ed70c5798e</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-The first principle of execution is reliable delivery — you honor your commitments. You should set clear expectations for your deliverables and drive through to success. The formula for success? Say what you’re going to do, do it, and then let everyone know that it’s done.
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-The second principle of execution is intelligent prioritization. Your job is to put the puzzle pieces together in a sensible, expedient way. We’re not just building a product or a platform. We’re building a company. 
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-Architecture
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-We are always striving to build the right thing. You are a key partner for Product, and you’re a critical stakeholder because you know what can be built and what will work. You will focus your energy on one of our core products and act as an owner.
+Why this role?
+As a Solutions Architect at Cohere, you’ll play a huge role in growing the business and will have an immense sense of autonomy when it comes to technical pre and post-sales.  You will work closely with the sales and business development teams to lay the foundation for Cohere’s growth.  Together, you will engage customers from different audience groups (e.g., developers, start-ups, enterprise customers) to understand their challenges.  You are comfortable leading conversations from an early stage with the customer and are naturally curious about their business.  You will play a hands-on role in designing and executing experiments that demonstrate the transformative impact of our models.  You have the technical credibility to instill confidence in the Cohere platform and our solutions including how best to integrate our API into customers’ products. 
 
-The ideal candidate has learned from experience that technical decisions have far-reaching consequences. As an experienced professional engineer, you are always mindful to avoid technical debt and waste.
+It’s a highly self-directed role, so you should be someone who thrives in an unstructured, rapidly evolving environment. 
 
-Technical Leads are Architects and Leaders
+Please Note: We have offices in Toronto, Palo Alto and London but embrace being remote-first! We are looking for candidates based in Canada or United States for this role.
+</description><pubDate>Fri, 15 Jul 2022 14:40:17 +0000</pubDate></item><item><title>Software Engineer, ML Production</title><link>https://jobs.lever.co/cohere/76faca41-c663-4e51-aee1-c96afa6058b7</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-Technical Leads at Invisible are able to follow multiple paths. Some are technical leads of teams and are responsible for people management of those teams. They oversee the technical vision for their area and ensure that there is proper mentorship
-Others lead through technical initiatives. Technical Leads oversee broad multi-team technical initiatives and own parts of our software stack (ex. Technical Leads might research and roll out new technical frameworks or might develop a new generation of our UI component.
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-Whether you're leading people or leading new tech rollouts you'll have a broad team-wide impact.
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-The Technology
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-Our platform is TypeScript from top to bottom.
+Why this role?
+This role sits at the intersection between machine learning and software engineering. It is a high-impact position in delivering large-scale language models that Cohere builds. This role will focus on system designs of model inference runtimes and model production pipelines to ensure that our models run efficiently and reliably in various environments. In addition, this role will work closely with the latest ML frameworks to integrate cutting-edge model runtimes.
 
-We’re opinionated about modern JavaScript and about the best way to use it. Our stack trends towards the latest and greatest:
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! We are looking for candidates based in Canada for this role.
+</description><pubDate>Wed, 11 May 2022 20:35:30 +0000</pubDate></item><item><title>Software Engineer, ML Frameworks</title><link>https://jobs.lever.co/cohere/83ed9e66-42f2-401f-b55b-5f501016adb1</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-We believe that a monorepo with micro frontends is the best approach for us. We’re avid users of NextJS, React, Prisma, Postgres, NX Workspaces, Kubernetes , and tRPC.
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-We’re always eager to learn and grow and try new technologies.
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-Requirements
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-Significant experience developing applications in team environments.
-Able to work well with Product Managers to develop technical specifications for large projects with complex scope
-Able to research and synthesize new technologies (frameworks, libraries, techniques) and explain and evangelize them to more junior engineers.
-Experience using React for front-end development. (We use React, Next.js and Prisma)
-Backend language experience including Node, Python (Flask/Django/etc.), Ruby on Rails, Symphony, etc.
-Strong understanding of relational databases (MySQL, PostgreSQL, etc.)
-</description><pubDate>Tue, 30 Aug 2022 16:13:21 +0000</pubDate></item><item><title>Strategic Content Developer</title><link>https://jobs.lever.co/invisible/70ba5916-99b0-4689-827a-c22cd9435520</link><description>A sales enablement role that feels like product development. Use discovery and communication superpowers to scale a novel service while earning sales-style incentives
+Why this role?
+Distribute and optimize anything and everything. 
 
-Website | Video Demo | Core Values
+This role is ideal for you if you are excited about building a scale-first machine learning framework that powers Cohere’s language models. Here you will design and improve upon the framework that enables fast, reliable, and flexible training of large language models. In this role, you will work on the cutting edge of research and engineering, design and develop state-of-the-art machine learning models. If you are an experienced software engineer aiming to break into the ML industry, this is the role you are looking for!
 
-The Business Context
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
+</description><pubDate>Thu, 10 Feb 2022 19:47:59 +0000</pubDate></item><item><title>Software Engineer, Inference</title><link>https://jobs.lever.co/cohere/ab7e5a71-ffdc-4b07-b4ce-122e1f332027</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-Invisible is a strategic partner to fast-growing companies like DoorDash, Klarna, and Canon, helping them create more value at less cost by streamlining operations. For example, they’ve used a blend of outsourcing and automation to help scale up menu production for the delivery industry, to improve the efficiency of claims processing, and to help catalog the world’s contemporary artists. Invisible’s novel approach has been featured in The New Yorker and by ARK Invest. Greycroft-backed, majority-employee owned.
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-Mission, Success Measures &amp; Ownership
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-This role sits at the intersection of sales and marketing and its mission is singular: create collateral, campaigns, and content that help a wide variety of prospects and leads sense how Invisible could transform their business.  Success means that, as a result of your content, more sales targets become leads, more leads become opportunities, and more opportunities become happy clients. Your areas of ownership include:
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-Custom Sales Collateral (40%)
-- Curate follow-up materials from the library for key sales calls within 24 hours. 
-- Create new decks, case-studies, or explainer videos which are relevant to the audience and which support complex sales, adding them all back to the library. 
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role.
+</description><pubDate>Sun, 13 Feb 2022 23:57:44 +0000</pubDate></item><item><title>Senior Scientist, Applied NLP</title><link>https://jobs.lever.co/cohere/30839098-20ad-4d5f-aa36-64347ef99f56</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-Creative Campaign Management (30%)
-- Conceive, direct, and execute campaigns which lead to booked meetings with qualified prospects and leads. 
-- Work with a designer to create custom ‘contact marketing’ materials for top leads.
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-A User-Friendly Content Library (30%)
-- Own and evolve a content library that makes it easier for sales reps to drive conversion for a wide range of ICPs and which captures sales-call learnings as product-ready insights.
-- Grow that library by adding client stories (use cases) to the library on a consistent basis.
-- Continuously improve this library’s usability, content quality, and strategic acumen in collaboration with marketing, sales, product, and operations.
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-Depending on what you want and how you perform, you’ll have the opportunity to become an increasingly strategic individual contributor,  manage more and more of Invisible’s content production, and/or move closer to product marketing. 
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-We’ll make adjustments to the scope together at the 90 day mark. 
-</description><pubDate>Fri, 12 Aug 2022 18:19:37 +0000</pubDate></item><item><title>Staff Software Engineer (Application Engineer)</title><link>https://jobs.lever.co/invisible/d101d889-1efb-49c5-8344-4b5fd908e62c</link><description>We are actively recruiting for this position and are excited to have the right person join us soon.
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
+</description><pubDate>Wed, 22 Jun 2022 21:22:41 +0000</pubDate></item><item><title>Senior Research Scientist</title><link>https://jobs.lever.co/cohere/d7644e63-86b2-43b2-9773-6e88df500415</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-Invisible Technologies is on a mission to industrialize work by fine-tuning automation and human interaction, powered by our team of Partners and Agents around the world.  We’ve been a globalized, distributed team, since before the pandemic, and we pride ourselves on transparent, effective communication to collaborate and take ownership as needed. 
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-What is Invisible?
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-Website : http://www.inv.tech/
-Blog: https://inv.tech/blog
-Overview / Sales Deck - https://invtech.docsend.com/view/6kp3ixp
-Recorded Demo - https://www.youtube.com/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI
-Core Values - https://www.notion.so/invisibletech/d8add47d17584715a62aa4d46f0270b8?v=187ce27ec02f4bfaa2aed9f3f2c6ad6d
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-As a Staff Software Engineer your job is to write quality code, act with strong ownership, execute on and add to the vision of the engineering team, working with product and wider stakeholders. You will be working on developing Process Builder — our proprietary platform that orchestrates work across an automation engine and a labor marketplace.
+Why this role?
+Cohere For AI is the dedicated non-profit arm of Cohere, and our mission is to lower the barriers to entry to machine learning research and support a community of independent research talent across the world. We are committed to collaborating widely and empowering independent researchers around the world.
 
-Culture
+For AI intends to execute this mission through two different efforts 1) create spaces where engineers, researchers and multidisciplinary experts can connect and contribute to NLP and machine learning research, and 2) provide research training that brings in new talent from across the world to the field of machine learning.
 
-Every engineer should be constantly learning and growing. As an experienced engineer, you should be eager to learn and grow every day. We expect you to raise the bar for performance on the engineering team. 
+As a Senior Research Scientist, you have an independent high impact research agenda and are excited to work with researchers from all over the world. You actively contribute to the wider research community by sharing and publishing your findings and code. Your work evidences a consideration for the societal and ethical implications of machine learning. You have a strong track record of mentorship and are excited to collaborate with independent researchers around the world who are new to the machine learning and NLP community.
 
-Our team currently consists of 7 partner engineers and a dozen more agents and interns. The team will double in the coming year — you have an opportunity to mentor and lead.
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
+</description><pubDate>Thu, 01 Sep 2022 22:24:09 +0000</pubDate></item><item><title>Senior Project Manager, Product</title><link>https://jobs.lever.co/cohere/fcc130d0-4c16-4a3f-8ad1-a11feee04ce6</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-Execution
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-The first principle of execution is reliable delivery — you honor your commitments. You should set clear expectations for your deliverables and drive through to success. The formula for success? Say what you’re going to do, do it, and then let everyone know that it’s done.
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-The second principle of execution is intelligent prioritization. Your job is to put the puzzle pieces together in a sensible, expedient way. We’re not just building a product or a platform. We’re building a company. 
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-Architecture
+As the first Project Manager on the Product team you will have the unique opportunity and responsibility to oversee project plans. You’ll get to work with one of the leading AI and NLP teams in the world, work on a fast-growing product, and contribute to the company culture
 
-We are always striving to build the right thing. You are a key partner for Product, and you’re a critical stakeholder because you know what can be built and what will work. You will focus your energy on one of our core products and act as an owner.
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
+</description><pubDate>Wed, 30 Mar 2022 15:43:24 +0000</pubDate></item><item><title>Senior Product Manager</title><link>https://jobs.lever.co/cohere/847865e1-074d-4ee7-9a68-455e09922ee3</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-The ideal candidate has learned from experience that technical decisions have far-reaching consequences. As an experienced professional engineer, you are always mindful to avoid technical debt and waste.
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-Staff Engineers are Architects and Leaders
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-Staff engineers at Invisible are able to follow multiple paths. Some are technical leads of teams and are responsible for people management of those teams. They oversee the technical vision for their area and ensure that there is proper mentorship
-Others lead through technical initiatives. These engineers oversee broad multi-team technical initiatives and own parts of our software stack (ex. Staff engineers might research and roll out new technical frameworks or might develop a new generation of our UI component.
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-Whether you're leading people or leading new tech rollouts you'll have a broad team-wide impact.
+Why this role?
+Product Managers have the unique opportunity and responsibility to both define product vision and drive results. On this team, you’ll get to work with one of the leading AI and NLP teams in the world and grow the product vision and company culture.
 
-The Technology
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
 
-Our platform is TypeScript from top to bottom.
+As a Senior Product Manager, your responsibilities include:
+</description><pubDate>Wed, 16 Feb 2022 16:17:57 +0000</pubDate></item><item><title>Senior Golang Engineer, Product</title><link>https://jobs.lever.co/cohere/a400534c-8dd8-4535-9550-918ff180fd7a</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-We’re opinionated about modern JavaScript and about the best way to use it. Our stack trends towards the latest and greatest:
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-We believe that a monorepo with micro frontends is the best approach for us. We’re avid users of NextJS, React, Prisma, Postgres, NX Workspaces, Kubernetes , and tRPC.
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-We’re always eager to learn and grow and try new technologies.
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-Requirements
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
+</description><pubDate>Mon, 29 Aug 2022 23:10:43 +0000</pubDate></item><item><title>Senior Front-End Engineer, Product</title><link>https://jobs.lever.co/cohere/b3eb4c70-da16-444e-b281-d2d5d6ee6749</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-Significant experience developing applications in team environments.
-Able to work well with Product Managers to develop technical specifications for large projects with complex scope
-Able to research and synthesize new technologies (frameworks, libraries, techniques) and explain and evangelize them to more junior engineers.
-Experience using React for front-end development. (We use React, Next.js and Prisma)
-Backend language experience including Node, Python (Flask/Django/etc.), Ruby on Rails, Symphony, etc.
-Strong understanding of relational databases (MySQL, PostgreSQL, etc.)
-</description><pubDate>Tue, 30 Aug 2022 16:05:23 +0000</pubDate></item><item><title>Software Engineer</title><link>https://jobs.lever.co/invisible/11ccd951-b7db-4725-b13f-624d6bf53f7e</link><description>We are currently looking to fill this position as soon as possible. We'd like to ask you a few questions to jump-start the process and get to know you a bit. Note** Once you apply, we will be sending you a questionnaire and engineering test. In order to be considered, you must submit your completed answers to the test and questionnaire. We are also currently receiving a large number of applications, so you may not hear from us immediately. Good luck with the hiring process and we'll be in touch soon!
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-What is Invisible?
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-Website - inv.tech
-Blog -  https://inv.tech/blog
-Overview / Sales Deck
-Overview / Sales Deck - https://invtech.docsend.com/view/a8tthk8bwi9dbhk6
-Recorded Demo
-https://www.youtube.com/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI
-Core Values - https://www.notion.so/invisibletech/d8add47d17584715a62aa4d46f0270b8?v=187ce27ec02f4bfaa2aed9f3f2c6ad6d
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-Who are we?
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
+</description><pubDate>Thu, 23 Jun 2022 18:30:14 +0000</pubDate></item><item><title>Product Designer</title><link>https://jobs.lever.co/cohere/a087e2de-7966-4d84-8b09-f5e7ef15817b</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-We are the Invisible’s Technologies Team. We solve problems at scale so they never happen again. At our best, we solve problems before they happen. How?
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-We Believe That
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-Invisible is a world-changing company and the Technologies Team is responsible for creating the systems that will launch Invisible into the stratosphere.
--- Exponential gains from systems &gt; Short term linear work &gt; Systems for system's sake.
--- Consistent feedback is key - we are addicted to learning and getting better.
--- What one of us knows, all of us should know.
--- Every new mistake is a learning opportunity
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-Because of these beliefs, we’ve built a team where
+Why this role?
+Design uncharted user experiences that augment all the others. Empower technologists to reimagine the building blocks of human-computer interaction: language.
 
---Distributed approaches and centralized intelligence merge. Each teammate is constantly innovating and trying something new. Every mistake is prevented by all. Every success is learned by all.
--- Each of us contains the sum of the knowledge, intelligence, and creativity of our entire team.
--- We evolve and mutate constantly like an organism, identifying successful and problematic tactics and incorporating ideas from any source.
+Please Note: We have offices in Toronto, Palo Alto and London but embrace being remote-first! We are looking for candidates based in Canada or United States for this role.
+</description><pubDate>Fri, 24 Jun 2022 20:43:02 +0000</pubDate></item><item><title>NLP Software Engineer</title><link>https://jobs.lever.co/cohere/4c41f7eb-d3bb-44f6-8265-7593fd5fb972</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-Technical Details
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-Requirements
--- Deep operational understanding and proven experience in functional JavaScript (Typescript) programming
--- Familiarity with our stack, and desire to learn more on the job
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-Our Stack:
-Whenever possible, we use the best tools for the job. Since a lot of what we do is asynchronous, and talking with external APIs, we saw Typescript as a natural fit for most of our stack (though this decision can always be questioned).
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
--- React.js (functional components + hooks), Apollo Graphql, Next.js
--- Node.js, TypeScript, Postgresql, Redis, Kafka
--- Serverless functions on Vercel
+Why this role?
+As a Rapid NLP prototyper you will be responsible for prototyping, developing, and deploying a wide variety of applications using the cohere API. You will work directly with Nick Frosst (co-founder / CTO) as well as the rest of the eng team, in order to build out and publish demos and examples of NLP applications. You would be a good fit for this role if you have a wide breadth of technical background (front end / back end / ML / Infra), if you are passionate about building things, and if you are a self-starter and enjoy working independently. 
 
-We love open source! We share publicly as much of our code as possible. 
-Share your Github/Gitlab/StackOverflow or similar profiles. If you are contributing to an open source projects, proudly flaunt them!
-</description><pubDate>Tue, 12 Jan 2021 21:27:56 +0000</pubDate></item><item><title>Senior Software Engineer</title><link>https://jobs.lever.co/invisible/a8ec8f37-e8f8-41b1-bd4c-f37d86874437</link><description>We are actively recruiting for this position and are excited to have the right person join us soon. 
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role.  
+</description><pubDate>Wed, 04 May 2022 16:19:57 +0000</pubDate></item><item><title>ML Lead, Safety</title><link>https://jobs.lever.co/cohere/544f6ece-c790-4dbc-93d1-d5c247d63bd7</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-Invisible Technologies is on a mission to industrialize work by fine-tuning automation and human interaction, powered by our team of Partners and Agents around the world.  We’ve been a globalized, distributed team, since before the pandemic, and we pride ourselves on transparent, effective communication to collaborate and take ownership as needed. 
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-What is Invisible?
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-Website : http://www.inv.tech/
-Blog: https://inv.tech/blog
-Overview / Sales Deck - https://invtech.docsend.com/view/6kp3ixp
-Recorded Demo - https://www.youtube.com/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI
-Core Values - https://www.notion.so/invisibletech/d8add47d17584715a62aa4d46f0270b8?v=187ce27ec02f4bfaa2aed9f3f2c6ad6d
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-As a Senior Software Engineer your job is to write quality code, act with strong ownership, execute on and add to the vision of the engineering team, working with product and wider stakeholders. You will be working on developing Process Builder — our proprietary platform that orchestrates work across an automation engine and a labor marketplace.
+Why this role?
+The ML Lead, Safety, will lead the engineering efforts to ensure that we are making our models safe, accessible, and useful. This role sits at the intersection of engineering, safety research, product, and policy. They will work with our Machine Learning and Product teams to improve the quality of our models and build out new reporting &amp; monitoring tools to ensure our models are being used for applications we would be proud of. This role will also work on norms and policies which will be used to ensure the safe deployment of our language model API.
 
-Culture
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role.
+</description><pubDate>Mon, 16 May 2022 19:41:37 +0000</pubDate></item><item><title>Marketing Events Manager</title><link>https://jobs.lever.co/cohere/76caa150-bbc8-4829-99af-393b6bd2575c</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-Every engineer should be constantly learning and growing. As an experienced engineer, you should be eager to learn and grow every day. We expect you to raise the bar for performance on the engineering team. 
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-Our team currently consists of 7 partner engineers and a dozen more agents and interns. The team will double in the coming year — you have an opportunity to mentor and lead.
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-Execution
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-The first principle of execution is reliable delivery — you honor your commitments. You should set clear expectations for your deliverables and drive through to success. The formula for success? Say what you’re going to do, do it, and then let everyone know that it’s done.
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! 
+</description><pubDate>Thu, 28 Jul 2022 13:56:35 +0000</pubDate></item><item><title>Manager, Solution Architecture</title><link>https://jobs.lever.co/cohere/fcc96606-2726-4a49-99a7-348f54c28208</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-The second principle of execution is intelligent prioritization. Your job is to put the puzzle pieces together in a sensible, expedient way. We’re not just building a product or a platform. We’re building a company. 
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-Architecture
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-We are always striving to build the right thing. You are a key partner for Product, and you’re a critical stakeholder because you know what can be built and what will work. You will focus your energy on one of our core products and act as an owner.
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-The ideal candidate has learned from experience that technical decisions have far-reaching consequences. As an experienced professional engineer, you are always mindful to avoid technical debt and waste.
+Why this role?
+As a Manager, Solutions Architecture at Cohere, you’ll lead a team at the forefront of applying cutting edge NLP technology to real world challenges. You will work closely with the sales and business development teams to drive Cohere’s growth. Together, you will engage prospects ranging from developers to enterprise leaders to understand their NLP challenges and present Cohere as the solution. You are comfortable being hands-on with prospects as well as coaching SAs on your team on how to most effectively engage. You have a background in NLP, the technical credibility to instill confidence in the Cohere platform, and the chops to scope and execute PoCs. As the team’s leader, you will support your team for continuous growth. It’s a highly self-directed role, so you should be someone who thrives in an unstructured, rapidly evolving environment.
 
-The Technology
+Please Note: We have offices in Toronto, Palo Alto and London but embrace being remote-first! We are looking for candidates based in Canada or United States for this role.
+</description><pubDate>Fri, 15 Jul 2022 14:40:38 +0000</pubDate></item><item><title>Manager, Machine Learning</title><link>https://jobs.lever.co/cohere/0269c0a0-1c24-4775-b0b4-c07c22f82d75</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-Our platform is TypeScript from top to bottom.
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-We’re opinionated about modern JavaScript and about the best way to use it. Our stack trends towards the latest and greatest:
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-We believe that a monorepo with micro frontends is the best approach for us. We’re avid users of NextJS, React, Prisma, Postgres, NX Workspaces , Kubernetes and tRPC.
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-We’re always eager to learn and grow and try new technologies.
+Why this role?
+Cohere is seeking exceptional leaders to help develop and direct one of the top AI / ML / NLP teams in the world. In this role, you will hire and mentor world-class scientists and engineers. You will use your expertise in machine learning to define strategy and direction for the development of our core technology. You will lead your team in developing Transformer-based large language models which are smarter, faster, safer, and easier to use than any in the world. And you will apply this technology to develop solutions to real human needs.
 
-Location
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
+</description><pubDate>Wed, 18 May 2022 13:05:30 +0000</pubDate></item><item><title>Machine Learning Intern (January 2023)</title><link>https://jobs.lever.co/cohere/2252200f-104f-4d95-840d-c1d9cbcfda9b</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-Currently, we are looking to hire for a team that works primarily in US timezones and are preferably seeking out engineering talent in these time zones: 
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
---  North/South America
---  Europe
---  Africa
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-Working Schedule
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-The candidate should be available between 10am to 3pm EDT from Monday to Friday.
-</description><pubDate>Tue, 15 Dec 2020 01:25:02 +0000</pubDate></item><item><title>Revenue Ops Analyst</title><link>https://jobs.lever.co/invisible/85d82fe0-0e4a-4b1b-ad4b-cac9aa7bfe55</link><description>Website : http://www.inv.tech/
-Blog: https://inv.tech/blog
-Overview / Sales Deck - https://invtech.docsend.com/view/a8tthk8bwi9dbhk6
-Recorded Demo - https://www.youtube.com/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI
-Core Values - https://www.notion.so/invisibletech/d8add47d17584715a62aa4d46f0270b8?v=187ce27ec02f4bfaa2aed9f3f2c6ad6d 
+Why this role? 
+Ship state of the art models to production.
 
+Design and implement novel research ideas.
 
-Invisible Technologies helps fast-growing companies scale efficiently, so they can improve margins and capture market share at the same time. We partner with our clients to run their business operations using our modern outsourcing platform to deliver efficiency, quality, and flexibility at scale.
+Build elegant training/deployment pipelines.
 
-We Believe That:
--- Invisible is a world-changing company and the Growth Team is responsible for sourcing, closing, and developing clients until they no longer execute their digital repetitive work themselves  
--- Great client relationships are predicated on trust, sincerity &amp; achievement of the customer’s goals
--- Exponential gains from systems &gt; Short term linear work &gt; Systems for system's sake
--- Consistent feedback is key - we are addicted to learning and getting better
--- What one of us knows, all of us should know
- 
-Because of these beliefs, we’ve built a team where...
--- Distributed approaches and centralized intelligence merge. Each teammate is constantly innovating and trying something new. Every mistake is prevented by all. Every success is learned by all.
--- Each of us contains the sum of the knowledge, intelligence, and creativity of our entire team.
--- We evolve and mutate constantly like an organism, identifying successful and problematic tactics and incorporating ideas from any source.
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role.
+</description><pubDate>Mon, 08 Aug 2022 15:32:45 +0000</pubDate></item><item><title>Machine Learning Engineer, Model Production</title><link>https://jobs.lever.co/cohere/9c80917c-3ca8-4bb1-8872-a6ead2210869</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-The Role
-The goal of the Growth Analyst (GA) is to support the Head of Growth in scaling Invisible’s revenue engine. Daily responsibilities for a GA vary, but will often entail weekly reporting for leadership, creating analyses to identify bottlenecks, supporting the Head of Growth in managing relations with strategic enterprise partnerships, and monitoring channel ROI + spend. We need a passionate individual eager to play a key role in driving the go-to-market efforts of a fast-growing company that will be the next iconic brand (imagine being one of the first 100 people at Amazon or Google).  
- 
-The GA role is a center for immense learning. You will be the first Growth Analyst on the team, working heavily with the Head of Growth and key managers on the Growth team, as we sprint towards 3x’ing again in ‘22 as we have in ‘20 and ‘21. 
- 
-Pairing directly with a senior partner and interacting regularly with various facets of the company (from operations managers to senior management), GAs will receive a frequent and diverse range of experiences, coaching, and opportunities. We envision our best GAs will go on to become Consultants on the Growth team or move on to roles in other teams at the company.
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-Who We Want
-Growth Analysts (GAs) are very flexible, hybrid partners that have a high growth trajectory and can thrive (with proper coaching) in multiple dimensions. This flexibility is key to continuing our high growth trajectory: we grew over 3x for two consecutive years in a row (2020 &amp; 2021) and are on-track to do so again in 2022. We are looking for GAs who can harness both the humble trait of being coachable and the ambitious trait of constantly desiring learning. The spirit animal of a junior GA is a sponge. And, over time, they will evolve with more learning, experience, and responsibility.
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-There are 3 key areas we will focus on growing the skillset of an GA to prepare them for a promotion to Associate Consultant or another role in the company: Executive Acumen, Project Management &amp; Stakeholder Management. See job description for Associate Consultant for more context on these skills.
-</description><pubDate>Fri, 12 Aug 2022 12:29:39 +0000</pubDate></item><item><title>Python Automation Engineer</title><link>https://jobs.lever.co/invisible/e3f21175-7605-4b30-8790-5ddbd97ab3b5</link><description>What is Invisible?
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-Website : http://www.inv.tech/
-Blog: https://inv.tech/blog
-Overview / Sales Deck - https://invtech.docsend.com/view/a8tthk8bwi9dbhk6
-Recorded Demo - https://www.youtube.com/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI
-Core Values - https://www.notion.so/invisibletech/d8add47d17584715a62aa4d46f0270b8?v=187ce27ec02f4bfaa2aed9f3f2c6ad6d
+Why this role? 
+Optimize and ship state of the art models to production.
 
-Invisible is a group of people with a mission to revolutionize knowledge work. We execute our clients' repetitive business processes using a combination of best-in-class automation tools and scalable human intelligence. We call this model work-sharing. Invisible is a world-changing company. The Technology Team is responsible for leading the development of the technology that will fuel Invisible's journey into the stratosphere. 
+Build elegant ML tools and deployment pipelines.
 
-Team Profile: 
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
+</description><pubDate>Wed, 08 Sep 2021 18:39:48 +0000</pubDate></item><item><title>Machine Learning Engineer - Exploratory Projects</title><link>https://jobs.lever.co/cohere/b7463e89-6e3c-44ac-a8c0-2fe775cdc9a2</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-The Automation Team at Invisible solves problems at scale so they never happen again. At our best, we solve problems before they happen. The problems we solve range from point solutions for specific clients to large-scale long-term platform projects. We automate, scrape, compare, search, utilize APIs, fill forms, and create plugins. 
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-Our team is responsible for critical work, creating systems that will allow Invisible to continue expanding quickly and to reach our next stage of growth. 
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-Consistent feedback is key - we are addicted to learning and getting better.
-What one of us knows, all of us should know
-Every new mistake is a learning opportunity
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-As we grow and scale as a company, we are looking for talented Python Automation Engineers who can evolve our existing services. Our user base, number of clients, and services are continuously growing, and we want you to be at the forefront of developing, maintaining, and improving our services whilst not compromising on code quality, development culture, and security of our environments.
+Why this role?
+Contribute to Cohere’s mission by exploring new high-risk, high-reward areas of product impact. Collaborate with Sales, Product, and Engineering teams to develop &amp; execute visionary, yet grounded, research projects. Discover and weave insights across the academic literature to build new open-source tooling, interactive demos, and additions to Cohere’s core products.
+</description><pubDate>Thu, 08 Sep 2022 13:29:38 +0000</pubDate></item><item><title>Machine Learning Engineer</title><link>https://jobs.lever.co/cohere/c2c4f840-d2a7-4dc3-929c-4765d4c5add2</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-Job Responsibilities:
-Create crawlers for each source URL by using Python modules [scrapy, selenium, requests, BeautifulSoup, and splash]
-Create and maintain Scrapy pipelines and middlewares to manage the output from the crawlers. 
-Create crawlers for all types of websites irrespective of the technical roadblocks.
-Manage the crawlers to overcome technical challenges like IP ban, geolocation ban, captcha, and bot blocking services.
-Write SQL queries to manage database operations using Python modules like SQLAlchemy.
-Deploy the Python scripts/crawlers in Docker utilizing Kubernetes.
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-Skills and Qualifications:
-Minimum 3+ years of hands-on experience in Python programming.
-Strong experience with scraping libraries such as Requests, BeautifulSoup, Selenium, and Scrapy.
-Experience with frameworks such as Flask, Django, FastAPI, Tornado, Pandas, etc.
-Knowledge of building APIs and services using REST.
-Experience with any RDBMS and strong SQL knowledge.
-Proficient understanding of code versioning tools like Git, SVN, Bitbucket, etc.
-Proficiency in object-oriented design skills.
-Troubleshoot issues and solve problems as they arise.
-Experience with front-end technologies, such as JavaScript, HTML5, and CSS3 would be a plus.
-Understanding of fundamental design principles behind a scalable application.
-Context switching - able to jump between projects, and priorities.
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-Preferred Skills and Qualifications:
-Knowledge of UI frameworks like Angular/ReactJS.
-Knowledge of data engineering platforms such as Airflow.
-Familiarity with Google Cloud, Docker, Agile, and Scrum.
-Experience with Jira and Confluence would be a plus.
-Experience with ETL, Celery, etc.
-Excellent interpersonal skills and the ability to work with a diverse team.
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-Compensation:
-$1750 - $3500 USD/month DOE - we are a meritocracy - show us what you are worth and we’ll compensate you accordingly.
-</description><pubDate>Tue, 13 Apr 2021 08:50:18 +0000</pubDate></item><item><title>Product Manager - Automation</title><link>https://jobs.lever.co/invisible/02b519a6-3b03-40ee-b07f-bffb15fbbeb6</link><description>What is Invisible?
+Why this role? 
+Design and implement novel research ideas. 
 
- Invisible is a group of people with a mission to revolutionize knowledge work. We execute our clients' repetitive business processes using a combination of best-in-class automation tools and scalable human intelligence. We call this model work-sharing. Invisible is a world-changing company. The Technology Team is responsible for leading the development of the technology that will fuel Invisible's journey into the stratosphere.
+Ship state of the art models to production.
 
-The Opportunity
+Deep connections to academia.
 
-We are looking for an Automation Product Manager to lead the planning &amp; delivery of technology projects for our clients. The person will run projects that automate a lifetime's worth of manual work and bring the power of automated work-sharing to millions of people. The role demands great technical depth, a high bar for quality, and bold innovation.
+We do not delineate strongly between engineering and research. Everyone will contribute to writing production code and conducting research depending on individual interest and organizational need.
 
-What you'll do
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
+</description><pubDate>Mon, 08 Aug 2022 20:23:50 +0000</pubDate></item><item><title>Industry Post-Doc</title><link>https://jobs.lever.co/cohere/3f8e1b46-3437-4cf7-87d0-33699a96df0e</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-- Manage projects with top-down oversight throughout the entire execution to ensure success as defined by adherence to standards of scope, budget, and timeline.
-- Develop comprehensive project plans that merge customer requirements with company goals and coordinate managers and technical personnel during all project phases.
-- Monitor project progress continuously and make detailed scheduled reports on measurable items, such as milestones and deliverables.
-- Communicate proactively with all involved stakeholders to provide encouragement, identify problems, create solutions, and implement efficiency improvements.
-- Make a name for yourself at Invisible as a person who reliably gets amazing things done, and rapidly see your sphere of influence increase.
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-About You
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-- You have a fervent desire to automate the world's repetitive work and liberate workers from monotony
-- 3+ years of management experience in an IT field, including development work and interactions with customers (required)
-- 3+ years experience leading complex client-facing technical projects globally (preferred)
-- Experience working with engineering to break down requirements into tasks, estimate effort, and plan sprints
-- Create technical requirements to convey your ideas and communicate your solutions to the Engineering team and other stakeholders. 
-- Be a thought partner to both Product and Engineering teams, balancing product requirements with engineering scope
-- Familiarity with at least 1 modern programming language (even if you don't code regularly)
-</description><pubDate>Fri, 02 Jul 2021 19:26:56 +0000</pubDate></item><item><title>Principal Software Engineer (Application Engineer)</title><link>https://jobs.lever.co/invisible/f43bedba-a2c3-4c9a-8f34-ebf338a3166a</link><description>We are actively recruiting for this position and are excited to have the right person join us soon.
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-Invisible Technologies is on a mission to industrialize work by fine-tuning automation and human interaction, powered by our team of Partners and Agents around the world.  We’ve been a globalized, distributed team, since before the pandemic, and we pride ourselves on transparent, effective communication to collaborate and take ownership as needed. 
+Why this role?
+Cohere For AI is the dedicated non-profit arm of Cohere, and our mission is to lower the barriers to entry to machine learning research and support a community of independent research talent across the world. We are committed to collaborating widely and empowering independent researchers around the world.
 
-What is Invisible?
+For AI intends to execute this mission through two different efforts 1) create spaces where engineers, researchers and multidisciplinary experts can connect and contribute to NLP and machine learning research, and 2) provide research training that brings in new talent from across the world to the field of machine learning.
 
-Website : http://www.inv.tech/
-Blog: https://inv.tech/blog
-Overview / Sales Deck - https://invtech.docsend.com/view/6kp3ixp
-Recorded Demo - https://www.youtube.com/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI
-Core Values - https://www.notion.so/invisibletech/d8add47d17584715a62aa4d46f0270b8?v=187ce27ec02f4bfaa2aed9f3f2c6ad6d
+Our open culture and our emphasis on academic collaboration and decentralized research that empowers collaborators across the world offer a unique chance to grow as a researcher and impact the experience of others.
 
-As a Principal Software Engineer your job is to write quality code, act with strong ownership, execute on and add to the vision of the engineering team, working with product and wider stakeholders. You will be working on developing Process Builder — our proprietary platform that orchestrates work across an automation engine and a labor marketplace.
+The visiting researcher role is a 1-year contract for post-docs, professors on sabbatical or independent researchers with equivalent experience that are excited about collaboratory research within an industry that pushes forward the frontier of what is possible with machine learning. You have an independent high impact research agenda and are excited to work with researchers from all over the world. You actively contribute to the wider research community by sharing and publishing your findings and code. Your work evidences a consideration for the societal and ethical implications of machine learning. You have a strong track record of mentorship and are excited to collaborate with independent researchers around the world who want to join the machine learning community.
 
-Culture
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
+</description><pubDate>Mon, 13 Jun 2022 20:07:04 +0000</pubDate></item><item><title>Head of Developer Relations</title><link>https://jobs.lever.co/cohere/f3b7c387-4604-4fdd-af08-49495264772e</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-Every engineer should be constantly learning and growing. As an experienced engineer, you should be eager to learn and grow every day. We expect you to raise the bar for performance on the engineering team. 
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-Our team currently consists of 7 partner engineers and a dozen more agents and interns. The team will double in the coming year — you have an opportunity to mentor and lead.
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-Execution
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-The first principle of execution is reliable delivery — you honor your commitments. You should set clear expectations for your deliverables and drive through to success. The formula for success? Say what you’re going to do, do it, and then let everyone know that it’s done.
+Why this role? 
+As the first Developer Advocate in the North American region, at Cohere, you’ll be able to flex your leadership muscles to shape the overall function and drive the initial build-out of the Cohere community. This is a highly visible role within the Cohere team.  You will be surrounded by teammates across Product, Marketing, Business Development and Sales who will partner with you to ensure your success. Your opportunity for impact will be astronomical — Cohere has sky’s-the-limit potential and you’ll help us reach it. 
 
-The second principle of execution is intelligent prioritization. Your job is to put the puzzle pieces together in a sensible, expedient way. We’re not just building a product or a platform. We’re building a company. 
+Please Note: We have offices in Toronto, Canada and Palo Alto and San Francisco, USA, but embrace being remote-first! This role will be based in US or Canada.
+</description><pubDate>Sun, 14 Aug 2022 22:53:52 +0000</pubDate></item><item><title>Growth Product Manager</title><link>https://jobs.lever.co/cohere/ca4afc01-cbf8-43e8-9437-76fa9d510441</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-Architecture
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-We are always striving to build the right thing. You are a key partner for Product, and you’re a critical stakeholder because you know what can be built and what will work. You will focus your energy on one of our core products and act as an owner.
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-The ideal candidate has learned from experience that technical decisions have far-reaching consequences. As an experienced professional engineer, you are always mindful to avoid technical debt and waste.
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-Principals are Architects and Leaders
+Why this role?
+Product Managers have the unique opportunity and responsibility to both define product vision and drive results. On this team, you’ll get to work with one of the leading AI and NLP teams in the world and grow the product vision and company culture.
 
-Principal engineers at Invisible are able to follow multiple paths. Some of our Principal engineers are technical leads of teams and are responsible for people management of those teams. They oversee the technical vision for their area and ensure that there is proper mentorship
-Other principal engineers lead through technical initiatives. These engineers oversee broad multi team technical initiatives and own parts of our software stack (ex. Principal engineers might research and roll out new technical frameworks or might develop a new generation of our UI component.
+Please Note: We have offices in Toronto, Palo Alto, and London but embrace being remote-first! There are no restrictions on where you can be located for this role. 
 
-Whether you're leading people or leading new tech rollouts you'll have broad team wide impact.
+As a Growth Product Manager, your responsibilities include:
+</description><pubDate>Tue, 23 Aug 2022 22:53:18 +0000</pubDate></item><item><title>Finance Manager</title><link>https://jobs.lever.co/cohere/0d3a5b05-642f-4134-89d0-fdf422ef452d</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-The Technology
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-Our platform is TypeScript from top to bottom.
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-We’re opinionated about modern JavaScript and about the best way to use it. Our stack trends towards the latest and greatest:
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-We believe that a monorepo with micro frontends is the best approach for us. We’re avid users of NextJS, React, Prisma, Postgres, NX Workspaces , Kubernetes and tRPC.
+Why this role? 
+We are looking for someone with a strong Finance &amp; Accounting background to join Cohere’s Finance team as a Senior Accountant and help scale our Finance operations. As one of the first few members of our Finance team, you will gain hands-on experience building a successful Finance organization in a fast-growing start-up environment.
 
+Please Note: We have offices in Toronto, Palo Alto and London but embrace being remote-first! We are looking for candidates based in Canada or the United States for this role.
+</description><pubDate>Thu, 01 Sep 2022 22:03:11 +0000</pubDate></item><item><title>Customer Support Lead</title><link>https://jobs.lever.co/cohere/50bdc51e-59ca-4c90-a6e2-d084f30a2c83</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-We’re always eager to learn and grow and try new technologies.
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-Location
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-Currently we are looking to hire for a team that works primarily in US timezones and are seeking out engineering talent in these timezones:
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
---  North/South America
--- Europe
--- Africa
+Why this role?
+The Customer Support &amp; Success function at Cohere is the team that ensures our customers have the best experience discovering, onboarding and using our platform. Great teams in these functions will optimize retention, drive new usage and minimize churn on the platform. 
 
-Working Schedule
+We’re looking for an analytical, collaborative and customer-focused individual who is passionate to learn more about NLP and lead the Customer Support efforts at Cohere. Cohere has skies-the-limit potential and you’ll help us reach it.
 
-The candidate should be available between 10am to 3pm EDT from Monday to Friday.
-</description><pubDate>Mon, 14 Feb 2022 14:14:12 +0000</pubDate></item><item><title>People Relations Partner</title><link>https://jobs.lever.co/invisible/ea7c75f3-c378-455a-a100-f4cd661339c0</link><description>We are currently looking to fill this position as soon as possible. We'd like to ask you a few questions to jump-start the process and get to know you a bit. 
+Please Note: We have offices in Toronto, Palo Alto and London but embrace being remote-first! We are looking for candidates based in Canada or United States for this role.
+</description><pubDate>Mon, 08 Aug 2022 20:19:28 +0000</pubDate></item><item><title>Applied Machine Learning Engineer</title><link>https://jobs.lever.co/cohere/3ad7a602-7b6c-4b6b-9558-f7666aeebd21</link><description>Who are we?
+We’re a small, diverse team working at the cutting edge of machine learning. At Cohere, our mission is to build machines that understand the world and to make them safely accessible to all. Language is at the crux of this, but it can be difficult and expensive to parse the syntax, semantics, and context that all work together to give words meaning. The Cohere platform provides access to Large Language Models through its APIs that read billions of web pages and learn to understand the meaning, sentiment, and intent of the words we use in a richness never seen before. 
 
-Note** In order to be considered, you must submit your completed answers to the questionnaire. We will start interviewing immediately, so please be sure to complete the questionnaire, as it will lag the process if it is not complete. Good luck with the hiring process and we'll be in touch soon!
+We recently raised our Series B, signed a multi-year partnership with Google Cloud, and we are focused on bringing our technology to market. We will partner with customers so they can build natural language understanding and generation into their products with just a few lines of code.
 
-THIS IS A FULL TIME REMOTE POSITION
+We’re ambitious — we believe our technology will fundamentally transform how industries interact with natural language. And we have the technical chops to back it up - Cohere’s CEO, Aidan Gomez, is a co-author of the groundbreaking paper “Attention is all you need”, (over 23k citations) and was previously part of Google Brain. Our entire technical team is world-class. 
 
-What is Invisible?
-Website: http://www.inv.tech/
-Overview / Sales Deck: - https://invtech.docsend.com/view/6kp3ixp
-Recorded Demo: https://www.youtube.com/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI
-Core Values: https://www.notion.so/invisibletech/d8add47d17584715a62aa4d46f0270b8?v=187ce27ec02f4bfaa2aed9f3f2c6ad6d
+We are focused on creating a diverse and inclusive work environment so that all of our team members can thrive. We welcome kind and brilliant people to our team, from wherever they come.
 
-Who are we?
-We are Invisible’s People Team. We believe that People are our #1 Competitive Strategy. We create an environment where business performance, growth, and scale can be accomplished with the least amount of friction and is sustainable long term. Our mission is to seek out, recruit, retain and develop top-notch talent for our Partner, Specialist, and Agent workforce.
-We are building an aligned talent mindset, every one of us at Invisible is a Growth Partner.. We embrace change: the ceiling is the new floor! We focus on Culture and Sustainability, and we like to “Keep it Weird” at Invisible!
+We are forming a team focused on building new applications that utilize our core large language models (LLM). This team will work on projects from conception through to productization. Team members will be involved in direct interaction with customers to fully understand their needs and devise a plan to provide solutions (to those needs) using the Cohere API. These proof of concept projects will be productized into general solutions available to all customers. Completing these end-to-end projects will involve close collaboration with a number of other related engineering teams working on multiple components of our stack.
 
-</description><pubDate>Thu, 11 Aug 2022 19:04:19 +0000</pubDate></item><item><title>People Data Analytics Specialist</title><link>https://jobs.lever.co/invisible/962d4b07-a8ad-460d-af79-7f67bdcc93e7</link><description>We are currently looking to fill this position as soon as possible. We'd like to ask you a few questions to jump-start the process and get to know you a bit. Note** In order to be considered, you must submit your completed answers to the questionnaire. We will start interviewing immediately, so please be sure to complete the questionnaire, as it will lag the process if it is not complete. Good luck with the hiring process and we'll be in touch soon!
+We are looking for candidates at all levels of experience, from new grads to experienced Machine Learning Engineers. This is a brand new team to Cohere, with an opportunity to have a direct impact on the next stage of our growth. 
 
-THIS IS A FULL-TIME REMOTE POSITION
-
-What is Invisible?
-Website: http://www.inv.tech/
-Overview / Sales Deck: - https://invtech.docsend.com/view/6kp3ixp
-Recorded Demo: https://www.youtube.com/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI
-Core Values: https://www.notion.so/invisibletech/d8add47d17584715a62aa4d46f0270b8?v=187ce27ec02f4bfaa2aed9f3f2c6ad6d
-
-Who are we?
-We are Invisible’s People Team. We believe that People are our #1 Competitive Strategy. We create an environment where business performance, growth, and scale can be accomplished with the least amount of friction and is sustainable in the long term... Our mission is to seek out, recruit, retain and develop top-notch talent for our Partner, Specialist, and Agent workforce.
-We are building an aligned talent mindset, every one of us at Invisible is a Growth Partner. We embrace change: the ceiling is the new floor! We focus on Culture and Sustainability, and we like to “Keep it Weird” at Invisible!
-
-</description><pubDate>Thu, 11 Aug 2022 19:41:34 +0000</pubDate></item><item><title>Operations Manager</title><link>https://jobs.lever.co/invisible/a2fd214b-a4a8-40b1-b18b-0844c05b5506</link><description>We'd like to ask you a few questions to jump-start the process and get to know you a bit. 
-Note** In order to be considered, you must submit your completed answers to the questionnaire. Good luck with the hiring process and we'll be in touch soon!
-
-What is Invisible?
-Website: http://www.inv.tech/
-Overview / Sales Deck - https://invtech.docsend.com/view/a8tthk8bwi9dbhk6
-Recorded Demo - https://www.youtube.com/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI
-Core Values - https://www.notion.so/invisibletech/d8add47d17584715a62aa4d46f0270b8?v=187ce27ec02f4bfaa2aed9f3f2c6ad6d
-
-
-Who are we?
-We’re Invisible’s Operations Team. We strive to create world-class outcomes for our clients as a strategic partner. 
-
-We Believe That:
--- Invisible is a world-changing company and the Operations Team is responsible for creating the systems that will launch Invisible into the stratosphere
--- Exponential gains from systems &gt; Short term linear work &gt; Systems for system's sake-- Consistent feedback is key - we are addicted to learning and getting better
--- What one of us knows, all of us should know
--- Every new mistake is a learning opportunity
-
-Who We Want
--- Trainers who love to teach and create training material. Fast.
--- Polymaths and independent thinkers
--- Someone who is unlike anyone else on the team
-
-The Mission
-The goal of an Operations Delivery Manager (DM) at Invisible is to ensure that clients under his or her charge receive world-class operational service: high-quality results delivered quickly, within budget, customized to the client’s needs. To achieve this, a DM manages a team of agents who produce these deliverables. In addition to managing their team, DMs work directly with their clients to identify goals, map out processes, measure quality, measure impact, and move the client’s business forward. As clients grow with us, DMs also drive platform and point automations on behalf of their clients in partnership with our Product &amp; Engineering teams to ensure we operationally become better, faster, and cheaper.
-
-Who We Want
-Operations Delivery Managers are very flexible, hybrid partners that excel in multiple dimensions. This flexibility is key to continuing our high growth trajectory: we grew over 3x for two consecutive years in a row (2020 &amp; 2021) and plan to do so again in 2022. There are  3 critical spikes in capabilities that we look for in this role. The best DMs are strong across all 3 dimensions, though they all spike in Operational Management, the most critical to their role. A DM who spikes in only 1 will fail in the role out of the gate; a DM who spikes in only 2 will likely succeed in the medium-term but will likely not scale with the business. Thus, we are looking for individuals with the full spectrum of abilities and we are extremely selective.
-</description><pubDate>Mon, 25 Jan 2021 22:11:14 +0000</pubDate></item><item><title>Operations Analyst</title><link>https://jobs.lever.co/invisible/a934a35d-0b29-4201-a9a6-82ffe5b62a13</link><description>Invisible Technologies helps fast-growing companies scale efficiently, so they can improve margins and capture market share at the same time. We partner with our clients to run their business operations using our modern outsourcing platform to deliver efficiency, quality, and flexibility at scale.
-
-Website: http://www.inv.tech/
-Overview / Sales Deck: https://invtech.docsend.com/view/a8tthk8bwi9dbhk6
-Recorded Demo: https://www.youtube.com/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI
-
-We believe that…
-
-Mission. Invisible is a world-changing company and the Operations Team is responsible for creating the systems that will launch Invisible into the stratosphere.
-Ownership. Every partner on the team is the “CEO” of their area - each of us are empowered  to jump in and solve the problems in front of us.
-Communication. Consistent feedback is key - we are addicted to learning and getting better.
-Transparency. What one of us knows, all of us should know.
-Self-Improvement. Every new mistake is a learning opportunity.
-Meritocracy. The value someone produces should be reflected back in the position of responsibility and compensation that they receive.
-
-The Role
-
-The goal of an Operations Analyst (OA) is to unlock efficiencies and quality improvements in our operations through analysis, process design, and project management. OAs are paired with Operations Directors and serve as an extra pair of eyes, ears, hands, and brain —  a catalyst for the Director to achieve their department’s overall objectives. Daily responsibilities for an OA vary, but often times include efficiency &amp; quality analyses on process work, financial analyses on different areas of our operations, project management of certain client work, and process design improvement work on important client or internal processes.
-
-The life of an OA is a difficult one, one where a persevering work ethic needs to be paired with an active, creative mind. That said, the OA role is a center for immense learning. Pairing directly with a senior partner and interacting regularly with various facets of the company (from individual agent operators to product managers), OAs will receive a frequent and diverse range of experiences, coaching, and opportunities. Our best OAs go on to become Operations Managers or move on to related roles in other teams at the company.
-
-Who We Want
-
-Operations Analysts (OAs) are very flexible, hybrid partners that have a high growth trajectory and can thrive (with proper coaching) in multiple dimensions. This flexibility is key to continuing our high growth trajectory: we grew over 3x for two consecutive years in a row (2020 &amp; 2021) and plan to do so again in 2022. We are looking for OAs who can harness both the humble trait of being coachable and the ambitious trait of constantly desiring learning. The spirit animal of a junior OA is a sponge. And, over time, they will evolve with more learning, experience, and responsibility.
-
-There are 3 key areas we will focus on growing the skillset of an OA to prepare them for a promotion to Operation Manager: Operations Management, Client Management, &amp; Product Ownership. See job description for Operations Manager for more context on these skills.
-
-Compensation &amp; Benefits
-
-Working Times: US (EST or PST) Hours
-2022: $60,000 annual OTE (base + bonus) + equity!
-Additional opportunities to earn more equity and increase your ownership percentage of the company, through promotions and through re-distribution of re-acquired shares via buybacks.
-Healthcare Benefits (or Stipend Option)
-Flexible Work Schedule / Unlimited Vacation Days
-Work Remotely
-</description><pubDate>Wed, 30 Mar 2022 15:54:35 +0000</pubDate></item><item><title>Growth Consultant</title><link>https://jobs.lever.co/invisible/7a420a1a-6d44-43d4-a0b3-bc693088c420</link><description>We'd like to ask you a few questions to jump-start the process and get to know you a bit. Note** In order to be considered, you must submit your completed answers to the questionnaire. We will start interviewing immediately, so please be sure to complete the questionnaire, as it will lag the process if it is not complete. Good luck with the hiring process and we'll be in touch soon! THIS IS A FULL-TIME REMOTE POSITION
- 
-What is Invisible?
-
-Website : http://www.inv.tech/
-Blog: https://inv.tech/blog
-Overview / Sales Deck - https://invtech.docsend.com/view/a8tthk8bwi9dbhk6
-Recorded Demo - https://www.youtube.com/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI
-Core Values - https://www.notion.so/invisibletech/d8add47d17584715a62aa4d46f0270b8?v=187ce27ec02f4bfaa2aed9f3f2c6ad6d 
-
- 
-Who are we?
-
-We’re Invisible’s Growth Team. We are an irreplaceable strategic growth partner for the world's fastest-growing &amp; most innovative companies, powering their digital workflows so they can focus on building their businesses - not running them.  
- 
-The Job
-
-Reporting to the Head of Sales, you will be responsible for closing clients and generating your own leads. This is a role for someone looking to join a fast-growing sales team. We’re looking for true leaders and sales professionals. We need a passionate individual eager to play a key role in driving the go-to-market efforts of a fast-growing company that will be the next iconic brand (imagine being one of the first 100 people at Amazon or Google). The goal of a Growth Consultant is to help enable Invisible’s mission to automate repetitive work for every company so people can focus on their real work. You will be responsible for leading a Sales team to hit monthly targets, build pipeline, and play a key role in helping us grow 3x again in 2022.
- 
-Who We Want
-
-Growth Consultants are the foundation of our team. Our ability to achieve our goals comes down, in large part, to the type and number of clients you add. Our GAs represent expert engagement layered on top of product-led process discovery. GAs will work with the Customer Success, Operations &amp; Product teams to ensure clients under his or her charge receive world-class operational service: high-quality results delivered quickly, within budget, customized to the client’s needs. We are looking for individuals with the full spectrum of abilities and we are extremely selective. The ideal candidate is a blend of 3 key strengths: 
- 
-- Consultative Selling (Customer-Centric): Ability to work with multiple internal stakeholders at a midmarket company to bring a sale from concept to across the finish line. Strong business acumen to identify cross-functional business needs and anchor Invisible’s solution to multiple teams.
-
-- Hunter-Mentality: The right candidate will proactively build and manage their pipeline to exceed their monthly, quarterly &amp; annual targets while closing good-fit clients. Whether things are going well or not as well, the right candidate will find a way to win. 
-
--Executive Presence: Strong gravitas the ability to sell to VP-level and C-level executives within midmarket companies. Strong relationship-building skills. 
- 
-This ‘consultative-selling’ is key to continuing our high growth trajectory: we grew 3x in 2020, 4x in 2021, and plan to grow rapidly by 3x again in 2022.  We are looking for individuals with the full spectrum of abilities and we are extremely selective. 
-
-
-
-</description><pubDate>Fri, 15 Oct 2021 12:57:24 +0000</pubDate></item><item><title>Full Stack Engineer</title><link>https://jobs.lever.co/invisible/214f6779-872c-43c0-a56c-ac3221d6377c</link><description>We are currently looking to fill multiple positions asap. We'd like to ask you a few questions to jump-start the process and get to know you a bit. 
-Note** Once you apply, you will receive a questionnaire and engineering test. In order to be considered for this position, we must receive your completed test and questionnaire answers before you will be moved to the interview round. We are also currently receiving many applications, so you may not hear from us immediately. Good luck with the hiring process and we'll be in touch.
-
-What is Invisible?
-Website: http://www.inv.tech/
-Overview / Sales Deck -https://invtech.docsend.com/view/6kp3ixp
-Recorded Demo - https://www.youtube.com/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI
-
-Who are we?
-We are Invisible’s Technologies Team. We solve problems at scale so they never happen again. At our best, we solve problems before they happen. How?
-
-We Believe That
--- Invisible is a world-changing company and the Technologies Team is responsible for creating the systems that will launch Invisible into the stratosphere
--- Exponential gains from systems &gt; Short term linear work &gt; Systems for system's sake
--- Consistent feedback is key - we are addicted to learning and getting better
--- What one of us knows, all of us should know
--- Every new mistake is a learning opportunity
-
-Because of these beliefs, we’ve built a team where
--- Distributed approaches and centralized intelligence merge. Each teammate is constantly innovating and trying something new. Every mistake is prevented by all. Every success is learned by all.
--- Each of us contains the sum of the knowledge, intelligence, and creativity of our entire team.
--- We evolve and mutate constantly like an organism, identifying successful and problematic tactics and incorporating ideas from any source.
-
-What is it like to be on the Engineering team?
-Invisible is a meritocracy and a startup. There’s plenty of responsibilities to go around. You’ll be expected to absorb responsibilities whenever you see them and figure out how to abstract yourself away from the job—be your own mini-CEO. Our team is small, but growing quickly. The work you do will directly impact how successful we are as a company. You’ll also have the opportunity to be part of the product development. Our product work is done by squads: product manager, designers, customers, and an engineer like you, focused on solving a customer problem. Together, your squad will have the autonomy to own key parts of our roadmap and build the things that will have the greatest impact on solving customer problems.
-
-What you'll do:
-As an engineer on our CX team, you'll be responsible for scoping and delivering high-impact product features that define the experience our customers have with our technology. This is an exciting role with a lot of visibility to our user base.
-
-Our Stack:
-We move rapidly and our tech stack changes often as we scale. Here's a brief list of some of our current stack in the CX space:
-
-Frontend: React, Typescript, GraphQL, React-Query, NextJS, Storybook
-Backend: PostgreSQL, Prisma, Nexus
-
-Compensation
---  $2000-$4000 USD per month DOE - we are a meritocracy - show us what you are worth and we’ll compensate you accordingly.
-</description><pubDate>Tue, 19 Apr 2022 14:40:11 +0000</pubDate></item><item><title>Finance Reporting Associate</title><link>https://jobs.lever.co/invisible/3e0f291e-c2ae-467a-a4f0-5d0061266dc5</link><description>We are currently looking to fill this position ASAP.
-
-What is Invisible?
-Website 
-Blog 
-Strategy Blog 
-Overview / Sales Deck
-Recorded Demo
-Meet Invisible
-
-Who are we
-We are Invisible’s Finance Team. We solve problems at scale so they never happen again. At our best, we solve problems before they happen. 
-
-We Believe That
-- Invisible is a world-changing company 
-- Consistent feedback is key - we are addicted to learning and getting better
-- What one of us knows, all of us should know
-- Every new mistake is a learning opportunity
-
-Because of these beliefs, we’ve built a team where
-- Distributed approaches and centralized intelligence merge. Each teammate is constantly innovating and trying something new. Every mistake is prevented by all. Every success is learned by all
-- Each of us contains the sum of the knowledge, intelligence, and creativity of our entire team
-- We evolve and mutate constantly like an organism, identifying successful and problematic tactics and incorporating ideas from any source
-
-
-The right person already called me and told me these words: I know numbers. I love them and they love me.  I live for finding the lines that aren’t exactly lining up in the financial statements.  I find problems, I fix them and feel very satisfied with a tremendously valuable, perhaps a little tedious,  job well done. I can respond to emails in my sleep and take little joy in perfectly aligned reports. I am detail oriented, contentious, and trustworthy.  I’m a team player but don’t mind working independently.  I am reliable and will make my supervisor breathe a huge sigh of relief when they see an email from me stating, “don’t worry. I’ve got this one.”  I know the value of steadfastness and kindness, standing by your teammates, and providing excellent service to my customers. My work is flawless and I’m very proud of that fact.  At the end of the day, I’ll know that Invisible will be dramatically improved by my modest, but essential, contribution.  I will take great pride in the work we do at Invisible. I’ll know, without my efforts, the company couldn’t function and continue to grow into an unstoppable, paradigm-altering force.  
-</description><pubDate>Mon, 29 Aug 2022 21:37:13 +0000</pubDate></item><item><title>Director of Recruiting</title><link>https://jobs.lever.co/invisible/d3eb57b6-f1f6-4b9b-8426-7ff10bb3eac5</link><description>We are currently looking to fill this position as soon as possible! We'd like to ask you a few questions to jump-start the process and get to know you a bit. Note** In order to be considered, you must submit your completed answers to the questionnaire. Good luck with the hiring process and we'll be in touch soon!
-
-What is Invisible?
-Website: http://www.inv.tech/
-Overview / Sales Deck - https://invtech.docsend.com/view/a8tthk8bwi9dbhk6
-Recorded Demo - https://www.youtube.com/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI
-Core Values - https://www.notion.so/invisibletech/d8add47d17584715a62aa4d46f0270b8?v=187ce27ec02f4bfaa2aed9f3f2c6ad6d 
-
-Who are we?
-
-We’re Invisible’s Hiring Team. We aim to provide measurable business impact and leverage across all teams of the organization. Our Hiring team's mission is to seek out, recruit and retain top-notch talent for both our Partner and Agent workforce. Scale is our North Star. 
-
-We Believe That:
-
--- Invisible is a world-changing company and the Executive Team is responsible for leading the charge. 
--- We expect excellence from ourselves and hold ourselves to a high bar. 
--- We lead by example.
--- People are the foundation of success, but without proper systems and process, even the best people will fail. 
--- Every new mistake is a learning opportunity. 
-
-Because of these beliefs, we’ve built a team where...
-
--- Distributed approaches and centralized intelligence merge. Each teammate is constantly innovating and trying something new. Every mistake is prevented by all. Every success is learned by all.
--- Each of us contains the sum of the knowledge, intelligence, and creativity of our entire team.
--- We evolve and mutate constantly like an organism, identifying successful and problematic tactics and incorporating ideas from any source.
-
-
-What You Will be Doing
-
--- Manage the Partner &amp; Specialist Recruiting efforts.
--- You need to be able to think both strategically and tactically to qualify for a Director level position and not just a Recruiting Manager role. 
--- Manage and oversee sourcing efforts and not be afraid to get your hands dirty sourcing yourself.
--- Be a domain expert, what are the latest trends in hiring? How and why are they applicable to us? What is the implementation ROI? How does it get the best people to fit our needs?
--- Shoot for the stars in creating a talent brand so strong, the perfect candidates come to us en mass, dreaming of working here.
--- Commitment to excellence who will drive the team to hold the same bar
--- Systems oriented and able to create, document and roll out process but able to be flexible and play basketball (not baseball)
-
-Who We Want
-
--- "Intrapreneurs"
--- Polymaths and independent thinkers
--- A hunter mindset, that treats Recruiting as a sales function.
--- Someone who is unlike anyone else on the team, someone who has the confidence to state "Without me as a partner, you would not be able to hire the best in class, at the speed needed, to keep up with our growth".
--- Proactive attitude, outcomes mindset: A great Director of Recruiting will seek out creative solutions to the most challenging hiring problems and proactively attack them - always focusing on business outcomes.
--- Doers, not just thinkers: A great Director of Recruiting will direct their team to own the success of incoming talent and make recommendations to the process, but also can roll up their sleeves and burn the midnight oil recruiting excellent talent.
--- Stellar communicator: In a remote culture, communication is everything. A great Director of Recruiting ensure their stakeholders are always kept up-to-date on the current issues and are always in sync with the current and future plays.
--- Ownership Mentality: Our Director of Recruiting  will see every problem the business is facing as their own personal mission to solve through recruiting and retaining excellent talent. 
-</description><pubDate>Mon, 13 Jun 2022 18:25:31 +0000</pubDate></item><item><title>Director of Operations - AI Training</title><link>https://jobs.lever.co/invisible/948c6969-552f-4dc6-9c62-32dca9d259dc</link><description>Who we are
-Invisible Technologies helps fast-growing companies scale efficiently, so they can improve margins and capture market share at the same time. We partner with our clients to run their business operations using our modern outsourcing platform to deliver efficiency, quality, and flexibility at scale.
-
-
-Website: http://www.inv.tech/
-Overview / Sales Deck: https://invtech.docsend.com/view/a8tthk8bwi9dbhk6
-Recorded Demo: https://www.youtube.com/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI
-
-We believe that…
-Mission. Invisible is a world-changing company and the Operations Team is responsible for creating the systems that will launch Invisible into the stratosphere.
-Ownership. Every partner on the team is the “CEO” of their area - each of us are empowered  to jump in and solve the problems in front of us.
-Communication. Consistent feedback is key - we are addicted to learning and getting better.
-Transparency. What one of us knows, all of us should know.
-Self-Improvement. Every new mistake is a learning opportunity.
-Meritocracy. The value someone produces should be reflected back in the position of responsibility and compensation that they receive.
-
-What you will be doing
-You will be on the cutting edge of training artificial intelligence (AI) systems by managing a team of over 100 AI trainers and supporting and strategizing with the global leaders in AI development.
-
-Reporting to the VP of Operations, you will be ensuring your clients in the AI space receive world-class service through strategic partnership, high-quality results, and constant improvement.
-
-To achieve this, your direct reports will include a team of operations managers and analysts and your indirect reports (reporting to operations managers) will be a team of over 100 AI trainers who have been hand-selected and coached to train AI systems for our clients.
-
-In addition to managing your team and clients, you work with other Invisible senior leaders to identify company goals, create and map out new processes, measure quality, measure impact, and move Invisible forward.
- - Operations Management: Managing a team of several Operations Managers and Operations Analysts as they manage the production of high-quality work efficiently, on time, and within budget.
- - Client Management: Partnering with a small set of clients at both the strategic and tactical level, working with them to define their needs, map their processes, and ensure the target hits the mark.
- - Product Ownership: Pairing with an Invisible Product Manager to upgrade our platform to better achieve client goals. An ability to “speak Product” and think in systems is essential to individual and company success.
-
-Who we want
-A Director of Operations is a very tech-savvy and flexible partner that excels in multiple dimensions. This flexibility is key to continuing our high growth trajectory: we grew over 3x for two consecutive years in a row (2020 &amp; 2021) and plan to do so again in 2022.
- 
-There are 3 critical skills and capabilities that we look for in this role:
-1)     The best Directors are strong, creative technical project managers who understand how to lead, motivate, and manage a global team (experience with international freelancers is ideal).
-2)     You must be a client-facing leader. This role requires high-level strategic interaction with some of the largest and most well-known companies in the world as you help them solve complex technical problems. Have you led a client-facing team before?
-3)     You’ll be one of the first 100 employees at a company that’s changing the way humans do business every day, a company that will be a household name very soon. The expectation is that you’re a highly entrepreneurial and innovative leader and thinker capable of seeing the future.
-
-</description><pubDate>Thu, 21 Jul 2022 13:33:39 +0000</pubDate></item><item><title>Director of Operations</title><link>https://jobs.lever.co/invisible/b19982c3-b5d1-4f1a-9e27-a7405201356b</link><description>We are currently looking to fill this position as soon as possible! We'd like to ask you a few questions to jump-start the process and get to know you a bit. Note** In order to be considered, you must submit your completed answers to the questionnaire. Good luck with the hiring process and we'll be in touch soon!
-
-What is Invisible?
-Website: http://www.inv.tech/
-Overview / Sales Deck - https://invtech.docsend.com/view/a8tthk8bwi9dbhk6
-Recorded Demo - https://www.youtube.com/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI
-Core Values - https://www.notion.so/invisibletech/d8add47d17584715a62aa4d46f0270b8?v=187ce27ec02f4bfaa2aed9f3f2c6ad6d 
- 
-Who are we?
-We’re Invisible’s Operations Team. We strive to create world-class outcomes for our clients as a strategic partner. 
-
-We Believe That:
--- Invisible is a world-changing company and the Operations Team is responsible for creating the systems that will launch Invisible into the stratosphere
--- Exponential gains from systems &gt; Short term linear work &gt; Systems for system's sake-- Consistent feedback is key - we are addicted to learning and getting better
--- What one of us knows, all of us should know
--- Every new mistake is a learning opportunity
- 
-What You Will Be Doing: 
-Reporting to the VP of Ops, a Director of Operations at Invisible ensures that clients under his or her charge receive world-class service: high-quality results delivered quickly, within budget, customized to the client’s needs. To achieve this, the Director manages a team of Operations Managers who in turn manage a large international team of agents (global freelance workers) who produce these complex and highly technical deliverables. In addition to managing their team, Directors work with other Invisible senior leaders to identify company goals, create and map out new processes, measure quality, measure impact, and move Invisible forward.
-
-o   Technical Operations Management: Managing a team of 2-3 Operations Managers as they perform high-quality work efficiently, on time, and within budget. 
-o   Client Management: Partnering with 20 - 30 high-growth businesses at both the strategic and tactical level. Working with them to define their needs, map their processes, and ensure the target hits the mark.
-o   Product Ownership: Each operations teams pairs with an Invisible Product Manager to develop the platform to better achieve client goals. An ability to “speak Product” and think in systems is essential to individual and company success.
-
-Who We Want
-A Director of Operations is a very tech-savvy and flexible partner that excels in multiple dimensions. This flexibility is key to continuing our high growth trajectory: we grew over 3x for two consecutive years in a row (2020 &amp; 2021) and plan to do so again in 2022. 
- 
-There are 3 critical skills and capabilities that we look for in this role: 
-1)     The best Directors are strong, creative technical project managers who understand how to lead, motivate, and manage a global team (experience with international freelancers is ideal). 
-2)     You MUST be an experienced technical client-facing leader. This role requires high-level strategic interaction with some of the largest and most well-known companies in the world as you help them solve complex technical problems. Have you led a client-facing team before? 
-3)     You’ll be one of the first 100 employees at a company that’s changing the way humans do business every day, a company that will be a household name very soon. The expectation is that you’re a highly entrepreneurial and innovative leader and thinker capable of seeing the future, or at least seeing opportunities for growth and efficiency early. 
-</description><pubDate>Thu, 07 Oct 2021 19:01:42 +0000</pubDate></item><item><title>Director of Commercial Sales</title><link>https://jobs.lever.co/invisible/a9c081cc-cabd-4c49-864a-82e779ff657d</link><description>We are currently looking to fill this position by June 1st 2022. We'd like to ask you a few questions to jump-start the process and get to know you a bit. Note** In order to be considered, you must submit your completed answers to the questionnaire. We will start interviewing immediately, so please be sure to complete the questionnaire, as it will lag the process if it is not complete. Good luck with the hiring process and we'll be in touch soon! THIS IS A FULL-TIME REMOTE POSITION
- 
-What is Invisible?
-
-Website : http://www.inv.tech/
-Blog: https://inv.tech/blog
-Overview / Sales Deck - https://invtech.docsend.com/view/6kp3ixp
-Recorded Demo - https://www.youtube.com/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI
-Core Values - https://www.notion.so/invisibletech/d8add47d17584715a62aa4d46f0270b8?v=187ce27ec02f4bfaa2aed9f3f2c6ad6d 
- 
-Who are we?
-
-We’re Invisible’s Growth Team. We are an irreplaceable strategic growth partner for the world's fastest growing &amp; most innovative companies, powering their digital workflows so they can focus on building their businesses - not running them.  
- 
-The Job
-
-Reporting to the Head of Sales, you will be managing our Commercial Sales team. This is a role for someone looking to manage and build a fast-growing sales team, we’re looking for a builder...a true creative leader. We need a passionate individual eager to play a key role in driving the go-to-market efforts of a fast-growing company that will be the next iconic brand (imagine being the first Sales Manager at Amazon or Google). The goal of the Sales Manager is to help enable Invisible’s mission to automate repetitive work for every company so people can focus on their real work. You will be responsible for leading a Sales team to hit monthly targets, building pipeline, and building the processes to allow sellers to focus on selling and play a key role in helping us grow 3x again in 2022.
- 
-Who We Want
-
-The Sales Manager is the tip-of-the-spear for our Growth team. Our ability to achieve our goals comes down, in large part, to the type and number of clients you add. We are looking for individuals with the full spectrum of abilities and we are extremely selective. The ideal candidate is a blend of 3 key strengths: 
- 
-1) You have demonstrated success building-and-running an inside sales teams - both AEs and SDRs - selling at a $100k-$500k ACV
-
-2) You have experience in complex sales and consultative selling methodologies, you're a competitive leader always looking for creative ways to sell. 
-
-3) Executive Presence: You have a strong presence, inspiring confidence in both your team and prospects a like. You have strong relationship-building skills, and a demonstrated ability to sell to VP- &amp; C-level executives within midmarket companies.
- 
-Previous experience in sales teams is key to continuing our high growth trajectory: we grew 3x in 2020, 4x in 2021, and plan to grow rapidly by 3x again in 2022.  We are looking for individuals with the full spectrum of abilities and we are extremely selective. 
- 
-Capabilities &amp; Requirements: 
-
-Capabilities &amp; Requirements: 
-3-5 years of experience B2B selling as an inside sales rep or to midmarket accounts
-3-5 years as a manager scaling B2B inside or mid-market sales team in a SaaS, BPO, or high-growth organization with a headcount of at least 6 reps
-Experience with direct management of outbound lead generation programs
-Experience building and training account executives and business development representatives
-Work with Operations to ensure clients successfully activate within their first 30-days after close
-Help the team to identify target accounts and prospects, and effectively be able to pitch Invisible’s solutions to set appointments with qualified prospects 
-Analyze data to identify trends and communicate appropriately to senior management
-Passion for training, motivating, and coaching in a fast-growth environment
-Have a deep understanding of how to leverage and implement a multi-pronged approach (calls, emails, Linkedin, Direct Mail, social selling, and more)
- 
- 
-We Believe That:
-
--- Invisible is a world-changing company and the Growth Team is responsible for sourcing, closing, and developing clients until they no longer execute their digital repetitive work themselves  
--- Great client relationships are predicated on trust, sincerity &amp; achievement of the customer’s goals
--- Exponential gains from systems &gt; Short term linear work &gt; Systems for system's sake
--- Consistent feedback is key - we are addicted to learning and getting better
--- What one of us knows, all of us should know
- 
-Because of these beliefs, we’ve built a team where...
-
--- Distributed approaches and centralized intelligence merge. Each teammate is constantly innovating and trying something new. Every mistake is prevented by all. Every success is learned by all.
--- Each of us contains the sum of the knowledge, intelligence, and creativity of our entire team.
--- We evolve and mutate constantly like an organism, identifying successful and problematic tactics and incorporating ideas from any source.
- 
-
-</description><pubDate>Fri, 18 Mar 2022 16:29:43 +0000</pubDate></item><item><title>BPO Consultant</title><link>https://jobs.lever.co/invisible/1aeff7fe-4018-48fd-97c5-539c002b5f49</link><description>We'd like to ask you a few questions to jump-start the process and get to know you a bit. Note** In order to be considered, you must submit your completed answers to the questionnaire. We will start interviewing immediately, so please be sure to complete the questionnaire, as it will lag the process if it is not complete. Good luck with the hiring process and we'll be in touch soon! THIS IS A FULL-TIME REMOTE POSITION
- 
-What is Invisible?
-
-Website : http://www.inv.tech/
-Blog: https://inv.tech/blog
-Overview / Sales Deck - https://invtech.docsend.com/view/a8tthk8bwi9dbhk6
-Recorded Demo - https://www.youtube.com/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI
-Core Values - https://www.notion.so/invisibletech/d8add47d17584715a62aa4d46f0270b8?v=187ce27ec02f4bfaa2aed9f3f2c6ad6d 
-
- 
-Who are we?
-
-We’re Invisible’s Growth Team. We are an irreplaceable strategic growth partner for the world's fastest-growing &amp; most innovative companies, powering their digital workflows so they can focus on building their businesses - not running them.  
- 
-The Job
-
-Reporting to the Head of Sales, you will be responsible for closing clients and generating your own leads. This is a role for someone looking to join a fast-growing sales team. We’re looking for true leaders and sales professionals. We need a passionate individual eager to play a key role in driving the go-to-market efforts of a fast-growing company that will be the next iconic brand (imagine being one of the first 100 people at Amazon or Google). The goal of the BPO Consultant is to help enable Invisible’s mission to automate repetitive work for every company so people can focus on their real work. You will be responsible for leading a Sales team to hit monthly targets, build pipeline, and play a key role in helping us grow 3x again in 2022.
- 
-Who We Want
-
-BPO Consultants are the foundation of our team. Our ability to achieve our goals comes down, in large part, to the type and number of clients you add. Our GAs represent expert engagement layered on top of product-led process discovery. GAs will work with the Customer Success, Operations &amp; Product teams to ensure clients under his or her charge receive world-class operational service: high-quality results delivered quickly, within budget, customized to the client’s needs. We are looking for individuals with the full spectrum of abilities and we are extremely selective. The ideal candidate is a blend of 3 key strengths: 
- 
-- Consultative Selling (Customer-Centric): Ability to work with multiple internal stakeholders at a midmarket company to bring a sale from concept to across the finish line. Strong business acumen to identify cross-functional business needs and anchor Invisible’s solution to multiple teams.
-
-- Hunter-Mentality: The right candidate will proactively build and manage their pipeline to exceed their monthly, quarterly &amp; annual targets while closing good-fit clients. Whether things are going well or not as well, the right candidate will find a way to win. 
-
--Executive Presence: Strong gravitas the ability to sell to VP-level and C-level executives within midmarket companies. Strong relationship-building skills. 
- 
-This ‘consultative-selling’ is key to continuing our high growth trajectory: we grew 3x in 2020, 4x in 2021, and plan to grow rapidly by 3x again in 2022.  We are looking for individuals with the full spectrum of abilities and we are extremely selective. 
-
-
-
-</description><pubDate>Thu, 08 Sep 2022 20:17:14 +0000</pubDate></item><item><title>AI Data Trainer</title><link>https://jobs.lever.co/invisible/98e88f07-713d-4766-a1ca-576a548331da</link><description>What is Invisible
-
-Website : http://www.inv.tech/
-Blog: https://inv.tech/blog
-Overview / Sales Deck - https://invtech.docsend.com/view/6kp3ixp
-Recorded Demo - https://www.youtube.com/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI
-Core Values: https://www.notion.so/invisibletech/d8add47d17584715a62aa4d46f0270b8?v=187ce27ec02f4bfaa2aed9f3f2c6ad6d 
-
-
-Who We Are
-Invisible Technologies helps fast-growing companies scale efficiently, so they can improve margins and capture market share at the same time. We partner with our clients to run their business operations using our modern outsourcing platform to deliver efficiency, quality, and flexibility at scale.
-
-This role will be the primary tool in developing an AI model, and that candidate must operate with respect for the position and command the responsibilities within each project. The candidate must execute high-level work within a defined grading rubric or risk replacement. 
-
-This position will be a summer internship with an opportunity to develop into a full-time job upon project completion. The AI training model offers a multitude of projects with a continuous timeline for ongoing development. 
-
-We Believe That
-* Mission. Invisible is a world-changing company and the Operations Team is responsible for creating the systems that will launch Invisible into the stratosphere.
-* Ownership. Every partner on the team is the “CEO” of their area - each of us are empowered  to jump in and solve the problems in front of us.
-* Communication. Consistent feedback is key - we are addicted to learning and getting better.
-* Transparency. What one of us knows, all of us should know.
-* Self-Improvement. Every new mistake is a learning opportunity.
-* Meritocracy. The value someone produces should be reflected back in the position of responsibility and compensation that they receive.
-
-Who We Want
-The AI Data Trainer role is ideally targeted towards academically inclined, native English-speaking collegiate students; Data Labelers must be responsible and possess a strong work ethic, schedules are flexible within US working hours but some projects could have more strict requirements. Ideal Data Labelers are passionate about organising data sets, researching and synthesising data, and responding to prompts based on abstract concepts and other similar traits; successful applicants likely have a background working on projects that require labeling sets of data by following procedures and guides. Access to a personal computer strong internet connection advanced analytical skills advanced writing skills.
-
-About the Role
-This role is focused around providing accurate data by labeling AI-generated prompts and generating high-quality responses for prompts covering general topics. A successful candidate is able to follow detailed instructions that direct the way each section of the process should be executed. Candidates must execute high-level work within a defined grading rubric and be able to upgrade and improve in a fast-paced environment. 
-
-What you will be doing
-The goal of an AI Data Trainer is to help train and develop AI systems through model interaction, interpretation of prompts, researching topics, evaluating use cases, and dictating best results. The AI Data Labeler will work closely with our operations team to execute multiple projects within a defined scope and deliver results on a predetermined timeline. This role works closely with operations to provide up-to-date feedback and review of the system models through analytical reporting and presentations. 
- 
-Candidates must possess the following:
-* Access to a personal computer
-* Strong internet connection
-* Advanced analytical skills
-* Advanced writing/spoken English skills
-
-Other details :
-*Candidates should be ready to work under deadline pressure and manage multiple projects
-*Candidates should be organized and their work should be aligned with defined guidelines through the different steps. 
-
-Job Type: Contract, 20-40 hours per week dependent on volume.
-
-Required language: English
-</description><pubDate>Tue, 28 Jun 2022 13:26:48 +0000</pubDate></item><item><title>Agent Operator : General Application</title><link>https://jobs.lever.co/invisible/7335d0e5-5eca-4375-81d3-55f4454f3b85</link><description>What is Invisible?
-
-Website : http://www.inv.tech/
-Recorded Demo: https://www.youtube.com/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI
-
-Who are we?
-
-We are Invisible’s Operation Team. We solve problems at scale so they never happen again. At our best, we solve problems before they happen. How?
-
-We Believe That
--- Invisible is a world-changing company and the Operation Team is responsible for creating the systems that will launch Invisible into the stratosphere
--- Exponential gains from systems &gt; Short term linear work &gt; Systems for system's sake
--- Consistent feedback is key - we are addicted to learning and getting better
--- What one of us knows, all of us should know
--- Every new mistake is a learning opportunity
-
-Because of these beliefs, we’ve built a team where
-
--- Distributed approaches and centralized intelligence merge. Each teammate is constantly innovating and trying something new. Every mistake is prevented by all. Every success is learned by all.
--- Each of us contains the sum of the knowledge, intelligence, and creativity of our entire team.
--- We evolve and mutate constantly like an organism, identifying successful and problematic tactics and incorporating ideas from any source.
-
-What is an Agent?
-
-An Agent is a member of Invisible’s elite workforce.
-
-Who are the Agents?
-Invisible’s agents are an international group of passionate, restless humans striving to constantly grow, learn, and build a better future for themselves and the world.
-
-An agent is… 
-— a father in the Philippines, providing for his whole family. 
-— a college student in Kenya, searching for a bright future. 
-— a stay-at-home mom in Texas, desiring to learn but constrained at home. 
-— a high school student in Ohio, frustrated by a dysfunctional school system. 
-— a bachelor in Poland, seeking to both work and learn.
-An agent is you.
-
-What do Operators do?
-The Operator is the starting position of Invisible’s Agents. Operators are the frontline of the Digital Assembly Line. As its name implies, the operator operates. They are the infantry that makes up most of our workforce, doing work for clients, executing Process instructions, and organizing data.
-
-Operates processes.
-An operator reads the instructions of a process and operates them to accomplish work for a client.
-- Example: an operator will read these instructions (screenshot) to send a legal agreement. 
-
-Assigned to a prime.
-A prime is a group of processes. An operator is assigned to a Prime, or a series of primes, to gain expertise in related processes. In a prime, an operator will interact closely with the Manager and other operators of that prime.
-- Example: an operator assigned to the Calendar prime will do processes like “Scheduling a Meeting”, “Sending a Reminder”, “Sending a Daily Agenda”, etc.
-
-Communicates with clients.
-An operator will communicate to the client according to the instructions of a process. Much of this communication is templated in a process, but it will stray from the instructions from time-to-time and the operator will need to create a unique response. When communicating to a client, an operator will have to write in the voice of the client’s synthetic Assistant, and not in the operator’s own voice.
-- Example: John Keats is the assistant for client Francis Pedraza. When responding to Francis, the operator will have to be communicating in the voice of John Keats.
-
-Gives feedback.
-An operator gives feedback on process instructions to other agents, who upgrades the process based on that feedback. This feedback can be proactive from the operator seeing potential improvements, or reactive from the operator making an implicit mistake that can be avoided with clearer instructions.
-- Proactive Example: an operator realizes that two steps involving navigating a website can be consolidated into one step, with a link leading to the desired destination. The operator will give the builder constructive feedback and offer a suggestion on how to upgrade the process.
-- Reactive Example: an operator uses the wrong format to name a calendar event, but it was never stated to use that format in the process. The operator will then let the builder know of this mistake and offer a suggestion on how to upgrade the process.
-
-Tracks time.
-An operator tracks the time it takes for them to operate an instance of a specific process. 
-
-Tracks work.
-An operator tracks every instance of process operation for a specific client in the client’s dashboard—located in a Google Sheet. The operator also logs any mistake they make and any preference the client sets.
-- Example: an operator will track the name of the prime, process, and specific instance, along with start and end dates, and the minutes it took to complete the instance.
-
-*This position is constantly monitored for new applicants and a member of our hiring team will reach out once there is a new project available. This may take some time, however, once a project begins we will reach out to you to begin the hiring process.
-
-
-</description><pubDate>Tue, 12 Jan 2021 22:32:55 +0000</pubDate></item><item><title>Advanced AI Data Trainer</title><link>https://jobs.lever.co/invisible/d702ee49-7b8f-401d-b62e-25648b16fdb3</link><description>What is Invisible
-
-Website : http://www.inv.tech/
-Blog: https://inv.tech/blog
-Overview / Sales Deck - https://invtech.docsend.com/view/6kp3ixp
-Recorded Demo - https://www.youtube.com/playlist?list=PL4135pGQh8yvHRwKatYrMDuKL7ODHBXHI
-Core Values: https://www.notion.so/invisibletech/d8add47d17584715a62aa4d46f0270b8?v=187ce27ec02f4bfaa2aed9f3f2c6ad6d 
-
-
-Who We Are
-Invisible Technologies helps fast-growing companies scale efficiently, so they can improve margins and capture market share at the same time. We partner with our clients to run their business operations using our modern outsourcing platform to deliver efficiency, quality, and flexibility at scale.
-
-This role will be the primary tool in developing an AI model, and that candidate must operate with respect for the position and command the responsibilities within each project. The candidate must execute high-level work within a defined grading rubric or risk replacement. 
-
-This position will be a summer internship with an opportunity to develop into a full-time job upon project completion. The AI training model offers a multitude of projects with a continuous timeline for ongoing development. 
-
-We Believe That
-* Mission. Invisible is a world-changing company and the Operations Team is responsible for creating the systems that will launch Invisible into the stratosphere.
-* Ownership. Every partner on the team is the “CEO” of their area - each of us are empowered  to jump in and solve the problems in front of us.
-* Communication. Consistent feedback is key - we are addicted to learning and getting better.
-* Transparency. What one of us knows, all of us should know.
-* Self-Improvement. Every new mistake is a learning opportunity.
-* Meritocracy. The value someone produces should be reflected back in the position of responsibility and compensation that they receive.
-
-Who We Want
-Natural Language Processing Specialist is academically inclined, native English-speaking collegiate students. Natural Language Processing Specialists must be responsible and possess a strong work ethic and a flexible schedule willing to accept a fixed working schedule based on their availability. 
-
-Candidates are expected to be in good academic standing and actively enrolled in collegiate studies.
-
-What you will be doing
-- Evaluate AI performance and redirect AI output
-- Interpret data for accuracy
-- Research and cite information in academic formats based on a given topic
-- Draft responses to improve AI model function
-- Generate topics for AI training 
-- Review past output and provide evaluations
- 
-Candidates must possess the following:
-
-* Access to a personal computer
-* Strong internet connection
-* Advanced analytical skills
-* Advanced writing skills
-
-Other details :
-
-* You should have the ability to work under deadline pressure and manage multiple projects
-* You must organize all projects in folders for easy searching
-* Ability to grow and earn more responsibility and salary
-
-Job Type: Contract, 20-40 hours per week dependent on volume.
-
-Required language: English
-</description><pubDate>Wed, 20 Apr 2022 19:37:26 +0000</pubDate></item><item><title>Accounting Associate</title><link>https://jobs.lever.co/invisible/21821ac7-d915-41d1-97fc-5c466f115d3c</link><description>We are currently looking to fill this position ASAP.
-
-What is Invisible?
-
-Website 
-Blog 
-Strategy Blog 
-Overview / Sales Deck
-Recorded Demo
-Meet Invisible
-
-Who are we
-We are Invisible’s Finance Team. We solve problems at scale so they never happen again. At our best, we solve problems before they happen. 
-
-We Believe That
-- Invisible is a world-changing company 
-- Consistent feedback is key - we are addicted to learning and getting better
-- What one of us knows, all of us should know
-- Every new mistake is a learning opportunity
-
-Because of these beliefs, we’ve built a team where
-- Distributed approaches and centralized intelligence merge. Each teammate is constantly innovating and trying something new. Every mistake is prevented by all. Every success is learned by all
-- Each of us contains the sum of the knowledge, intelligence, and creativity of our entire team
-- We evolve and mutate constantly like an organism, identifying successful and problematic tactics and incorporating ideas from any source
-
-The right person already called me and told me these words: I know numbers. I love them and they love me.  I live for finding the lines that aren’t exactly lining up in the financial statements.  I find problems, I fix them and feel very satisfied with a tremendously valuable, perhaps a little tedious,  job well done. I can respond to emails in my sleep and take little joy in perfectly aligned reports. I am detail oriented, contentious, and trustworthy.  I’m a team player but don’t mind working independently.  I am reliable and will make my supervisor breathe a huge sigh of relief when they see an email from me stating, “don’t worry. I’ve got this one.”  
-
-I know the value of steadfastness and kindness, standing by your teammates, and providing excellent service to my customers. My work is flawless and I’m very proud of that fact.  At the end of the day, I’ll know that Invisible will be dramatically improved by my modest, but essential, contribution.  I will take great pride in the work we do at Invisible. I’ll know, without my efforts, the company couldn’t function and continue to grow into an unstoppable, paradigm-altering force.  
-
-</description><pubDate>Wed, 01 Jun 2022 18:56:56 +0000</pubDate></item></channel></rss>
+</description><pubDate>Tue, 30 Aug 2022 19:36:46 +0000</pubDate></item></channel></rss>
