@@ -45,10 +45,7 @@ def main():
 
     all_requests = (grequests.get(url) for url in urls)
 
-    responses = grequests.imap(
-        all_requests,
-        exception_handler=_handle_exception
-    )
+    responses = grequests.imap(all_requests, exception_handler=_handle_exception, size=5)
 
     for name, url, response in zip(names, urls, responses):
         _job_xml_to_rss(name, url, response)
