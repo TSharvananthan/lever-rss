@@ -1,5 +1,4 @@
 from feedgen.feed import FeedGenerator
-from time import sleep
 from datetime import datetime, timezone
 import grequests
 
